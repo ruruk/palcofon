@@ -1,0 +1,163 @@
+[
+  {
+    "id": "app1",
+    "name": "High-mast Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/highmast.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app2",
+    "name": "Harardous Areas",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/hazardous.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app3",
+    "name": "Petrol Station Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/petrol.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app4",
+    "name": "Sports field lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/sport.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app5",
+    "name": "Street Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/street.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app6",
+    "name": "Outdoor Perimeter Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/outdoor.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app7",
+    "name": "Warehouse Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/Warehouse.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app8",
+    "name": "Mining Lights",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/Mining.webp/",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app9",
+    "name": "Retail Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/Retail.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app10",
+    "name": "Solar Powered Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/Solar.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app11",
+    "name": "Office Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/office.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app12",
+    "name": "Fridge Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/fridge.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app13",
+    "name": "UV Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/uv.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app15",
+    "name": "Cove Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/cove.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app16",
+    "name": "Recessed Office Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/recessed.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app17",
+    "name": "Cold Room Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/coldroom.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app18",
+    "name": "Retrofit LED Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/retrofitLED.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app19",
+    "name": "Custom LED Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/custom.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app20",
+    "name": "Showroom LED Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/showroom.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  },
+  {
+    "id": "app21",
+    "name": "Food Processing Lighting",
+    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "main_image": "/StaticImages/food.webp",
+    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
+    "PDF_link": "/healthcare-lighting-guide.pdf"
+  }
+]
+

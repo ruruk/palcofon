@@ -1,0 +1,4058 @@
+[
+  {
+    "id": "prod1",
+    "name": "Adjustable UFO LED Highbay",
+    "description": "The innovative adjustable beam angle LED highbay is a revolutionary new series of LED highbay allowing the user to adjust the beam angle according to the requirements of the application. The light output beam angle can be adjusted to three settings. 145lm/w.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/UFO1.png",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/1F47CAB6-90C7-46D0-8148-C50711E4D401.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/HB.jpg/:/rs=w:1280,h:1345",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/HB12.png/:/",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/LEns.JPEG/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280,h:1707",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/HB.jpg/:/rs=w:1280,h:1345"
+    ],
+    "certification_images": [
+      "/certificationImages/c5YW.jpeg",
+      "/certificationImages/cIP65.jpeg",
+      "/certificationImages/cSA.jpeg"
+    ],
+    "wattage": "150W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "5000K",
+    "category_id": "cat1",
+    "application_ids": ["app7"],
+    "beam_angle": "60° 90° 105°",
+    "luminous_flux": "23250lm",
+    "power_factor": "0.95",
+    "surge_protection": "6kV (10kV optional)",
+    "housing_material": "Durable Aluminium Casing",
+    "dimming": "1-10V",
+    "operating_temperature": "20°C to 50°C",
+    "additional_images": [
+      {
+        "title": "Thermal Image",
+        "image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/E00E36A2-0CF3-4E94-85D4-53E6C3BD7190.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,cg:true"
+      },
+      {
+        "title": "2D Distribution Curve",
+        "image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_3220.jpeg/:/cr=t:0%25,l:25.38%25,w:49.24%25,h:100%25/rs=w:365,h:487,cg:true"
+      }
+    ],
+    "video_link": "https://vimeo.com/938140609/28f520bf96",
+    "video_type": "vimeo",
+    "PDF_link": "/stellar-pendant-spec-sheet.pdf",
+    "features": [
+      "Adjustable Beam Angle (60°, 90°, 105°)",
+      "Constant Current LED Control Gear",
+      "Diffusion Lens",
+      "Power Selection Switch: Low, Medium, High",
+      "High Lumen 3030 LED"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "ELHB150",
+          "power": "150W",
+          "luminous_flux": "23250lm",
+          "beam_angle": "60° 90° 105°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 277V",
+      "frequency": "50/60Hz",
+      "power_factor": "0.95"
+    },
+    "photometric_data": {
+      "luminous_flux": "155lm/w",
+      "colour_rendering_index": "<80",
+      "colour_temperature": "5000K"
+    },
+    "standards": {
+      "compliance": ["SANS (IEC) 60598", "IEC 60529", "CE", "RoHS"],
+      "ip_rating": "IP65",
+      "ik_rating": "IK08",
+      "surge_protection": "6kV (10kV optional)"
+    },
+    "operating_conditions": {
+      "operating_temperature": "20°C to 50°C",
+      "humidity": "0 - 95%",
+      "led_life_span": "50,000hrs (L80 B10) @ 25°C"
+    },
+    "dimensions": [
+      {
+        "model": "ELHB150",
+        "diameter": "271mm",
+        "height": "150mm",
+        "weight": "2.5Kg"
+      }
+    ]
+  },
+  {
+    "id": "prod2",
+    "name": "Linear LED Highbay",
+    "description": "The Linear highbay delivers class-leading versatility with effortless efficiency. Engineered with precision, it operates interchangeably between Highbay and Flood light applications, providing IP65 rugged durability.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Linear%20HB.jpeg",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/LHB.jpeg/:/rs=w:1280,h:766",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/AEDB5F66-5C33-421F-AAEF-8B4142A4E36A.jpeg/:/rs=w:1280,h:960",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/E562A0D3-51A7-4451-86BE-B98ADEAD38CD.jpeg/:/rs=w:1280,h:960"
+    ],
+    "certification_images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Made%20SA.jpeg/:/rs=w:100,h:100,cg:true,m/cr=w:100,h:100",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2931.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:167,h:100,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IP65.jpeg/:/rs=w:100,h:100,cg:true,m/cr=w:100,h:100"
+    ],
+    "wattage": "50W - 200W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K & 6000K",
+    "category_id": "cat1",
+    "application_ids": ["app7"],
+    "beam_angle": "30° 60° 90° 120°",
+    "luminous_flux": "7000lm - 28000lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in (10KV optional)",
+    "housing_material": "Aluminium Heatsink, High Impact Polycarbonate Diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [
+      {
+        "title": "Thermal Efficiency",
+        "image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/7DF40E9A-04CC-4B80-B06A-61FD3812F407.jpeg"
+      }
+    ],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/LHB_SPEC_SHEET.pdf",
+    "features": [
+      "140 - 165LM/W system efficiency",
+      "Rugged IP65 durability for industrial and outdoor use",
+      "Multi-angle secure lock steel stirrup for easy installation",
+      "Corrosion-resistant construction",
+      "Replaces HPS & HID",
+      "Energy efficient with low maintenance"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "LHB50",
+          "power": "50W",
+          "luminous_flux": "7000lm",
+          "beam_angle": "30° 60° 90° 120°"
+        },
+        {
+          "model": "LHB100",
+          "power": "100W",
+          "luminous_flux": "14000lm",
+          "beam_angle": "30° 60° 90° 120°"
+        },
+        {
+          "model": "LHB150",
+          "power": "150W",
+          "luminous_flux": "21000lm",
+          "beam_angle": "30° 60° 90° 120°"
+        },
+        {
+          "model": "LHB200",
+          "power": "200W",
+          "luminous_flux": "28000lm",
+          "beam_angle": "30° 60° 90° 120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 305V AC",
+      "frequency": "50Hz",
+      "power_factor": "0.95"
+    },
+    "photometric_data": {
+      "luminous_flux": "Up to 28000lm",
+      "colour_rendering_index": "70 / 80",
+      "colour_temperature": "4000K & 6000K"
+    },
+    "standards": {
+      "compliance": ["SANS (IEC) 60598", "IEC 60529", "CE", "RoHS"],
+      "ip_rating": "IP65",
+      "ik_rating": "IK08",
+      "surge_protection": "4KV built-in (10KV optional)"
+    },
+    "operating_conditions": {
+      "operating_temperature": "-25°C to +45°C",
+      "humidity": "0 - 95%",
+      "storage_temperature": "-25°C to +65°C",
+      "led_life_span": "50,000hrs"
+    },
+    "dimensions": [
+      {
+        "model": "LHB50",
+        "length": "300mm",
+        "height": "80mm",
+        "width": "150mm",
+        "weight": "2.5Kg"
+      },
+      {
+        "model": "LHB200",
+        "length": "1200mm",
+        "height": "80mm",
+        "width": "150mm",
+        "weight": "7.9Kg"
+      }
+    ]
+  },
+  {
+    "id": "prod3",
+    "name": "Titan Modular LED Highbay",
+    "description": "The Titan delivers class-leading versatility with effortless efficiency. Engineered for Highbay, Flood light, and High-mast applications with IP65 rugged durability. Designed for high performance, energy efficiency, and long-term reliability.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/TITAN%20HB.jpeg",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A298F660-CF4F-4921-B9B0-6C5E6742C41C.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2829.jpeg/:/cr=t:7.46%25,l:0%25,w:100%25,h:85.07%25/rs=w:984,h:740",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2831.jpeg/:/cr=t:0%25,l:2.34%25,w:95.33%25,h:100%25/rs=w:719,h:541",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2830.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1160,h:644"
+    ],
+    "certification_images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Made%20SA.jpeg/:/rs=w:100,h:100,cg:true,m/cr=w:100,h:100",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2931.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:167,h:100,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IP65.jpeg/:/rs=w:100,h:100,cg:true,m/cr=w:100,h:100"
+    ],
+    "wattage": "100W - 200W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K & 6000K",
+    "category_id": "cat1",
+    "application_ids": ["app7", "app4"],
+    "beam_angle": "30° 60° 90° 120°",
+    "luminous_flux": "14000lm - 33000lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in (10KV optional)",
+    "housing_material": "Aluminium Heatsink, High Impact Polycarbonate Diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [
+      {
+        "title": "Light Distribution Options",
+        "image": "https://img1.wsimg.com/isteam/ip/example/Titan_distribution.png"
+      },
+      {
+        "title": "Thermal Efficiency",
+        "image": "https://img1.wsimg.com/isteam/ip/example/Titan_thermal.png"
+      }
+    ],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/TitanModular.pdf",
+    "features": [
+      "140 - 165LM/W system efficiency",
+      "Rugged IP65 durability for industrial and outdoor use",
+      "Multi-angle secure lock steel stirrup for easy installation",
+      "Corrosion-resistant construction",
+      "Replaces HPS & HID",
+      "Energy efficient with low maintenance",
+      "Made in South Africa"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "T100FL",
+          "power": "100W",
+          "luminous_flux": "14000 - 16500lm",
+          "beam_angle": "30° 60° 90° 120°"
+        },
+        {
+          "model": "T150FL",
+          "power": "150W",
+          "luminous_flux": "21000 - 24750lm",
+          "beam_angle": "30° 60° 90° 120°"
+        },
+        {
+          "model": "T200FL",
+          "power": "200W",
+          "luminous_flux": "28000 - 33000lm",
+          "beam_angle": "30° 60° 90° 120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 305V AC",
+      "frequency": "50Hz",
+      "power_factor": "0.95"
+    },
+    "photometric_data": {
+      "luminous_flux": "Up to 33000lm",
+      "colour_rendering_index": "70 / 80",
+      "colour_temperature": "4000K & 6000K"
+    },
+    "standards": {
+      "compliance": ["SANS (IEC) 60598", "IEC 60529", "CE", "RoHS"],
+      "ip_rating": "IP65",
+      "ik_rating": "IK08",
+      "surge_protection": "4KV built-in (10KV optional)"
+    },
+    "operating_conditions": {
+      "operating_temperature": "-25°C to +45°C",
+      "humidity": "0 - 95%",
+      "storage_temperature": "-25°C to +65°C",
+      "led_life_span": "50,000hrs"
+    },
+    "dimensions": [
+      {
+        "model": "T100FL",
+        "length": "320mm",
+        "height": "100mm",
+        "width": "320mm",
+        "weight": "3.4Kg"
+      },
+      {
+        "model": "T150FL",
+        "length": "410mm",
+        "height": "100mm",
+        "width": "320mm",
+        "weight": "4.5Kg"
+      },
+      {
+        "model": "T200FL",
+        "length": "500mm",
+        "height": "100mm",
+        "width": "320mm",
+        "weight": "6.1Kg"
+      }
+    ]
+  },
+  {
+    "id": "prod4",
+    "name": "TriProof Gen 1",
+    "description": "The Gen1 Tri-Proof Linear Luminaire is a highly durable lighting system designed for industrial and commercial environments. With IP65 and IK08 ratings, it provides uniform illumination with energy efficiency.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2884.jpeg",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2884.jpeg/:/cr=t:0%25,l:5.69%25,w:88.62%25,h:100%25/rs=w:600,h:451,cg:true"
+    ],
+    "certification_images": [
+      "https://img1.wsimg.com/isteam/ip/example/IP65_cert.png",
+      "https://img1.wsimg.com/isteam/ip/example/SANS_cert.png"
+    ],
+    "wattage": "18W - 60W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat2",
+    "application_ids": ["app8", "app9", "app17", "app21"],
+    "beam_angle": "120°",
+    "luminous_flux": "130LM/W",
+    "power_factor": ">0.97",
+    "surge_protection": "10KV optional",
+    "housing_material": "Aluminium Alloy (6063) cooling tray, Polycarbonate Diffuser",
+    "dimming": "DALI-2 Digital Control Gear available",
+    "operating_temperature": "-20°C to +50°C",
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/TriproofGen1_Spec_Sheet.pdf",
+    "features": [
+      "IP65 Rated for industrial use",
+      "IK08 Impact Resistance",
+      "130LM/W system efficiency",
+      "Corrosion resistant and impact resistant",
+      "Made in South Africa",
+      "Multiple colour temperatures available (3000K - 6000K)"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "TRIPG1-2",
+          "power": "18W / 26W",
+          "luminous_flux": "Up to 4020lm",
+          "beam_angle": "120°"
+        },
+        {
+          "model": "TRIPG1-4",
+          "power": "36W / 48W",
+          "luminous_flux": "Up to 7435lm",
+          "beam_angle": "120°"
+        },
+        {
+          "model": "TRIPG1-5",
+          "power": "46W / 60W",
+          "luminous_flux": "Up to 9295lm",
+          "beam_angle": "120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 277V (305V) AC",
+      "frequency": "50 / 60 Hz",
+      "power_factor": ">0.97"
+    },
+    "photometric_data": {
+      "luminous_flux": "130LM/W",
+      "colour_rendering_index": "82Ra",
+      "colour_temperature": "3000K, 4000K, 5000K, 6000K"
+    },
+    "standards": {
+      "compliance": ["SANS (IEC) 60598", "IEC 60529", "CE", "RoHS"],
+      "ip_rating": "IP65",
+      "ik_rating": "IK08",
+      "surge_protection": "10KV optional"
+    },
+    "operating_conditions": {
+      "operating_temperature": "-20°C to +50°C",
+      "humidity": "0 - 95%",
+      "storage_temperature": "-25°C to +65°C",
+      "led_life_span": "50,000hrs (L70B10)"
+    },
+    "dimensions": [
+      {
+        "model": "TRIPG1-2",
+        "length": "600mm",
+        "height": "50mm",
+        "width": "48mm",
+        "weight": ""
+      },
+      {
+        "model": "TRIPG1-4",
+        "length": "1200mm",
+        "height": "50mm",
+        "width": "48mm",
+        "weight": ""
+      },
+      {
+        "model": "TRIPG1-5",
+        "length": "1500mm",
+        "height": "50mm",
+        "width": "48mm",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": "prod5",
+    "name": "TriProof Gen 2",
+    "description": "The Gen2 Tri-Proof Linear Luminaire is built for extreme conditions, offering enhanced durability with IP66 and IK09 ratings. Made in South Africa, it delivers high efficiency with a system efficacy of 130LM/W.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2879.png",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2879.png/:/rs=w:600,h:451.12781954887214,cg:true,m/cr=w:600,h:451.12781954887214"
+    ],
+    "certification_images": [
+      "https://img1.wsimg.com/isteam/ip/example/IP66_cert.png",
+      "https://img1.wsimg.com/isteam/ip/example/SANS_cert.png"
+    ],
+    "wattage": "18W - 60W",
+    "ip_rating": "IP66",
+    "warranty": "5 years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat2",
+    "application_ids": ["app8", "app9", "app10", "app17", "app21"],
+    "beam_angle": "120°",
+    "luminous_flux": "130LM/W",
+    "power_factor": ">0.97",
+    "surge_protection": "10KV optional",
+    "housing_material": "Aluminium Alloy (6063) cooling tray, Polycarbonate Diffuser",
+    "dimming": "DALI-2 Digital Control Gear available",
+    "operating_temperature": "-20°C to +55°C",
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/TriproofGen2_Spec_Sheet.pdf",
+    "features": [
+      "IP66 Rated for extreme conditions",
+      "IK09 Impact Resistance",
+      "130LM/W system efficiency",
+      "Corrosion resistant and impact resistant",
+      "Made in South Africa",
+      "Multiple colour temperatures available (3000K - 6000K)"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "TRIPG2-2",
+          "power": "18W / 26W",
+          "luminous_flux": "Up to 4020lm",
+          "beam_angle": "120°"
+        },
+        {
+          "model": "TRIPG2-4",
+          "power": "36W / 48W",
+          "luminous_flux": "Up to 7435lm",
+          "beam_angle": "120°"
+        },
+        {
+          "model": "TRIPG2-5",
+          "power": "46W / 60W",
+          "luminous_flux": "Up to 9295lm",
+          "beam_angle": "120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 277V (305V) AC",
+      "frequency": "50 / 60 Hz",
+      "power_factor": ">0.97"
+    },
+    "photometric_data": {
+      "luminous_flux": "130LM/W",
+      "colour_rendering_index": "82Ra",
+      "colour_temperature": "3000K, 4000K, 5000K, 6000K"
+    },
+    "standards": {
+      "compliance": ["SANS (IEC) 60598", "IEC 60529", "CE", "RoHS"],
+      "ip_rating": "IP66",
+      "ik_rating": "IK09",
+      "surge_protection": "10KV optional"
+    },
+    "operating_conditions": {
+      "operating_temperature": "-20°C to +55°C",
+      "humidity": "0 - 95%",
+      "storage_temperature": "-25°C to +65°C",
+      "led_life_span": "50,000hrs (L70B10)"
+    }
+  },
+  {
+    "id": "prod6",
+    "name": "Titan Flood Light 100W",
+    "description": "The Titan Flood Light 100W is a high-performance, energy-efficient industrial-grade flood light. Engineered for reliability and designed for rugged durability, it is ideal for general area lighting, sports fields, warehouses, and high-mast applications.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/2DC7AF00-BB38-4B26-88D7-DC519739BFC2.jpeg",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/2DC7AF00-BB38-4B26-88D7-DC519739BFC2.jpeg/:/cr=t:18.34%25,l:23.84%25,w:49.73%25,h:56.18%25/rs=w:600,h:451,cg:true,m"
+    ],
+    "certification_images": [],
+    "wattage": "100W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K & 6000K",
+    "category_id": "cat3",
+    "application_ids": ["app1", "app4", "app6"],
+    "beam_angle": "30° 60° 90° 120°",
+    "luminous_flux": "14000-16500lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in (10KV optional)",
+    "housing_material": "Aluminium Heatsink, High Impact Polycarbonate Diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/TitanFlood_100W_Spec_Sheet.pdf",
+    "features": [
+      "140 - 165LM/W system efficiency",
+      "IP65 / IK09 rated",
+      "Corrosion-resistant construction",
+      "Designed for industrial and commercial applications",
+      "Multi-angle secure lock steel stirrup for easy installation"
+    ],
+    "technical_specs": {
+      "model": "T100FL",
+      "power": "100W",
+      "luminous_flux": "14000-16500lm",
+      "beam_angle": "30° 60° 90° 120°"
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 305V AC",
+      "frequency": "50Hz",
+      "power_factor": "0.95"
+    },
+    "photometric_data": {
+      "luminous_flux": "140LM/W",
+      "colour_rendering_index": "70 / 80",
+      "colour_temperature": "4000K & 6000K"
+    },
+    "standards": {
+      "compliance": ["SANS (IEC) 60598", "IEC 60529", "CE", "RoHS"],
+      "ip_rating": "IP65",
+      "ik_rating": "IK09",
+      "surge_protection": "4KV built-in (10KV optional)"
+    },
+    "operating_conditions": {
+      "operating_temperature": "-25°C to +45°C",
+      "humidity": "0 - 95%",
+      "storage_temperature": "-25°C to +65°C",
+      "led_life_span": "50,000hrs"
+    },
+    "dimensions": {
+      "length": "320mm",
+      "height": "100mm",
+      "width": "320mm",
+      "weight": "3.4Kg"
+    }
+  },
+  {
+    "id": "prod7",
+    "name": "Titan Flood Light 150W",
+    "description": "The Titan Flood Light 150W is an industrial-grade high-performance lighting solution. Designed for rugged outdoor applications, it ensures uniform illumination with energy efficiency.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_3150.webp",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_3150.webp/:/cr=t:5.37%25,l:5.36%25,w:89.29%25,h:89.26%25/rs=w:600,h:451,cg:true,m"
+    ],
+    "certification_images": [],
+    "wattage": "150W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K & 6000K",
+    "category_id": "cat3",
+    "application_ids": ["app1", "app4", "app6"],
+    "beam_angle": "30° 60° 90° 120°",
+    "luminous_flux": "21000-24750lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in (10KV optional)",
+    "housing_material": "Aluminium Heatsink, High Impact Polycarbonate Diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/TitanFlood_150W_Spec_Sheet.pdf",
+    "features": [
+      "140 - 165LM/W system efficiency",
+      "IP65 / IK09 rated",
+      "Industrial-grade durability",
+      "Multi-angle secure lock installation"
+    ],
+    "technical_specs": {
+      "model": "T150FL",
+      "power": "150W",
+      "luminous_flux": "21000-24750lm",
+      "beam_angle": "30° 60° 90° 120°"
+    },
+    "dimensions": {
+      "length": "410mm",
+      "height": "100mm",
+      "width": "320mm",
+      "weight": "4.5Kg"
+    }
+  },
+  {
+    "id": "prod8",
+    "name": "Titan Flood Light 200W",
+    "description": "The Titan Flood Light 200W is a high-performance floodlight ideal for high-mast applications, sports fields, and general outdoor lighting. Designed for durability and efficiency, it provides consistent and powerful illumination.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_3151.webp",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_3151.webp/:/cr=t:7.64%25,l:7.63%25,w:84.75%25,h:84.73%25/rs=w:600,h:451,cg:true,m"
+    ],
+    "certification_images": [],
+    "wattage": "200W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K & 6000K",
+    "category_id": "cat3",
+    "application_ids": ["app1", "app4", "app6"],
+    "beam_angle": "30° 60° 90° 120°",
+    "luminous_flux": "28000-33000lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in (10KV optional)",
+    "housing_material": "Aluminium Heatsink, High Impact Polycarbonate Diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/TitanFlood_200W_Spec_Sheet.pdf",
+    "features": [
+      "140 - 165LM/W system efficiency",
+      "IP65 / IK09 rated",
+      "Engineered for sports fields and large outdoor spaces",
+      "Rugged durability and long lifespan"
+    ],
+    "technical_specs": {
+      "model": "T200FL",
+      "power": "200W",
+      "luminous_flux": "28000-33000lm",
+      "beam_angle": "30° 60° 90° 120°"
+    },
+    "dimensions": {
+      "length": "500mm",
+      "height": "100mm",
+      "width": "320mm",
+      "weight": "6.1Kg"
+    }
+  },
+  {
+    "id": "prod9",
+    "name": "Industrial Flood Light 50W",
+    "description": "The Industrial Flood Light 50W is engineered for durability and efficiency, offering high-quality illumination in industrial and commercial environments. Designed with corrosion resistance and IP65 protection, it delivers reliable performance in challenging conditions.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/92F3ECF7-2D0D-4DFA-8DFE-140A02933110.JPEG/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:600,h:451,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/92F3ECF7-2D0D-4DFA-8DFE-140A02933110.JPEG/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:600,h:451,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "50W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K & 6000K",
+    "category_id": "cat3",
+    "application_ids": ["app4", "app6"],
+    "beam_angle": "30° 60° 90° 120°",
+    "luminous_flux": "7000 - 8250lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in",
+    "housing_material": "Steel casing, Aluminium Heatsink, High Impact Polycarbonate Diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/IndustroFlood_50W_Spec_Sheet.pdf",
+    "features": [
+      "140 - 165LM/W system efficiency",
+      "IP65 / IK08 rated",
+      "Corrosion-resistant and impact-resistant",
+      "Built-in surge protection",
+      "High-quality Meanwell electronic driver",
+      "Designed for industrial and outdoor applications"
+    ],
+    "technical_specs": {
+      "model": "i50FL",
+      "power": "50W",
+      "luminous_flux": "7000 - 8250lm",
+      "beam_angle": "30° 60° 90° 120°"
+    },
+    "dimensions": {
+      "length": "70mm",
+      "height": "190mm",
+      "width": "320mm",
+      "weight": "2.0Kg"
+    }
+  },
+  {
+    "id": "prod10",
+    "name": "Industrial Flood Light 100W",
+    "description": "The Industrial Flood Light 100W is a high-performance lighting solution built for industrial-grade applications. Designed with IP65 protection and IK08 impact resistance, it ensures reliable operation in demanding environments.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A8873031-1022-4709-A5A2-794D5A4A05F8.JPEG/:/cr=t:20.56%25,l:21.26%25,w:62.34%25,h:62.5%25/rs=w:600,h:451,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A8873031-1022-4709-A5A2-794D5A4A05F8.JPEG/:/cr=t:20.56%25,l:21.26%25,w:62.34%25,h:62.5%25/rs=w:600,h:451,cg:true,m"
+    ],
+    "certification_images": [],
+    "wattage": "100W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K & 6000K",
+    "category_id": "cat3",
+    "application_ids": ["app1", "app4", "app6"],
+    "beam_angle": "30° 60° 90° 120°",
+    "luminous_flux": "14000 - 16500lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in",
+    "housing_material": "Steel casing, Aluminium Heatsink, High Impact Polycarbonate Diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/IndustroFlood_100W_Spec_Sheet.pdf",
+    "features": [
+      "140 - 165LM/W system efficiency",
+      "IP65 / IK08 rated",
+      "Corrosion-resistant and impact-resistant",
+      "Built-in surge protection",
+      "High-quality Meanwell electronic driver",
+      "Designed for industrial and outdoor applications"
+    ],
+    "technical_specs": {
+      "model": "i100FL",
+      "power": "100W",
+      "luminous_flux": "14000 - 16500lm",
+      "beam_angle": "30° 60° 90° 120°"
+    },
+    "dimensions": {
+      "length": "150mm",
+      "height": "220mm",
+      "width": "320mm",
+      "weight": "3.2Kg"
+    }
+  },
+  {
+    "id": "prod11",
+    "name": "Industrial Flood Light 150W",
+    "description": "The Industrial Flood Light 150W offers industrial-grade illumination for high-mast, sports field, and general area lighting applications. With rugged durability and energy-efficient performance, it ensures long-term reliability.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/75A1E253-E18C-4752-8B74-16062E447C1E.jpeg/:/cr=t:5.95%25,l:13.63%25,w:80.44%25,h:80.65%25/rs=w:600,h:451,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/75A1E253-E18C-4752-8B74-16062E447C1E.jpeg/:/cr=t:5.95%25,l:13.63%25,w:80.44%25,h:80.65%25/rs=w:600,h:451,cg:true,m"
+    ],
+    "certification_images": [],
+    "wattage": "150W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K & 6000K",
+    "category_id": "cat3",
+    "application_ids": ["app1", "app4", "app6"],
+    "beam_angle": "30° 60° 90° 120°",
+    "luminous_flux": "21000 - 24750lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in",
+    "housing_material": "Steel casing, Aluminium Heatsink, High Impact Polycarbonate Diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/IndustroFlood_150W_Spec_Sheet.pdf",
+    "features": [
+      "140 - 165LM/W system efficiency",
+      "IP65 / IK08 rated",
+      "Corrosion-resistant and impact-resistant",
+      "Built-in surge protection",
+      "High-quality Meanwell electronic driver",
+      "Designed for industrial and outdoor applications"
+    ],
+    "technical_specs": {
+      "model": "i150FL",
+      "power": "150W",
+      "luminous_flux": "21000 - 24750lm",
+      "beam_angle": "30° 60° 90° 120°"
+    },
+    "dimensions": {
+      "length": "230mm",
+      "height": "250mm",
+      "width": "320mm",
+      "weight": "4.3Kg"
+    }
+  },
+  {
+    "id": "prod12",
+    "name": "Industrial Flood Light 200W",
+    "description": "The Industrial Flood Light 200W is a powerful floodlight designed for large-scale applications. Engineered with high-efficiency LED technology and built for durability, it provides long-lasting illumination in tough environments.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Industroflood.jpeg/:/cr=t:15.88%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451.12781954887214,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Industroflood.jpeg/:/cr=t:15.88%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451.12781954887214,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "200W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K & 6000K",
+    "category_id": "cat3",
+    "application_ids": ["app1", "app4", "app6"],
+    "beam_angle": "30° 60° 90° 120°",
+    "luminous_flux": "28000 - 33000lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in",
+    "housing_material": "Steel casing, Aluminium Heatsink, High Impact Polycarbonate Diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/IndustroFlood_200W_Spec_Sheet.pdf",
+    "features": [
+      "140 - 165LM/W system efficiency",
+      "IP65 / IK08 rated",
+      "Corrosion-resistant and impact-resistant",
+      "Built-in surge protection",
+      "High-quality Meanwell electronic driver",
+      "Designed for industrial and outdoor applications"
+    ],
+    "technical_specs": {
+      "model": "i200FL",
+      "power": "200W",
+      "luminous_flux": "28000 - 33000lm",
+      "beam_angle": "30° 60° 90° 120°"
+    },
+    "dimensions": {
+      "length": "310mm",
+      "height": "280mm",
+      "width": "320mm",
+      "weight": "5.9Kg"
+    }
+  },
+  {
+    "id": "prod13",
+    "name": "Industrial Flood Light 400W",
+    "description": "The Industrial Flood Light 400W is a high-powered floodlight designed for large-scale industrial and outdoor applications. With robust IP65 protection and high-lumen output, it ensures exceptional illumination and long-lasting durability.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/PhotoRoom_20240220_144801.jpg/:/cr=t:3.53%25,l:10.97%25,w:76.73%25,h:76.92%25/rs=w:600,h:451,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/PhotoRoom_20240220_144801.jpg/:/cr=t:3.53%25,l:10.97%25,w:76.73%25,h:76.92%25/rs=w:600,h:451,cg:true,m"
+    ],
+    "certification_images": [],
+    "wattage": "400W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K & 6000K",
+    "category_id": "cat3",
+    "application_ids": ["app1", "app4", "app6"],
+    "beam_angle": "30° 60° 90° 120°",
+    "luminous_flux": "56000 - 66000lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in",
+    "housing_material": "Steel casing, Aluminium Heatsink, High Impact Polycarbonate Diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/IndustroFlood_400W_Spec_Sheet.pdf",
+    "features": [
+      "140 - 165LM/W system efficiency",
+      "IP65 / IK08 rated",
+      "Corrosion-resistant and impact-resistant",
+      "Built-in surge protection",
+      "High-quality Meanwell electronic driver",
+      "Designed for large-scale industrial and outdoor applications"
+    ],
+    "technical_specs": {
+      "model": "i400FL",
+      "power": "400W",
+      "luminous_flux": "56000 - 66000lm",
+      "beam_angle": "30° 60° 90° 120°"
+    },
+    "dimensions": {
+      "length": "380mm",
+      "height": "320mm",
+      "width": "320mm",
+      "weight": "8.1Kg"
+    }
+  },
+  {
+    "id": "prod14",
+    "name": "Gyro Flood Light 100W",
+    "description": "The Gyro Flood Light 100W is designed for industrial and commercial applications requiring versatile illumination. With adjustable lighting angles and rugged IP65 protection, it provides reliable and efficient performance.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/gyro.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/gyro.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "100W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K & 6000K",
+    "category_id": "cat3",
+    "application_ids": ["app4"],
+    "beam_angle": "Adjustable",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "Built-in",
+    "housing_material": "Durable Aluminium Casing",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "Adjustable Lighting Angles",
+      "IP65 / IK09 Rated",
+      "Industrial-Grade Durability",
+      "Designed for outdoor and industrial environments"
+    ],
+    "technical_specs": {
+      "model": "G100FL",
+      "power": "100W",
+      "luminous_flux": "",
+      "beam_angle": "Adjustable"
+    },
+    "dimensions": {
+      "length": "",
+      "height": "",
+      "width": "",
+      "weight": ""
+    }
+  },
+  {
+    "id": "prod18",
+    "name": "Flood Light 30W",
+    "description": "The Flood Light 30W is a commercial-grade lighting solution designed for general outdoor and area lighting applications. Featuring IP66 protection and IK09 impact resistance, it delivers durability and efficiency.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_4773.webp/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_4773.webp/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "30W",
+    "ip_rating": "IP66",
+    "warranty": "3 years",
+    "colour_temp": "4000K & 6000K",
+    "category_id": "cat3",
+    "application_ids": ["app4", "app6"],
+    "beam_angle": "",
+    "luminous_flux": "125LM/W",
+    "power_factor": "",
+    "surge_protection": "Built-in",
+    "housing_material": "Durable Aluminium Casing",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "125LM/W system efficiency",
+      "IP66 / IK09 Rated",
+      "Commercial-Grade Durability",
+      "Designed for outdoor applications"
+    ],
+    "technical_specs": {
+      "model": "O30FL",
+      "power": "30W",
+      "luminous_flux": "125LM/W",
+      "beam_angle": ""
+    },
+    "dimensions": {
+      "length": "",
+      "height": "",
+      "width": "",
+      "weight": ""
+    }
+  },
+  {
+    "id": "prod20",
+    "name": "Ultra-Series T8 LED Tube",
+    "description": "The Ultra-Series T8 LED Tube is a high-efficiency lighting solution designed for commercial and industrial applications. With up to 155 lumens per watt, it delivers outstanding performance and energy savings.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2951.jpeg/:/cr=t:2.5%25,l:0%25,w:100%25,h:95%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2951.jpeg/:/cr=t:2.5%25,l:0%25,w:100%25,h:95%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "6W - 32W",
+    "ip_rating": "N/A",
+    "warranty": "5 years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat4",
+    "application_ids": [],
+    "beam_angle": "120°",
+    "luminous_flux": "135-155 LM/W",
+    "power_factor": ">0.97",
+    "surge_protection": "N/A",
+    "housing_material": "Aircraft-grade aluminium body with polycarbonate diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/T8UltraSeries_Spec_Sheet.pdf",
+    "features": [
+      "High-Efficiency 155LM/W",
+      "Aircraft-Grade Aluminium for Heat Dissipation",
+      "Flame Retardant, Self-Extinguishing Lenses",
+      "Designed for Retrofit Applications"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "T8UL2-LP",
+          "power": "6W",
+          "length": "600mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T8UL3-LP",
+          "power": "9W",
+          "length": "900mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T8UL4-LP",
+          "power": "12W",
+          "length": "1200mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T8UL5-LP",
+          "power": "18W",
+          "length": "1500mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        }
+      ]
+    },
+    "dimensions": []
+  },
+  {
+    "id": "prod21",
+    "name": "Commercial Series T8 LED Tube",
+    "description": "The T8 Commercial Series LED Tube provides a reliable and energy-efficient lighting solution for general-purpose applications. With an efficacy of 100 lumens per watt, it is ideal for commercial lighting environments.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/COMM%20Series.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:388,h:292,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/COMM%20Series.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:388,h:292,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "9W - 23W",
+    "ip_rating": "N/A",
+    "warranty": "5 years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat4",
+    "application_ids": [],
+    "beam_angle": "120°",
+    "luminous_flux": "100 LM/W",
+    "power_factor": ">0.97",
+    "surge_protection": "N/A",
+    "housing_material": "Aircraft-grade aluminium body with polycarbonate diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/T8CommercialSeries_Spec_Sheet.pdf",
+    "features": [
+      "100LM/W Efficiency",
+      "Flame Retardant, Self-Extinguishing Lenses",
+      "Ideal for General Commercial Lighting",
+      "Designed for Retrofit Applications"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "T8C2",
+          "power": "9W",
+          "length": "600mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T8C3",
+          "power": "13W",
+          "length": "900mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T8C4",
+          "power": "18W",
+          "length": "1200mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T8C5",
+          "power": "23W",
+          "length": "1500mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        }
+      ]
+    },
+    "dimensions": []
+  },
+  {
+    "id": "prod22",
+    "name": "Green Series T8 LED Tube",
+    "description": "The Green Series T8 LED Tube is a budget-friendly, energy-efficient solution for retrofit applications. Delivering 90 lumens per watt, it is designed for low-energy consumption and environmental sustainability.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/869505D9-114D-4B3A-A3B3-F6A2CBC9E324.jpeg/:/cr=t:31.75%25,l:33.85%25,w:32.31%25,h:36.5%25/rs=w:388,h:292,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/869505D9-114D-4B3A-A3B3-F6A2CBC9E324.jpeg/:/cr=t:31.75%25,l:33.85%25,w:32.31%25,h:36.5%25/rs=w:388,h:292,cg:true,m"
+    ],
+    "certification_images": [],
+    "wattage": "9W - 36W",
+    "ip_rating": "N/A",
+    "warranty": "3 years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat4",
+    "application_ids": [],
+    "beam_angle": "120°",
+    "luminous_flux": "90 LM/W",
+    "power_factor": ">0.97",
+    "surge_protection": "N/A",
+    "housing_material": "Aircraft-grade aluminium body with polycarbonate diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/T8GreenSeries_Spec_Sheet.pdf",
+    "features": [
+      "90LM/W Efficiency",
+      "Designed for Energy Savings",
+      "Flame Retardant, Self-Extinguishing Lenses",
+      "Budget-Friendly Option"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "T8G2",
+          "power": "9W",
+          "length": "600mm",
+          "colour_temp": "4000K | 6000K"
+        },
+        {
+          "model": "T8G3",
+          "power": "13W",
+          "length": "900mm",
+          "colour_temp": "4000K | 6000K"
+        },
+        {
+          "model": "T8G4",
+          "power": "18W",
+          "length": "1200mm",
+          "colour_temp": "4000K | 6000K"
+        },
+        {
+          "model": "T8G5",
+          "power": "23W",
+          "length": "1500mm",
+          "colour_temp": "4000K | 6000K"
+        },
+        {
+          "model": "T8G6",
+          "power": "27W",
+          "length": "1800mm",
+          "colour_temp": "4000K | 6000K"
+        },
+        {
+          "model": "T8G8",
+          "power": "36W",
+          "length": "2400mm",
+          "colour_temp": "4000K | 6000K"
+        }
+      ]
+    },
+    "dimensions": []
+  },
+  {
+    "id": "prod23",
+    "name": "T5 EXO LED Tube",
+    "description": "The T5 EXO LED Tube is a high-performance lighting solution designed for energy-efficient retrofit applications. With a slim profile and robust construction, it is ideal for commercial and industrial environments.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2962.jpeg/:/cr=t:6.75%25,l:0%25,w:100%25,h:86.5%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2962.jpeg/:/cr=t:6.75%25,l:0%25,w:100%25,h:86.5%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "9W - 36W",
+    "ip_rating": "N/A",
+    "warranty": "5 years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat4",
+    "application_ids": [],
+    "beam_angle": "120°",
+    "luminous_flux": "",
+    "power_factor": ">0.97",
+    "surge_protection": "N/A",
+    "housing_material": "Aircraft-grade aluminium body with polycarbonate diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/T5EXO_Spec_Sheet.pdf",
+    "features": [
+      "Slim profile for easy installation",
+      "Energy-efficient LED retrofit",
+      "Designed for commercial and industrial use",
+      "Long lifespan with high reliability"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "T5EXO2",
+          "power": "9W",
+          "length": "600mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T5EXO3",
+          "power": "13W",
+          "length": "900mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T5EXO4",
+          "power": "18W",
+          "length": "1200mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T5EXO5",
+          "power": "23W",
+          "length": "1500mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        }
+      ]
+    },
+    "dimensions": []
+  },
+  {
+    "id": "prod24",
+    "name": "T5 Ultra-Lux LED Tube",
+    "description": "The T5 Ultra-Lux LED Tube is a premium lighting solution offering high-lumen output and energy efficiency. Designed for high-performance commercial and industrial applications, it ensures superior illumination and reliability.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2963.jpeg/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:388,h:292,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2963.jpeg/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:388,h:292,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "9W - 36W",
+    "ip_rating": "N/A",
+    "warranty": "5 years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat4",
+    "application_ids": [],
+    "beam_angle": "120°",
+    "luminous_flux": "",
+    "power_factor": ">0.97",
+    "surge_protection": "N/A",
+    "housing_material": "Aircraft-grade aluminium body with polycarbonate diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/T5UltraLux_Spec_Sheet.pdf",
+    "features": [
+      "High-lumen output for superior illumination",
+      "Advanced energy efficiency technology",
+      "Long lifespan with high durability",
+      "Ideal for commercial and industrial use"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "T5UL2",
+          "power": "9W",
+          "length": "600mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T5UL3",
+          "power": "13W",
+          "length": "900mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T5UL4",
+          "power": "18W",
+          "length": "1200mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T5UL5",
+          "power": "23W",
+          "length": "1500mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        }
+      ]
+    },
+    "dimensions": []
+  },
+  {
+    "id": "prod25",
+    "name": "T5 Civic LED Tube",
+    "description": "The T5 Civic LED Tube is a cost-effective, energy-efficient solution for general lighting applications. Designed for commercial and residential use, it offers reliable performance and reduced energy consumption.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2969.jpeg/:/cr=t:7.5%25,l:0%25,w:100%25,h:85%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2969.jpeg/:/cr=t:7.5%25,l:0%25,w:100%25,h:85%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "9W - 36W",
+    "ip_rating": "N/A",
+    "warranty": "3 years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat4",
+    "application_ids": [],
+    "beam_angle": "120°",
+    "luminous_flux": "",
+    "power_factor": ">0.97",
+    "surge_protection": "N/A",
+    "housing_material": "Aircraft-grade aluminium body with polycarbonate diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/T5Civic_Spec_Sheet.pdf",
+    "features": [
+      "Budget-friendly LED retrofit solution",
+      "Designed for commercial and residential applications",
+      "Energy-efficient operation",
+      "Long lifespan with durable construction"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "T5C2",
+          "power": "9W",
+          "length": "600mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T5C3",
+          "power": "13W",
+          "length": "900mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T5C4",
+          "power": "18W",
+          "length": "1200mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T5C5",
+          "power": "23W",
+          "length": "1500mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        }
+      ]
+    },
+    "dimensions": []
+  },
+  {
+    "id": "prod26",
+    "name": "T12 LED Tube",
+    "description": "The T12 LED Tube is a high-efficiency, long-lasting lighting solution designed as a retrofit for traditional T12 fluorescent tubes. It offers superior illumination and energy savings for commercial and industrial applications.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2956.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2956.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "10W - 40W",
+    "ip_rating": "N/A",
+    "warranty": "5 years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat4",
+    "application_ids": [],
+    "beam_angle": "120°",
+    "luminous_flux": "",
+    "power_factor": ">0.97",
+    "surge_protection": "N/A",
+    "housing_material": "Aircraft-grade aluminium body with polycarbonate diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/T12_Spec_Sheet.pdf",
+    "features": [
+      "Direct retrofit replacement for traditional T12 fluorescent tubes",
+      "Energy-efficient with a high lumen output",
+      "Long lifespan with durable construction",
+      "Designed for commercial and industrial applications"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "T12-600",
+          "power": "10W",
+          "length": "600mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T12-900",
+          "power": "15W",
+          "length": "900mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T12-1200",
+          "power": "20W",
+          "length": "1200mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T12-1500",
+          "power": "30W",
+          "length": "1500mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T12-1800",
+          "power": "36W",
+          "length": "1800mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        },
+        {
+          "model": "T12-2400",
+          "power": "40W",
+          "length": "2400mm",
+          "colour_temp": "3000K | 4000K | 5000K | 6000K"
+        }
+      ]
+    },
+    "dimensions": []
+  },
+  {
+    "id": "prod27",
+    "name": "T5 Integrated LED Tube",
+    "description": "The eLighting T5 Integrated LED Tube is a minimalistic and efficient lighting solution designed to replace outdated fluorescent tubes and batten fixtures. Ideal for commercial and industrial environments including offices, retail stores, car parks, amenities, cold storage, refrigeration, and general lighting.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2957.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2957.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2940.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1160,h:870",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2941.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280,h:699"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "IP44",
+    "warranty": "5 years",
+    "colour_temp": ["3000K, 4000K, 5000K, 6000K"],
+    "category_id": ["cat4", "cat6"],
+    "application_ids": ["app9", "app15", "app20"],
+    "beam_angle": "120°",
+    "luminous_flux": "100LM/W",
+    "power_factor": "",
+    "surge_protection": "N/A",
+    "housing_material": "Anodized 6063 Aluminium Alloy Housing with Polycarbonate Diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/T5Integrated_Spec_Sheet.pdf",
+    "features": [
+      "Snap-on Easy Installation",
+      "Easy-Link System for Extended Connectivity",
+      "Efficient 100LM/W Output",
+      "Advanced Cooling System",
+      "50,000-hour Lifespan",
+      "IK06 Impact Protection",
+      "IP44 Rated",
+      "Designed for Commercial and Industrial Applications"
+    ],
+    "technical_specs": {
+      "operating_voltage": "100 - 277V AC",
+      "harmonic_distortion": "<15%",
+      "power_factor": "Near Perfect",
+      "lifespan": "50,000 Hours"
+    },
+    "applications": [
+      "Fridges",
+      "Cove Lighting",
+      "Decor Displays",
+      "General Illumination",
+      "Retail Outlets",
+      "Offices",
+      "Schools",
+      "General Purpose Areas"
+    ],
+    "dimensions": []
+  },
+  {
+    "id": "prod28",
+    "name": "APEX LED Street Light",
+    "description": "The APEX LED Street Light is a high-efficiency lighting solution designed for urban and industrial street lighting applications. Featuring 140LM/W luminous efficacy, IP66 protection, and surge protection, it offers reliable and durable illumination with a 180-degree flexible rotation feature.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2906.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2906.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/D8F3DE8D-F40F-468C-9103-9632C38805D5.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:1280,h:962",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A0C50074-5AD7-45D4-BAC8-7D3CF616FA12.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280,h:720",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/DD2BF24C-B86F-4606-B079-DE2A1DC9AB77.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280,h:960"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "IP66",
+    "warranty": "",
+    "colour_temp": "",
+    "category_id": "cat5",
+    "application_ids": ["app5"],
+    "beam_angle": "",
+    "luminous_flux": "140LM/W",
+    "power_factor": "",
+    "surge_protection": "Yes",
+    "housing_material": "High-impact, locally manufactured body",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/APEX_Street_Lighting_Spec_Sheet.pdf",
+    "features": [
+      "140LM/W Luminous Efficiency",
+      "IP66 Protection for Harsh Environments",
+      "Built-in Surge Protection",
+      "IK08 Impact Resistance",
+      "Locally Produced with Durable Construction",
+      "180° Flexible Rotation for Adjustable Mounting"
+    ],
+    "technical_specs": {
+      "operating_voltage": "",
+      "harmonic_distortion": "",
+      "power_factor": "",
+      "lifespan": ""
+    },
+    "applications": [
+      "Urban Street Lighting",
+      "Industrial Roadways",
+      "Parking Areas",
+      "Highway Lighting",
+      "Public Spaces"
+    ],
+    "dimensions": []
+  },
+  {
+    "id": "prod29",
+    "name": "Linear Gyro LED Light",
+    "description": "The Linear Gyro LED Light is a high-performance lighting solution designed for retail applications. With dual adjustable sides and low-glare, flicker-free illumination, it enhances visibility and focus in product displays and aisles.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2929.jpeg/:/cr=t:24.81%25,l:0%25,w:100%25,h:75.19%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2929.jpeg/:/cr=t:24.81%25,l:0%25,w:100%25,h:75.19%25/rs=w:388,h:291.72932330827064,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2928.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1160,h:726",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2927.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/02E53489-52F4-4326-8F04-9B73D6252FCA.jpeg/:/cr=t:23.59%25,l:25.67%25,w:48.08%25,h:48.08%25/rs=w:1280,h:852"
+    ],
+    "certification_images": [],
+    "wattage": "100W",
+    "ip_rating": "N/A",
+    "warranty": "5 years",
+    "colour_temp": ["3000K, 4000K, 5000K, 6000K"],
+    "category_id": "cat6",
+    "application_ids": ["app9", "app20"],
+    "beam_angle": "Adjustable",
+    "luminous_flux": "10,000 Lumen",
+    "power_factor": ">0.95",
+    "surge_protection": "N/A",
+    "housing_material": "Aluminium Alloy Housing with Advanced Cooling System",
+    "dimming": "No (Optional on request)",
+    "operating_temperature": "",
+    "additional_images": [
+      {
+        "title": "Thermal Image",
+        "image": "/productAdditionalImages/linear1.png"
+      }
+    ],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/LinearGyroLED_Spec_Sheet.pdf",
+    "features": [
+      "Designed for Retail Applications - Illuminate Shelves, Aisles, and Walls",
+      "Dual Adjustable Sides for Focused Lighting",
+      "Low Glare and Flicker-Free Illumination",
+      "Locally Manufactured for Quality and Maintainability",
+      "5-Year Warranty for Long-Lasting Performance",
+      "Advanced Cooling System for Extended Lifespan"
+    ],
+    "technical_specs": {
+      "operating_voltage": "100-277V AC",
+      "power_factor": ">0.95",
+      "frequency": "50/60Hz",
+      "lifespan": "50,000 Hours"
+    },
+    "applications": [
+      "Retail Stores",
+      "Aisle and Shelf Lighting",
+      "Product Display Areas",
+      "Commercial Spaces"
+    ],
+    "dimensions": {
+      "length": "1085mm",
+      "height": "60mm",
+      "width": "150mm"
+    },
+    "additional_options": {
+      "emergency_backup": "20% Light Output for 1 Hour",
+      "battery_warranty": "3-Year Warranty on Li-Ion Battery"
+    }
+  },
+  {
+    "id": "prod30",
+    "name": "Classic Linear LED Light",
+    "description": "The Classic Linear LED Light is a timeless lighting solution that combines elegance with efficiency. Designed to seamlessly integrate into various settings, it offers a perfect balance of form and function, providing uniform and bright illumination while enhancing the aesthetic appeal of any space.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2934.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2934.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2935.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1160,h:592"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "N/A",
+    "warranty": "3 years",
+    "colour_temp": "3000K, 4000K, 5000K, 6500K",
+    "category_id": "cat6",
+    "application_ids": ["app9", "app20"],
+    "beam_angle": "",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "N/A",
+    "housing_material": "Durable Aluminium Casing",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [
+      {
+        "title": "Thermal Image",
+        "image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/631B4B0D-9707-4FB7-948F-10C3EA2F1355.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,cg:true"
+      }
+    ],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/ClassicLinearLED_Spec_Sheet.pdf",
+    "features": [
+      "Elegant and efficient linear lighting solution",
+      "Designed for modern and traditional environments",
+      "Provides uniform and bright illumination",
+      "Ensures optimal visibility with energy efficiency",
+      "Reliable colour consistency for a visually comfortable atmosphere",
+      "Easy installation for retrofitting or new setups",
+      "Durable Aluminium Casing for longevity"
+    ],
+    "technical_specs": {
+      "operating_voltage": "",
+      "power_factor": "",
+      "frequency": "",
+      "lifespan": ""
+    },
+    "applications": [
+      "Office Spaces",
+      "Retail Environments",
+      "Commercial Interiors",
+      "General Illumination"
+    ],
+    "dimensions": []
+  },
+  {
+    "id": "prod31",
+    "name": "TRADEX GEN 2 Linear LED Light",
+    "description": "Perfectly designed for use in offices, showrooms, meeting rooms, restaurants, hotels, shops, classrooms, corridors, communal spaces, and kitchens. The TRADEX GEN 2 LED Batten provides high brightness, energy savings, and flicker-free illumination with a wide beam angle for shadow-free coverage.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-10a.jpeg/:/cr=t:0%25,l:16.17%25,w:67.66%25,h:100%25/rs=w:600,h:600,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-10a.jpeg/:/cr=t:0%25,l:16.17%25,w:67.66%25,h:100%25/rs=w:600,h:600,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "N/A",
+    "warranty": "3 years",
+    "colour_temp": "",
+    "category_id": "cat6",
+    "application_ids": ["app9", "app20"],
+    "beam_angle": "Wide Beam Angle",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "N/A",
+    "housing_material": "Durable Aluminium Casing",
+    "dimming": "No",
+    "operating_temperature": "",
+    "additional_images": [
+      {
+        "title": "Thermal Image",
+        "image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/602AA6DA-C170-4605-8C4F-49CAF0063F83.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,cg:true"
+      }
+    ],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/TRADEX_GEN2_Spec_Sheet.pdf",
+    "features": [
+      "Energy-efficient LED solution",
+      "Flicker-free, high-quality light output",
+      "Wide beam angle for shadow-free coverage",
+      "Instant switch-on with no noise or flickering",
+      "Inbuilt driver for seamless operation",
+      "Designed for minimal heat dispersion",
+      "Perfect for offices, restaurants, classrooms, and more"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "",
+          "power": "",
+          "luminous_flux": "",
+          "beam_angle": "Wide Beam Angle"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {
+      "luminous_flux": "",
+      "colour_rendering_index": "",
+      "colour_temperature": ""
+    },
+    "standards": {
+      "compliance": [""],
+      "ip_rating": "",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": ""
+    },
+    "dimensions": [
+      {
+        "model": "",
+        "length": "",
+        "height": "",
+        "width": "",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": "prod32",
+    "name": "Linear Essence LED Light",
+    "description": "Perfectly designed for use in offices, showrooms, meeting rooms, restaurants, hotels, shops, classrooms, corridors, communal spaces, kitchens, and more. The Linear Essence LED Light provides high brightness and quality light output with high efficiency, easy on the eye and flicker-free colour rendering. It features even light dispersion, minimal heat output, and a wide beam angle for shadow-free coverage. The LED batten includes an inbuilt driver and switches on instantly without noise or flickering.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-9a.jpeg/:/cr=t:16.17%25,l:0%25,w:100%25,h:67.66%25/rs=w:600,h:600,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-9a.jpeg/:/cr=t:16.17%25,l:0%25,w:100%25,h:67.66%25/rs=w:600,h:600,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "",
+    "warranty": "3 years",
+    "colour_temp": "",
+    "category_id": "cat6",
+    "application_ids": ["app9", "app20"],
+    "beam_angle": "Wide Beam Angle",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "Durable Aluminium Casing",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [
+      {
+        "title": "Thermal Image",
+        "image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/602AA6DA-C170-4605-8C4F-49CAF0063F83.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,cg:true"
+      }
+    ],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/LinearEssence_Spec_Sheet.pdf",
+    "features": [
+      "Energy-saving LED technology",
+      "Flicker-free, high-quality light output",
+      "Wide beam angle for shadow-free coverage",
+      "Instant switch-on with no noise or flickering",
+      "Inbuilt driver for seamless operation",
+      "Minimal heat dispersion for extended lifespan",
+      "Suitable for offices, retail spaces, and hospitality applications"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "",
+          "power": "",
+          "luminous_flux": "",
+          "beam_angle": "Wide Beam Angle"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {
+      "luminous_flux": "",
+      "colour_rendering_index": "",
+      "colour_temperature": ""
+    },
+    "standards": {
+      "compliance": [""],
+      "ip_rating": "",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": ""
+    },
+    "dimensions": [
+      {
+        "model": "",
+        "length": "",
+        "height": "",
+        "width": "",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": "prod33",
+    "name": "Linear Zhaga Retail LED Light",
+    "description": "Perfectly designed for use in offices, showrooms, meeting rooms, restaurants, hotels, shops, classrooms, corridors, communal spaces, kitchens, and more. The Linear Zhaga Retail LED Light provides high brightness and quality light output with high efficiency. It is easy on the eye with flicker-free colour rendering, offering even light dispersion with minimal heat output. The LED batten includes an inbuilt driver and switches on instantly without noise or flickering, making it an ideal choice for commercial and retail lighting applications.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-8a.jpeg/:/cr=t:24.56%25,l:0%25,w:100%25,h:50.87%25/rs=w:1240,h:932,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-8a.jpeg/:/cr=t:24.56%25,l:0%25,w:100%25,h:50.87%25/rs=w:1240,h:932,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-1a.jpeg/:/cr=t:4.89%25,l:0%25,w:100%25,h:90.22%25/rs=w:600,h:800,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-5a.jpeg/:/cr=t:4.89%25,l:0%25,w:100%25,h:90.22%25/rs=w:600,h:800,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "",
+    "warranty": "3 years",
+    "colour_temp": "",
+    "category_id": "cat6",
+    "application_ids": ["app9", "app20"],
+    "beam_angle": "Wide Beam Angle",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "Durable Aluminium Casing",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/LinearZhaga_Spec_Sheet.pdf",
+    "features": [
+      "Energy-saving LED technology",
+      "Flicker-free, high-quality light output",
+      "Wide beam angle for shadow-free coverage",
+      "Instant switch-on with no noise or flickering",
+      "Inbuilt driver for seamless operation",
+      "Minimal heat dispersion for extended lifespan",
+      "Suitable for offices, retail spaces, and hospitality applications"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "",
+          "power": "",
+          "luminous_flux": "",
+          "beam_angle": "Wide Beam Angle"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {
+      "luminous_flux": "",
+      "colour_rendering_index": "",
+      "colour_temperature": ""
+    },
+    "standards": {
+      "compliance": [""],
+      "ip_rating": "",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": ""
+    },
+    "dimensions": [
+      {
+        "model": "",
+        "length": "",
+        "height": "",
+        "width": "",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": "prod34",
+    "name": "100W Surface Mount Canopy",
+    "description": "The 100W Surface Mount Canopy Light is a high-performance LED fixture designed for petrol stations, tunnels, garages, and parking areas. Featuring a robust design, it delivers 140LM/W efficiency and long-lasting illumination.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/FB590AF9-D1FA-4151-8222-F9C64248B658.jpeg/:/cr=t:24.49%25,l:27.42%25,w:45.17%25,h:51.02%25/rs=w:365,h:274,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/FB590AF9-D1FA-4151-8222-F9C64248B658.jpeg/:/cr=t:24.49%25,l:27.42%25,w:45.17%25,h:51.02%25/rs=w:365,h:274,cg:true,m"
+    ],
+    "certification_images": [],
+    "wattage": "100W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K, 6000K",
+    "category_id": "cat7",
+    "application_ids": ["app3"],
+    "beam_angle": "30°, 60°, 90°, 120°",
+    "luminous_flux": "14000-16500lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in",
+    "housing_material": "Steel casing with aluminium heatsink and high-impact polycarbonate diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +55°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/CanopyLighting_Spec_Sheet.pdf",
+    "features": [
+      "140LM/W efficiency",
+      "Corrosion-resistant construction",
+      "Energy-efficient LED technology",
+      "Durable steel casing with aluminium heatsink",
+      "Low maintenance, long lifespan",
+      "Made in South Africa"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "ELCPY100",
+          "power": "100W",
+          "luminous_flux": "14000-16500lm",
+          "beam_angle": "30°, 60°, 90°, 120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 305V AC",
+      "frequency": "50Hz",
+      "power_factor": "0.95"
+    },
+    "photometric_data": {
+      "luminous_flux": "14000-16500lm",
+      "colour_rendering_index": "70 / 80",
+      "colour_temperature": "4000K, 6000K"
+    },
+    "standards": {
+      "compliance": ["UL1012", "EN60950-1", "IEC 60598"],
+      "ip_rating": "IP65",
+      "ik_rating": "IK08",
+      "surge_protection": "4KV built-in"
+    },
+    "operating_conditions": {
+      "operating_temperature": "-25°C to +55°C",
+      "humidity": "0~95%",
+      "storage_temperature": "-25°C to +65°C",
+      "led_life_span": "50,000 hours"
+    },
+    "dimensions": [
+      {
+        "model": "ELCPY100",
+        "length": "350mm",
+        "height": "120mm",
+        "width": "330mm",
+        "weight": "4.5Kg"
+      }
+    ]
+  },
+  {
+    "id": "prod35",
+    "name": "150W Surface Mount Canopy",
+    "description": "The 150W Surface Mount Canopy Light provides high-output illumination for petrol stations, tunnels, garages, and other large area applications. Designed for efficiency and durability with IP65 rating and corrosion resistance.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A1836D1E-2D4E-4E3A-A811-426D026DF0DE.jpeg/:/cr=t:7.63%25,l:7.73%25,w:84.53%25,h:84.75%25/rs=w:365,h:274,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A1836D1E-2D4E-4E3A-A811-426D026DF0DE.jpeg/:/cr=t:7.63%25,l:7.73%25,w:84.53%25,h:84.75%25/rs=w:365,h:274,cg:true,m"
+    ],
+    "certification_images": [],
+    "wattage": "150W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K, 6000K",
+    "category_id": "cat7",
+    "application_ids": ["app3"],
+    "beam_angle": "30°, 60°, 90°, 120°",
+    "luminous_flux": "21000-24750lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in",
+    "housing_material": "Steel casing with aluminium heatsink and high-impact polycarbonate diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +55°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/CanopyLighting_Spec_Sheet.pdf",
+    "features": [
+      "High-lumen output for large-area illumination",
+      "Corrosion-resistant, durable construction",
+      "Energy-efficient LED technology",
+      "Low maintenance, long lifespan",
+      "IP65-rated for outdoor use",
+      "Made in South Africa"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "ELCPY150",
+          "power": "150W",
+          "luminous_flux": "21000-24750lm",
+          "beam_angle": "30°, 60°, 90°, 120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 305V AC",
+      "frequency": "50Hz",
+      "power_factor": "0.95"
+    },
+    "photometric_data": {
+      "luminous_flux": "21000-24750lm",
+      "colour_rendering_index": "70 / 80",
+      "colour_temperature": "4000K, 6000K"
+    },
+    "standards": {
+      "compliance": ["UL1012", "EN60950-1", "IEC 60598"],
+      "ip_rating": "IP65",
+      "ik_rating": "IK08",
+      "surge_protection": "4KV built-in"
+    },
+    "operating_conditions": {
+      "operating_temperature": "-25°C to +55°C",
+      "humidity": "0~95%",
+      "storage_temperature": "-25°C to +65°C",
+      "led_life_span": "50,000 hours"
+    },
+    "dimensions": [
+      {
+        "model": "ELCPY150",
+        "length": "350mm",
+        "height": "120mm",
+        "width": "330mm",
+        "weight": "5.4Kg"
+      }
+    ]
+  },
+  {
+    "id": "prod36",
+    "name": "200W Surface Mount Canopy",
+    "description": "The 200W Surface Mount Canopy Light delivers industry-leading illumination for fuel stations, industrial areas, and garages. With corrosion resistance and high-efficiency LED technology, it ensures powerful lighting with low maintenance.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/7BE8C1B5-37F9-4A90-9999-3ACD77D36B7B.jpeg/:/cr=t:11.54%25,l:11.63%25,w:76.73%25,h:76.92%25/rs=w:365,h:274,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/7BE8C1B5-37F9-4A90-9999-3ACD77D36B7B.jpeg/:/cr=t:11.54%25,l:11.63%25,w:76.73%25,h:76.92%25/rs=w:365,h:274,cg:true,m"
+    ],
+    "certification_images": [],
+    "wattage": "200W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K, 6000K",
+    "category_id": "cat7",
+    "application_ids": ["app3"],
+    "beam_angle": "30°, 60°, 90°, 120°",
+    "luminous_flux": "28000-33000lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in",
+    "housing_material": "Steel casing with aluminium heatsink and high-impact polycarbonate diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +55°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/CanopyLighting_Spec_Sheet.pdf",
+    "features": [
+      "Powerful 200W LED light source",
+      "Corrosion-resistant steel and aluminium housing",
+      "Energy-efficient, long-lasting design",
+      "IP65-rated for challenging environments",
+      "Low maintenance and cost-saving",
+      "Made in South Africa"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "ELCPY200",
+          "power": "200W",
+          "luminous_flux": "28000-33000lm",
+          "beam_angle": "30°, 60°, 90°, 120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 305V AC",
+      "frequency": "50Hz",
+      "power_factor": "0.95"
+    },
+    "photometric_data": {
+      "luminous_flux": "28000-33000lm",
+      "colour_rendering_index": "70 / 80",
+      "colour_temperature": "4000K, 6000K"
+    },
+    "standards": {
+      "compliance": ["UL1012", "EN60950-1", "IEC 60598"],
+      "ip_rating": "IP65",
+      "ik_rating": "IK08",
+      "surge_protection": "4KV built-in"
+    },
+    "operating_conditions": {
+      "operating_temperature": "-25°C to +55°C",
+      "humidity": "0~95%",
+      "storage_temperature": "-25°C to +65°C",
+      "led_life_span": "50,000 hours"
+    },
+    "dimensions": [
+      {
+        "model": "ELCPY200",
+        "length": "350mm",
+        "height": "120mm",
+        "width": "330mm",
+        "weight": "6.5Kg"
+      }
+    ]
+  },
+  {
+    "id": "prod37",
+    "name": "100W Recessed Mount Canopy",
+    "description": "The 100W Recessed Mount Canopy Light is a high-performance LED fixture designed for petrol stations, tunnels, and industrial applications. Its recessed design ensures a sleek, modern look while providing 140LM/W efficiency and long-lasting illumination.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/3AFE0CA1-15C8-4988-94B7-1D793662CBF5.jpeg/:/cr=t:26.64%25,l:29.32%25,w:41.37%25,h:46.73%25/rs=w:365,h:274,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/3AFE0CA1-15C8-4988-94B7-1D793662CBF5.jpeg/:/cr=t:26.64%25,l:29.32%25,w:41.37%25,h:46.73%25/rs=w:365,h:274,cg:true,m"
+    ],
+    "certification_images": [],
+    "wattage": "100W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K, 6000K",
+    "category_id": "cat7",
+    "application_ids": ["app3"],
+    "beam_angle": "30°, 60°, 90°, 120°",
+    "luminous_flux": "14000-16500lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in",
+    "housing_material": "Aluminium housing with impact-resistant polycarbonate diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +55°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/CanopyLighting_Spec_Sheet.pdf",
+    "features": [
+      "Sleek recessed design for a modern appearance",
+      "140LM/W efficiency for high brightness",
+      "Corrosion-resistant and durable construction",
+      "Low maintenance and long lifespan",
+      "Made in South Africa"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "ELCPY100-R",
+          "power": "100W",
+          "luminous_flux": "14000-16500lm",
+          "beam_angle": "30°, 60°, 90°, 120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 305V AC",
+      "frequency": "50Hz",
+      "power_factor": "0.95"
+    },
+    "photometric_data": {
+      "luminous_flux": "14000-16500lm",
+      "colour_rendering_index": "70 / 80",
+      "colour_temperature": "4000K, 6000K"
+    },
+    "standards": {
+      "compliance": ["UL1012", "EN60950-1", "IEC 60598"],
+      "ip_rating": "IP65",
+      "ik_rating": "IK08",
+      "surge_protection": "4KV built-in"
+    },
+    "operating_conditions": {
+      "operating_temperature": "-25°C to +55°C",
+      "humidity": "0~95%",
+      "storage_temperature": "-25°C to +65°C",
+      "led_life_span": "50,000 hours"
+    },
+    "dimensions": [
+      {
+        "model": "ELCPY100-R",
+        "length": "350mm",
+        "height": "120mm",
+        "width": "330mm",
+        "weight": "4.5Kg"
+      }
+    ]
+  },
+  {
+    "id": "prod38",
+    "name": "150W Recessed Mount Canopy",
+    "description": "The 150W Recessed Mount Canopy Light provides high-lumen output for petrol stations, warehouses, and industrial spaces. With a recessed installation, it offers a modern aesthetic while maintaining high efficiency and durability.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/D63B824E-1183-4B12-A9C7-6DCBCAEA35A9.jpeg/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:365,h:274,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/D63B824E-1183-4B12-A9C7-6DCBCAEA35A9.jpeg/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:365,h:274,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "150W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K, 6000K",
+    "category_id": "cat7",
+    "application_ids": ["app3"],
+    "beam_angle": "30°, 60°, 90°, 120°",
+    "luminous_flux": "21000-24750lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in",
+    "housing_material": "Aluminium housing with impact-resistant polycarbonate diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +55°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/CanopyLighting_Spec_Sheet.pdf",
+    "features": [
+      "Energy-efficient LED lighting solution",
+      "Sleek recessed design for modern environments",
+      "Corrosion-resistant aluminium construction",
+      "Long lifespan and low maintenance",
+      "IP65-rated for outdoor and industrial applications",
+      "Made in South Africa"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "ELCPY150-R",
+          "power": "150W",
+          "luminous_flux": "21000-24750lm",
+          "beam_angle": "30°, 60°, 90°, 120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 305V AC",
+      "frequency": "50Hz",
+      "power_factor": "0.95"
+    },
+    "photometric_data": {
+      "luminous_flux": "21000-24750lm",
+      "colour_rendering_index": "70 / 80",
+      "colour_temperature": "4000K, 6000K"
+    },
+    "standards": {
+      "compliance": ["UL1012", "EN60950-1", "IEC 60598"],
+      "ip_rating": "IP65",
+      "ik_rating": "IK08",
+      "surge_protection": "4KV built-in"
+    },
+    "operating_conditions": {
+      "operating_temperature": "-25°C to +55°C",
+      "humidity": "0~95%",
+      "storage_temperature": "-25°C to +65°C",
+      "led_life_span": "50,000 hours"
+    },
+    "dimensions": [
+      {
+        "model": "ELCPY150-R",
+        "length": "350mm",
+        "height": "120mm",
+        "width": "330mm",
+        "weight": "5.4Kg"
+      }
+    ]
+  },
+  {
+    "id": "prod39",
+    "name": "200W Recessed Mount Canopy",
+    "description": "The 200W Recessed Mount Canopy Light is built for maximum efficiency in large-scale lighting applications such as fuel stations, warehouses, and tunnels. With its sleek recessed installation, it blends seamlessly into modern spaces while delivering superior illumination.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/BEB85A95-D2AF-4FEA-8D57-76B8D6698F30.jpeg/:/cr=t:33.22%25,l:35.15%25,w:29.71%25,h:33.56%25/rs=w:365,h:274,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/BEB85A95-D2AF-4FEA-8D57-76B8D6698F30.jpeg/:/cr=t:33.22%25,l:35.15%25,w:29.71%25,h:33.56%25/rs=w:365,h:274,cg:true,m"
+    ],
+    "certification_images": [],
+    "wattage": "200W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "4000K, 6000K",
+    "category_id": "cat7",
+    "application_ids": ["app3"],
+    "beam_angle": "30°, 60°, 90°, 120°",
+    "luminous_flux": "28000-33000lm",
+    "power_factor": "0.95",
+    "surge_protection": "4KV built-in",
+    "housing_material": "Aluminium housing with impact-resistant polycarbonate diffuser",
+    "dimming": "No",
+    "operating_temperature": "-25°C to +55°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/CanopyLighting_Spec_Sheet.pdf",
+    "features": [
+      "Powerful 200W LED light source",
+      "Sleek recessed design for seamless integration",
+      "Energy-efficient, long-lasting performance",
+      "IP65-rated for outdoor and industrial use",
+      "Low maintenance and cost-effective",
+      "Made in South Africa"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "ELCPY200-R",
+          "power": "200W",
+          "luminous_flux": "28000-33000lm",
+          "beam_angle": "30°, 60°, 90°, 120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 305V AC",
+      "frequency": "50Hz",
+      "power_factor": "0.95"
+    },
+    "photometric_data": {
+      "luminous_flux": "28000-33000lm",
+      "colour_rendering_index": "70 / 80",
+      "colour_temperature": "4000K, 6000K"
+    }
+  },
+  {
+    "id": "prod40",
+    "name": "LED Panel Light 600x600",
+    "description": "The LED Panel Light 600x600 is a high-efficiency, back-lit LED panel designed to replace traditional modular panels. Featuring an ultra-slim casing, anti-glare UGR19, and flicker-free technology, it is ideal for office lighting, retail, and conference centers.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2868.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451.12781954887214,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2868.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451.12781954887214,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "40W",
+    "ip_rating": "IP20",
+    "warranty": "5 years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat8",
+    "application_ids": ["app16"],
+    "beam_angle": "120°",
+    "luminous_flux": "4400lm",
+    "power_factor": "0.9",
+    "surge_protection": "1kV",
+    "housing_material": "Aluminium housing with PMMA diffuser",
+    "dimming": "Available on request",
+    "operating_temperature": "",
+    "additional_images": [
+      {
+        "title": "Thermal Image",
+        "image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/AA06A09B-36B3-47B3-9A89-FCCD2DA666DA.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:730,cg:true"
+      }
+    ],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/LedPanelLight.pdf",
+    "features": [
+      "Anti-glare UGR19",
+      "Flicker-free lighting",
+      "Ultra-slim casing (34mm)",
+      "Wide beam optics for uniform light distribution",
+      "Back-lit design for improved luminous intensity",
+      "Ideal for office lighting and retail applications"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "LED600x600",
+          "power": "40W",
+          "luminous_flux": "4400lm",
+          "beam_angle": "120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "220 - 240V AC",
+      "frequency": "50Hz",
+      "power_factor": "0.9"
+    },
+    "photometric_data": {
+      "luminous_flux": "4400lm",
+      "colour_rendering_index": "80 - 95 Ra",
+      "colour_temperature": "3000K, 4000K, 5000K, 6000K"
+    },
+    "standards": {
+      "compliance": ["IEC60598", "EMC", "ROHS"],
+      "ip_rating": "IP20",
+      "ik_rating": "",
+      "surge_protection": "1kV"
+    },
+    "operating_conditions": {
+      "operating_temperature": "",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": "50,000 hours @T25°C L70 B30"
+    },
+    "dimensions": [
+      {
+        "model": "LED600x600",
+        "length": "595mm",
+        "height": "34mm",
+        "width": "595mm",
+        "weight": "1.9Kg"
+      }
+    ]
+  },
+  {
+    "id": "prod41",
+    "name": "LED Panel Light 1200x600",
+    "description": "The LED Panel Light 1200x600 offers high brightness and anti-glare lighting for large office spaces. With a wide beam angle and modular panel replacement, it provides excellent light uniformity and flicker-free performance.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/4FE8C935-D1CD-4744-84C3-24630B2D5D21.jpeg/:/cr=t:30%25,l:32.29%25,w:35.41%25,h:40%25/rs=w:1200,h:902,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/4FE8C935-D1CD-4744-84C3-24630B2D5D21.jpeg/:/cr=t:30%25,l:32.29%25,w:35.41%25,h:40%25/rs=w:1200,h:902,cg:true,m"
+    ],
+    "certification_images": [],
+    "wattage": "80W",
+    "ip_rating": "IP20",
+    "warranty": "5 years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat8",
+    "application_ids": ["app16"],
+    "beam_angle": "120°",
+    "luminous_flux": "8800lm",
+    "power_factor": "0.9",
+    "surge_protection": "2kV",
+    "housing_material": "Aluminium housing",
+    "dimming": "Available on request",
+    "operating_temperature": "",
+    "additional_images": [
+      {
+        "title": "Thermal Image",
+        "image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/AA06A09B-36B3-47B3-9A89-FCCD2DA666DA.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:730,cg:true"
+      }
+    ],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/LedPanelLight.pdf",
+    "features": [
+      "Anti-glare UGR19",
+      "Flicker-free lighting",
+      "Replaces modular panels",
+      "Wide-angle optics for uniform light distribution",
+      "Surface mount, suspended, or recessed installation",
+      "Ideal for office lighting and conference centers"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "LED1200x600",
+          "power": "80W",
+          "luminous_flux": "8800lm",
+          "beam_angle": "120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "85 - 277V AC",
+      "frequency": "50Hz",
+      "power_factor": "0.9"
+    },
+    "photometric_data": {
+      "luminous_flux": "8800lm",
+      "colour_rendering_index": "80 - 95 Ra",
+      "colour_temperature": "3000K, 4000K, 5000K, 6000K"
+    },
+    "standards": {
+      "compliance": ["IEC60598", "EMC", "ROHS"],
+      "ip_rating": "IP20",
+      "ik_rating": "",
+      "surge_protection": "2kV"
+    },
+    "operating_conditions": {
+      "operating_temperature": "",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": "50,000 hours @T25°C L70 B30"
+    },
+    "dimensions": [
+      {
+        "model": "LED1200x600",
+        "length": "1195mm",
+        "height": "34mm",
+        "width": "595mm",
+        "weight": "3.9Kg"
+      }
+    ]
+  },
+  {
+    "id": "prod42",
+    "name": "LED Downlight",
+    "description": "The LED Downlight is a high-performance recessed lighting solution. With a die-cast aluminium body for passive cooling, anti-glare design, and a lifespan of up to 36,000 hours, it is ideal for commercial and residential spaces.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2914.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:1000,h:752,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2914.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:1000,h:752,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "10W - 24W",
+    "ip_rating": "",
+    "warranty": "3 years",
+    "colour_temp": "",
+    "category_id": "cat8",
+    "application_ids": ["app11", "app16"],
+    "beam_angle": "",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "Die-cast Aluminium (Passive Cooling)",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [
+      {
+        "title": "Thermal Image",
+        "image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/AA06A09B-36B3-47B3-9A89-FCCD2DA666DA.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:730,cg:true"
+      }
+    ],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/LedPanelLight.pdf",
+    "features": [
+      "Anti-glare, flicker-free lighting",
+      "Die-cast aluminium body for passive cooling",
+      "Long lifespan of 36,000 hours",
+      "Back-lit LED design",
+      "Energy-efficient lighting solution"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "LEDDOWNLIGHT",
+          "power": "",
+          "luminous_flux": "",
+          "beam_angle": ""
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {
+      "luminous_flux": "",
+      "colour_rendering_index": "",
+      "colour_temperature": ""
+    },
+    "standards": {
+      "compliance": ["IEC60598", "EMC", "ROHS"],
+      "ip_rating": "IP20",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": "36,000 hours"
+    },
+    "dimensions": [
+      {
+        "model": "LEDDOWNLIGHT",
+        "length": "",
+        "height": "",
+        "width": "",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": "prod43",
+    "name": "Titan LED Bulkhead",
+    "description": "The Titan LED Bulkhead is a high-performance lighting solution designed for industrial and commercial environments. Featuring a high-impact clear polycarbonate diffuser, durable aluminium casing, and IP66/IK10 ratings, it offers superior durability and performance.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A958F427-6B99-400C-B2B4-164046D7E24C.JPEG/:/rs=w:2560,h:1920",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A958F427-6B99-400C-B2B4-164046D7E24C.JPEG/:/rs=w:2560,h:1920",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/E788765C-53E5-407E-8A5B-70153794314D.jpeg/:/rs=w:2560,h:1920",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/9B0D497B-FB0F-44C0-974F-D21DD3DE7DAC.JPEG/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2560,h:1920",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A958F427-6B99-400C-B2B4-164046D7E24C.JPEG/:/rs=w:2560,h:1920",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2312.jpeg/:/rs=w:2560,h:1920"
+    ],
+    "certification_images": [],
+    "wattage": "60W",
+    "ip_rating": "IP66",
+    "warranty": "5 years",
+    "colour_temp": "3000K, 5000K",
+    "category_id": "cat9",
+    "application_ids": ["app8"],
+    "beam_angle": "140°",
+    "luminous_flux": "9600lm",
+    "power_factor": "0.92",
+    "surge_protection": "6kV (10kV optional)",
+    "housing_material": "Die-cast Aluminium Casing, High Impact Clear Polycarbonate Diffuser",
+    "dimming": "1-10V",
+    "operating_temperature": "20 ~ +70°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/TitanLEDBulkhead.pdf",
+    "features": [
+      "High Lumen 3030 LED",
+      "Aluminium Heatsink for efficient thermal management",
+      "Durable Aluminium Casing with Silicone Gasket Seal",
+      "High Impact Clear Polycarbonate Diffuser",
+      "Stainless Steel Latch with Allen Key Lock",
+      "IP66 and IK10 rated for industrial-grade durability"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "BHT60",
+          "power": "60W",
+          "luminous_flux": "9600lm",
+          "beam_angle": "140°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "220-240V (100 - 277V)",
+      "frequency": "50/60Hz",
+      "power_factor": "0.92",
+      "efficiency": "92%",
+      "start_up_time": "0.1S",
+      "thd": "15%"
+    },
+    "photometric_data": {
+      "luminous_flux": "160lm/w",
+      "colour_rendering_index": "<80",
+      "colour_temperature": "3000K, 5000K",
+      "sdcm": "3",
+      "light_distribution_angle": "140°",
+      "unified_glare_rating": "22"
+    },
+    "standards": {
+      "compliance": ["SANS (IEC) 60598", "IEC 60529"],
+      "ip_rating": "IP66",
+      "ik_rating": "IK10",
+      "surge_protection": "6kV (10kV optional)"
+    },
+    "operating_conditions": {
+      "operating_temperature": "20 ~ +70°C",
+      "ambient_temperature": "-40 ~ +65°C",
+      "led_life_span": "70,000 hours (L80 B10) @ 25°C"
+    },
+    "control_gear": {
+      "brand_model": "Inventronics -EUM100S280DG",
+      "lifetime": "114,000 hours @ 70°C",
+      "iout": "2.8A max",
+      "surge_protection": "6kV (10kV/20kV optional)",
+      "selv": "17-54V DC"
+    },
+    "dimensions": [
+      {
+        "model": "BHT60",
+        "length": "410mm",
+        "height": "100mm",
+        "width": "310mm",
+        "weight": "4.2Kg"
+      }
+    ]
+  },
+  {
+    "id": "prod44",
+    "name": "Explosion Protected Flood Lights",
+    "description": "The Explosion Protected Flood Light is designed for hazardous environments, providing robust and efficient illumination in areas classified as Zone 2, Zone 21, and Zone 22. Engineered with explosion-proof protection, it ensures maximum safety and reliability.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2878.jpeg/:/cr=t:0%25,l:5.67%25,w:88.67%25,h:100%25/rs=w:1200,h:902,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2878.jpeg/:/cr=t:0%25,l:5.67%25,w:88.67%25,h:100%25/rs=w:1200,h:902,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2973.jpeg/:/rs=w:1280,h:603"
+    ],
+    "certification_images": [],
+    "wattage": "75W - 200W",
+    "ip_rating": "IP65",
+    "warranty": "5 years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat10",
+    "application_ids": ["app2"],
+    "beam_angle": "30°, 60°, 90°, 120°, 140°x70°",
+    "luminous_flux": "10500lm - 28000lm",
+    "power_factor": "0.98",
+    "surge_protection": "",
+    "housing_material": "Explosion-proof die-cast aluminium",
+    "dimming": "",
+    "operating_temperature": "-40°C to +55°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/ExplosionProtectedFloodLights.pdf",
+    "features": [
+      "Explosion-proof design for hazardous locations",
+      "High lumen output for maximum visibility",
+      "EX certified for Zone 2, Zone 21, Zone 22",
+      "Multiple beam angles for flexible lighting applications",
+      "High durability die-cast aluminium housing",
+      "5-year warranty for long-term reliability"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "ZLT50",
+          "power": "75W",
+          "luminous_flux": "10500lm",
+          "beam_angle": "30°, 60°, 90°, 120°, 140°x70°"
+        },
+        {
+          "model": "ZLT100",
+          "power": "100W",
+          "luminous_flux": "14000lm",
+          "beam_angle": "30°, 60°, 90°, 120°, 140°x70°"
+        },
+        {
+          "model": "ZLT150",
+          "power": "150W",
+          "luminous_flux": "21000lm",
+          "beam_angle": "30°, 60°, 90°, 120°, 140°x70°"
+        },
+        {
+          "model": "ZLT200",
+          "power": "200W",
+          "luminous_flux": "28000lm",
+          "beam_angle": "30°, 60°, 90°, 120°, 140°x70°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "220 - 240V AC",
+      "frequency": "",
+      "power_factor": "0.98"
+    },
+    "photometric_data": {
+      "luminous_flux": "10500lm - 28000lm",
+      "colour_rendering_index": "80Ra",
+      "colour_temperature": "3000K, 4000K, 5000K, 6000K"
+    },
+    "standards": {
+      "compliance": ["CE", "EX certified", "IECEx", "ATEX"],
+      "ip_rating": "IP65",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "-40°C to +55°C",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": "70,000 hours"
+    },
+    "dimensions": [
+      {
+        "model": "ZLT50",
+        "length": "",
+        "height": "",
+        "width": "",
+        "weight": ""
+      },
+      {
+        "model": "ZLT100",
+        "length": "",
+        "height": "",
+        "width": "",
+        "weight": ""
+      },
+      {
+        "model": "ZLT150",
+        "length": "",
+        "height": "",
+        "width": "",
+        "weight": ""
+      },
+      {
+        "model": "ZLT200",
+        "length": "",
+        "height": "",
+        "width": "",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": "prod45",
+    "name": "Explosion Protected Linear LED",
+    "description": "The Explosion Protected Linear LED is a highly durable and energy-efficient lighting solution designed for hazardous environments. Engineered with an explosion-proof housing, it ensures reliable performance in areas with flammable gases, vapors, and dust. Ideal for industrial zones, chemical plants, and oil refineries.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2879.png/:/cr=t:0%25,l:16.06%25,w:67.87%25,h:100%25/rs=w:600,h:451.12781954887214,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2879.png/:/cr=t:0%25,l:16.06%25,w:67.87%25,h:100%25/rs=w:600,h:451.12781954887214,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "IP66",
+    "warranty": "5 years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat10",
+    "application_ids": ["app2"],
+    "beam_angle": "",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "Explosion-proof aluminium casing with tempered glass cover",
+    "dimming": "Available on request",
+    "operating_temperature": "-40°C to +55°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "Explosion-proof design for high-risk industrial areas",
+      "Corrosion-resistant aluminium housing with tempered glass",
+      "IP66-rated for protection against dust and water",
+      "High lumen output for superior illumination",
+      "Wide operating temperature range for extreme conditions",
+      "5-year warranty for long-term reliability"
+    ],
+    "technical_specs": {
+      "models": []
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 277V AC",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {
+      "luminous_flux": "",
+      "colour_rendering_index": "",
+      "colour_temperature": "3000K, 4000K, 5000K, 6000K"
+    },
+    "standards": {
+      "compliance": ["CE", "IECEx", "ATEX", "IP66"],
+      "ip_rating": "IP66",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "-40°C to +55°C",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": ""
+    },
+    "dimensions": []
+  },
+  {
+    "id": "prod46",
+    "name": "LED Downlight 24W",
+    "description": "The LED Downlight 24W is a high-performance recessed lighting solution designed for modern residential and commercial applications. With back-lit technology, anti-glare optics, and die-cast aluminium housing for passive cooling, it ensures superior light quality and durability.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/blob-0654115.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/blob-0654115.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984"
+    ],
+    "certification_images": [],
+    "wattage": "24W",
+    "ip_rating": "",
+    "warranty": "",
+    "colour_temp": "4000K, 6000K",
+    "category_id": "cat11",
+    "application_ids": ["app11"],
+    "beam_angle": "",
+    "luminous_flux": "2640lm",
+    "power_factor": "0.95",
+    "surge_protection": "",
+    "housing_material": "Die-cast Aluminium (Passive Cooling)",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [
+      {
+        "title": "Thermal Image",
+        "image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/794E40A1-60C7-4C9D-8E92-70CA231C3865.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:730,cg:true"
+      }
+    ],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/LEDDownLight.pdf",
+    "features": [
+      "Die-cast aluminium housing for passive cooling",
+      "Back-lit LED technology",
+      "Anti-glare design",
+      "Long lifespan of 36,000 hours",
+      "High efficiency at 110LM/W"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "DLR24",
+          "power": "24W",
+          "luminous_flux": "2640lm",
+          "beam_angle": ""
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "85 - 265V",
+      "frequency": "",
+      "power_factor": "0.95"
+    },
+    "photometric_data": {
+      "luminous_flux": "2640lm",
+      "colour_rendering_index": "80Ra (+90 Available)",
+      "colour_temperature": "4000K, 6000K"
+    },
+    "standards": {
+      "compliance": [""],
+      "ip_rating": "",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": "36,000 hours"
+    },
+    "dimensions": [
+      {
+        "model": "DLR24",
+        "length": "",
+        "height": "",
+        "width": "",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": "prod47",
+    "name": "LED Downlight 15W",
+    "description": "The LED Downlight 15W provides sleek, modern recessed lighting with superior efficiency. Featuring a die-cast aluminium housing, back-lit LED design, and anti-glare optics, it is ideal for various applications including offices, homes, and retail spaces.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/blob-b12f672.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/blob-b12f672.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984"
+    ],
+    "certification_images": [],
+    "wattage": "15W",
+    "ip_rating": "",
+    "warranty": "",
+    "colour_temp": "4000K, 6000K",
+    "category_id": "cat11",
+    "application_ids": ["app11"],
+    "beam_angle": "",
+    "luminous_flux": "1650lm",
+    "power_factor": "0.95",
+    "surge_protection": "",
+    "housing_material": "Die-cast Aluminium (Passive Cooling)",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [
+      {
+        "title": "Thermal Image",
+        "image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/794E40A1-60C7-4C9D-8E92-70CA231C3865.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:730,cg:true"
+      }
+    ],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/LEDDownLight.pdf",
+    "features": [
+      "Compact, anti-glare recessed panel",
+      "Back-lit LED technology",
+      "High-efficiency 110LM/W",
+      "Die-cast aluminium housing for heat dissipation",
+      "Ideal for offices, homes, and retail spaces"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "DLR15",
+          "power": "15W",
+          "luminous_flux": "1650lm",
+          "beam_angle": ""
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "85 - 265V",
+      "frequency": "",
+      "power_factor": "0.95"
+    },
+    "photometric_data": {
+      "luminous_flux": "1650lm",
+      "colour_rendering_index": "80Ra (+90 Available)",
+      "colour_temperature": "4000K, 6000K"
+    },
+    "standards": {
+      "compliance": [""],
+      "ip_rating": "",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": "36,000 hours"
+    },
+    "dimensions": [
+      {
+        "model": "DLR15",
+        "length": "",
+        "height": "",
+        "width": "",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": "prod48",
+    "name": "LED Downlight 10W",
+    "description": "The LED Downlight 10W is a compact recessed lighting fixture that provides efficient and high-quality illumination. With its back-lit technology and anti-glare design, it is ideal for residential and commercial applications.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/blob-4824d47.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/blob-4824d47.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984"
+    ],
+    "certification_images": [],
+    "wattage": "10W",
+    "ip_rating": "",
+    "warranty": "",
+    "colour_temp": "4000K, 6000K",
+    "category_id": "cat11",
+    "application_ids": ["app11"],
+    "beam_angle": "",
+    "luminous_flux": "1100lm",
+    "power_factor": "0.95",
+    "surge_protection": "",
+    "housing_material": "Die-cast Aluminium (Passive Cooling)",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [
+      {
+        "title": "Thermal Image",
+        "image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/794E40A1-60C7-4C9D-8E92-70CA231C3865.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:730,cg:true"
+      }
+    ],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/LEDDownLight.pdf",
+    "features": [
+      "Anti-glare design for comfortable lighting",
+      "Back-lit LED for improved light distribution",
+      "110LM/W high efficiency",
+      "Durable die-cast aluminium casing",
+      "Ideal for general and task lighting"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "DLR10",
+          "power": "10W",
+          "luminous_flux": "1100lm",
+          "beam_angle": ""
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "85 - 265V",
+      "frequency": "",
+      "power_factor": "0.95"
+    },
+    "photometric_data": {
+      "luminous_flux": "1100lm",
+      "colour_rendering_index": "80Ra (+90 Available)",
+      "colour_temperature": "4000K, 6000K"
+    },
+    "standards": {
+      "compliance": [""],
+      "ip_rating": "",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": "36,000 hours"
+    },
+    "dimensions": [
+      {
+        "model": "DLR10",
+        "length": "",
+        "height": "",
+        "width": "",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": "prod49",
+    "name": "M16 IP68 Waterproof Connector",
+    "description": "The M16 IP68 Waterproof Connector provides reliable terminal connections for 2-pin and 3-pin configurations. Designed for industrial and outdoor applications requiring durable, watertight electrical connections.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2796.webp/:/cr=t:4.15%25,l:0%25,w:100%25,h:75.19%25/rs=w:640,h:481,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2796.webp/:/cr=t:4.15%25,l:0%25,w:100%25,h:75.19%25/rs=w:640,h:481,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "IP68",
+    "warranty": "",
+    "colour_temp": "",
+    "category_id": "cat12",
+    "application_ids": [],
+    "beam_angle": "",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "Durable plastic housing with rubber sealing",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "IP68 waterproof rating",
+      "Available in 2-pin & 3-pin configurations",
+      "Supports cable sizes up to 10.5mm",
+      "Nominal current: 15A",
+      "Nominal voltage: 450V"
+    ],
+    "technical_specs": {
+      "models": []
+    },
+    "electrical_data": {
+      "operating_voltage": "450V",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {},
+    "standards": {
+      "compliance": [""],
+      "ip_rating": "IP68",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {},
+    "dimensions": []
+  },
+  {
+    "id": "prod50",
+    "name": "2-Way Splicing Connector",
+    "description": "The 2-Way Splicing Connector is a compact and efficient wire connector with quick clamp-close functionality for fast and secure electrical connections.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2798.jpeg/:/cr=t:10.02%25,l:0%25,w:100%25,h:79.97%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2798.jpeg/:/cr=t:10.02%25,l:0%25,w:100%25,h:79.97%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "",
+    "warranty": "",
+    "colour_temp": "",
+    "category_id": "cat12",
+    "application_ids": [],
+    "beam_angle": "",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "Durable plastic housing",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "Clamp close mechanism",
+      "Quick connect for easy wiring",
+      "Supports wire sizes 28-12 AWG",
+      "Nominal current: 32A",
+      "Nominal voltage: 400V"
+    ],
+    "technical_specs": {
+      "models": []
+    },
+    "electrical_data": {
+      "operating_voltage": "400V",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {},
+    "standards": {},
+    "operating_conditions": {},
+    "dimensions": []
+  },
+  {
+    "id": "prod51",
+    "name": "3-Way Splicing Connector",
+    "description": "The 3-Way Splicing Connector enables efficient and secure three-wire connections, featuring quick-connect and clamp-close technology.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2799.jpeg/:/cr=t:7.13%25,l:0%25,w:100%25,h:84.77%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2799.jpeg/:/cr=t:7.13%25,l:0%25,w:100%25,h:84.77%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "",
+    "warranty": "",
+    "colour_temp": "",
+    "category_id": "cat12",
+    "application_ids": [],
+    "beam_angle": "",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "Durable plastic housing",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "Clamp close mechanism",
+      "Quick connect for easy wiring",
+      "Supports wire sizes 28-12 AWG",
+      "Nominal current: 32A",
+      "Nominal voltage: 600V"
+    ],
+    "technical_specs": {
+      "models": []
+    },
+    "electrical_data": {
+      "operating_voltage": "600V",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {},
+    "standards": {},
+    "operating_conditions": {},
+    "dimensions": []
+  },
+  {
+    "id": "prod52",
+    "name": "IP68 Junction Box",
+    "description": "The IP68 Junction Box is a robust and airtight connection solution for electrical wiring, available in 3-way, 4-way, and 5-way connector options.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2802.jpeg/:/cr=t:17.05%25,l:0%25,w:100%25,h:77.57%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2802.jpeg/:/cr=t:17.05%25,l:0%25,w:100%25,h:77.57%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "IP68",
+    "warranty": "",
+    "colour_temp": "",
+    "category_id": "cat12",
+    "application_ids": [],
+    "beam_angle": "",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "High-quality plastic with rubber sealing",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "IP68 waterproof rating",
+      "Air-tight design",
+      "Available in 3-way, 4-way, and 5-way connectors",
+      "Nominal voltage: 450V"
+    ],
+    "technical_specs": {
+      "models": []
+    },
+    "electrical_data": {
+      "operating_voltage": "450V",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {},
+    "standards": {},
+    "operating_conditions": {},
+    "dimensions": []
+  },
+  {
+    "id": "prod53",
+    "name": "12 Terminal Strip Wire Connector",
+    "description": "The 12 Terminal Strip Wire Connector, also known as a chocolate block, provides a screw-close connection for secure wiring applications.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2803.jpeg/:/cr=t:11.22%25,l:0%25,w:100%25,h:77.57%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2803.jpeg/:/cr=t:11.22%25,l:0%25,w:100%25,h:77.57%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "",
+    "warranty": "",
+    "colour_temp": "",
+    "category_id": "cat12",
+    "application_ids": [],
+    "beam_angle": "",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "Durable plastic housing with screw-close terminals",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "Screw-close terminal block",
+      "Nominal current: 15A",
+      "Nominal voltage: 250V",
+      "Reliable and durable connection"
+    ],
+    "technical_specs": {
+      "models": []
+    },
+    "electrical_data": {
+      "operating_voltage": "250V",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {},
+    "standards": {},
+    "operating_conditions": {},
+    "dimensions": []
+  },
+  {
+    "id": "prod54",
+    "name": "Push Spring Connector Terminal",
+    "description": "The Push Spring Connector Terminal is a quick and reliable wiring solution, designed for solid and flexible wire connections. Featuring a 3x3 way configuration, it provides secure and efficient electrical connections in industrial and commercial applications.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2804.jpeg/:/cr=t:11.22%25,l:0%25,w:100%25,h:77.57%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2804.jpeg/:/cr=t:11.22%25,l:0%25,w:100%25,h:77.57%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "",
+    "warranty": "",
+    "colour_temp": "",
+    "category_id": "cat12",
+    "application_ids": [],
+    "beam_angle": "",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "Durable plastic casing with spring-loaded clamps",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "3x3 way connector for multiple wire connections",
+      "Push spring mechanism for quick and secure wiring",
+      "Supports solid and flexible wire types",
+      "Nominal current: 16A",
+      "Nominal voltage: 450V"
+    ],
+    "technical_specs": {
+      "models": []
+    },
+    "electrical_data": {
+      "operating_voltage": "450V",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {},
+    "standards": {},
+    "operating_conditions": {},
+    "dimensions": []
+  },
+  {
+    "id": "prod55",
+    "name": "5-Way Splicing Connector",
+    "description": "The 5-Way Splicing Connector is designed for quick and secure electrical connections, supporting up to five wires with a clamp-close mechanism for efficient installation.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2800.jpeg/:/cr=t:3.29%25,l:0%25,w:100%25,h:93.43%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2800.jpeg/:/cr=t:3.29%25,l:0%25,w:100%25,h:93.43%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "",
+    "warranty": "",
+    "colour_temp": "",
+    "category_id": "cat12",
+    "application_ids": [],
+    "beam_angle": "",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "Durable plastic housing",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "Clamp-close mechanism for quick installation",
+      "Quick connect design for secure wiring",
+      "Supports wire sizes 28-12 AWG",
+      "Nominal current: 32A",
+      "Nominal voltage: 600V"
+    ],
+    "technical_specs": {
+      "models": []
+    },
+    "electrical_data": {
+      "operating_voltage": "600V",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {},
+    "standards": {},
+    "operating_conditions": {},
+    "dimensions": []
+  },
+  {
+    "id": "prod56",
+    "name": "Inline Splicing Wire Connector",
+    "description": "The Inline Splicing Wire Connector offers a secure and efficient solution for inline electrical connections, featuring a clamp-close mechanism and quick-connect functionality.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2801.jpeg/:/cr=t:11.31%25,l:0%25,w:100%25,h:84.77%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2801.jpeg/:/cr=t:11.31%25,l:0%25,w:100%25,h:84.77%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "",
+    "ip_rating": "",
+    "warranty": "",
+    "colour_temp": "",
+    "category_id": "cat12",
+    "application_ids": [],
+    "beam_angle": "",
+    "luminous_flux": "",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "Durable plastic housing",
+    "dimming": "",
+    "operating_temperature": "",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "Clamp-close mechanism for secure wiring",
+      "Quick connect for fast installation",
+      "Supports wire sizes 28-12 AWG",
+      "Nominal current: 32A",
+      "Nominal voltage: 600V"
+    ],
+    "technical_specs": {
+      "models": []
+    },
+    "electrical_data": {
+      "operating_voltage": "600V",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {},
+    "standards": {},
+    "operating_conditions": {},
+    "dimensions": []
+  },
+  {
+    "id": "prod57",
+    "name": "Solar LED Dolphin Light",
+    "description": "The Solar LED Dolphin Light is a patent-designed integrated solar lighting solution with a curved solar panel for enhanced charge efficiency. Featuring a PIR motion sensor, intelligent charging management, and rugged IP65 durability, this light is ideal for various outdoor applications.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2853.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280,h:853",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2853.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280,h:853",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2850.jpeg/:/cr=t:0%25,l:12.18%25,w:75.65%25,h:75.65%25/rs=w:1280,h:853",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2852.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1160,h:820"
+    ],
+    "certification_images": [],
+    "wattage": "20W",
+    "ip_rating": "IP65",
+    "warranty": "5 Years",
+    "colour_temp": "2800-3200K, 4000-4500K, 5000-5500K, 6200-6700K",
+    "category_id": "cat13",
+    "application_ids": ["app10"],
+    "beam_angle": "120°",
+    "luminous_flux": "2000LM",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "Aluminum, PP+ABS+PC housing",
+    "dimming": "Motion Sensor & Constant Mode",
+    "operating_temperature": "-20°C to 60°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/SolarLEDDolphinLight.pdf",
+    "features": [
+      "Curved solar panel reduces dust accumulation and improves charge efficiency",
+      "High-lumen SMD2835 LED chips for consistent illumination",
+      "Polycarbonate lamp diffuser ensures low-glare lighting",
+      "Digital PIR motion sensor with a 120° detection angle and 8m range",
+      "Intelligent charging management system for battery optimization",
+      "Impact-resistant aluminum casing with IP65 protection",
+      "Remote-controlled operation with various working modes"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "SolDolph20",
+          "power": "20W",
+          "luminous_flux": "2000LM",
+          "beam_angle": "120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {
+      "luminous_flux": "2000LM",
+      "colour_rendering_index": "",
+      "colour_temperature": "2800-3200K, 4000-4500K, 5000-5500K, 6200-6700K"
+    },
+    "standards": {
+      "compliance": [],
+      "ip_rating": "IP65",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "-20°C to 60°C",
+      "humidity": "",
+      "storage_temperature": "0°C to 45°C",
+      "led_life_span": ""
+    },
+    "dimensions": [
+      {
+        "model": "SolDolph20",
+        "length": "601.1mm",
+        "height": "200mm",
+        "width": "292.8mm",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": "prod58",
+    "name": "Solar LED Pillar Light",
+    "description": "The Solar LED Pillar Light is a globally patented solar lighting solution with double-sided or single-sided illumination. Designed for outdoor applications, it features an intelligent motion sensor, replaceable LiFePO4 battery, and durable IP65-rated construction for reliable operation in various environments.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2860.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:719,h:1079",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2860.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:719,h:1079",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2856.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1160,h:634",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2857.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:475",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2861.jpeg/:/cr=t:0%25,l:14.62%25,w:70.76%25,h:70.76%25/rs=w:1160,h:585"
+    ],
+    "certification_images": [],
+    "wattage": "20W",
+    "ip_rating": "IP65",
+    "warranty": "5 Years (excluding battery)",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat13",
+    "application_ids": ["app10"],
+    "beam_angle": "120°",
+    "luminous_flux": "2000LM",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "Aluminum ADC12",
+    "dimming": "Sensor Mode & Constant Mode",
+    "operating_temperature": "-20°C to 60°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/SolarPilar.pdf",
+    "features": [
+      "Double-sided or single-sided illumination",
+      "Mono-crystalline solar panel with 18.5% conversion efficiency",
+      "Intelligent motion sensor with a 160° detection angle",
+      "Impact-resistant aluminum housing with IP65 protection",
+      "Replaceable LiFePO4 battery (26650/6000mA/6.4V)",
+      "Two working modes: Sensor Mode & Constant Mode",
+      "Designed for courtyards, pathways, gardens, and public areas"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "LD-SPL-20W-Guardian",
+          "power": "20W",
+          "luminous_flux": "2000LM",
+          "beam_angle": "120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {
+      "luminous_flux": "2000LM",
+      "colour_rendering_index": "",
+      "colour_temperature": "3000K, 4000K, 5000K, 6000K"
+    },
+    "standards": {
+      "compliance": [],
+      "ip_rating": "IP65",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "-20°C to 60°C",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": ""
+    },
+    "dimensions": [
+      {
+        "model": "LD-SPL-20W-Guardian",
+        "length": "800mm",
+        "height": "220mm",
+        "width": "90mm",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "id": "prod59",
+    "name": "Solar Street 20",
+    "description": "The Solar Street 20 is a fully integrated solar street lighting system, designed for long-lasting, energy-efficient performance. Featuring a smart charge controller, lithium-iron battery, and corrosion-resistant housing, this system ensures reliable illumination for outdoor and roadway applications.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/2C9B5126-CC0B-4CB7-8239-F1DFD084E243.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1200,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/2C9B5126-CC0B-4CB7-8239-F1DFD084E243.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1200,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "20W",
+    "ip_rating": "IP65",
+    "warranty": "3 Years (2 Years Battery)",
+    "colour_temp": "3000-3200K, 3900-4200K, 5000-5500K, 6000-6500K",
+    "category_id": "cat13",
+    "application_ids": ["app5", "app10"],
+    "beam_angle": "35°",
+    "luminous_flux": "2900LM",
+    "power_factor": "",
+    "surge_protection": "",
+    "housing_material": "Aluminum",
+    "dimming": "Adjustable Light Intensity by Remote",
+    "operating_temperature": "-20°C to +40°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/SolarStreet20.pdf",
+    "features": [
+      "Smart charge controller with 7 programmable light settings",
+      "Lithium-iron battery pack with 3-day autonomy",
+      "Multi-crystalline 80W solar panel with 20-year lifespan",
+      "Weather-resistant aluminum housing",
+      "Pole mounting bracket included (Pole not included)",
+      "High efficiency at 145LM/W",
+      "Wind tolerance up to 120km/h"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "SolarStreet20",
+          "power": "20W",
+          "luminous_flux": "2900LM",
+          "beam_angle": "35°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "",
+      "frequency": "",
+      "power_factor": ""
+    },
+    "photometric_data": {
+      "luminous_flux": "2900LM",
+      "colour_rendering_index": "70 / 80Ra",
+      "colour_temperature": "3000-3200K, 3900-4200K, 5000-5500K, 6000-6500K"
+    },
+    "standards": {
+      "compliance": [],
+      "ip_rating": "IP65",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "-20°C to +40°C",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": "50,000 Hours (L70B30 at 25°C)"
+    },
+    "dimensions": [
+      {
+        "model": "SolarStreet20",
+        "length": "",
+        "height": "6-8M (Pole)",
+        "width": "",
+        "weight": "2.7Kg (Including Battery)"
+      }
+    ]
+  },
+  {
+    "id": "prod60",
+    "name": "Fridge Tubes",
+    "description": "The Fridge Tubes are energy-efficient LED solutions designed for refrigeration applications. Featuring a full polycarbonate casing, high luminous efficacy, and an ingress protection rating of IP54/IP65, these tubes provide uniform illumination in refrigerated environments.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2874.jpeg/:/cr=t:25%25,l:0%25,w:100%25,h:50%25/rs=w:776,h:388,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2874.jpeg/:/cr=t:25%25,l:0%25,w:100%25,h:50%25/rs=w:776,h:388,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "5W - 32W",
+    "ip_rating": "IP54 / IP65",
+    "warranty": "5 Years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K",
+    "category_id": "cat14",
+    "application_ids": ["app12"],
+    "beam_angle": "120°",
+    "luminous_flux": "500LM - 3200LM",
+    "power_factor": ">0.97",
+    "surge_protection": "",
+    "housing_material": "Full Polycarbonate Casing",
+    "dimming": "",
+    "operating_temperature": "-25°C to +50°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "Designed for refrigeration and cold storage applications",
+      "High luminous efficacy with various CCT and color options",
+      "Impact Protection Rating: IK07",
+      "Ingress Protection: IP54/IP65",
+      "Energy-efficient with a 50,000-hour lifespan",
+      "Available in standard, rotatable, and gland end caps"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "T8F1",
+          "power": "5W",
+          "luminous_flux": "500LM",
+          "beam_angle": "120°",
+          "length": "300mm"
+        },
+        {
+          "model": "T8F2",
+          "power": "9W",
+          "luminous_flux": "900LM",
+          "beam_angle": "120°",
+          "length": "598mm"
+        },
+        {
+          "model": "T8F3",
+          "power": "13W",
+          "luminous_flux": "1300LM",
+          "beam_angle": "120°",
+          "length": "900mm"
+        },
+        {
+          "model": "T8F4",
+          "power": "18W",
+          "luminous_flux": "1800LM",
+          "beam_angle": "120°",
+          "length": "1200mm"
+        },
+        {
+          "model": "T8F5",
+          "power": "23W",
+          "luminous_flux": "2300LM",
+          "beam_angle": "120°",
+          "length": "1500mm"
+        },
+        {
+          "model": "T8F6",
+          "power": "32W",
+          "luminous_flux": "3200LM",
+          "beam_angle": "120°",
+          "length": "1800mm"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 277V AC",
+      "frequency": "50Hz / 60Hz",
+      "power_factor": ">0.97"
+    },
+    "photometric_data": {
+      "luminous_flux": "500LM - 3200LM",
+      "colour_rendering_index": ">82Ra (95Ra available on request)",
+      "colour_temperature": "3000K, 4000K, 5000K, 6000K, Blue 450nm, Red 660nm, Pink, Green, UV-A, Amber, Far Red 710nm"
+    },
+    "standards": {
+      "compliance": [],
+      "ip_rating": "IP54 / IP65",
+      "ik_rating": "IK07",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "-25°C to +50°C",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": ">50,000 Hours (Ta=30°C@L70)"
+    },
+    "dimensions": []
+  },
+  {
+    "id": "prod61",
+    "name": "Grow Lights",
+    "description": "Grow Lights are designed to provide optimal lighting conditions for plant growth, mimicking natural sunlight with a full spectrum output. These lights enhance photosynthesis, improve plant yield, and support both vegetative and flowering growth stages.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2873.png/:/cr=t:7.28%25,l:0%25,w:100%25,h:92.72%25/rs=w:388,h:194,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2873.png/:/cr=t:7.28%25,l:0%25,w:100%25,h:92.72%25/rs=w:388,h:194,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "30W - 200W",
+    "ip_rating": "IP65",
+    "warranty": "3 Years",
+    "colour_temp": "Full Spectrum 380-780nm",
+    "category_id": "cat14",
+    "application_ids": [],
+    "beam_angle": "120°",
+    "luminous_flux": "Up to 18000LM",
+    "power_factor": "≥0.95",
+    "surge_protection": "4KV",
+    "housing_material": "Aluminum with high-impact polycarbonate diffuser",
+    "dimming": "Optional",
+    "operating_temperature": "-20°C to 50°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "Full-spectrum lighting for plant growth and photosynthesis",
+      "Energy-efficient alternative to traditional HPS/MH grow lights",
+      "IP65-rated for indoor and greenhouse use",
+      "Optimized wavelengths for vegetative and flowering stages",
+      "Durable aluminum housing with heat dissipation",
+      "Long lifespan of up to 50,000 hours"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "GL-30W",
+          "power": "30W",
+          "luminous_flux": "4500LM",
+          "beam_angle": "120°"
+        },
+        {
+          "model": "GL-100W",
+          "power": "100W",
+          "luminous_flux": "15000LM",
+          "beam_angle": "120°"
+        },
+        {
+          "model": "GL-200W",
+          "power": "200W",
+          "luminous_flux": "18000LM",
+          "beam_angle": "120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 277V AC",
+      "frequency": "50Hz / 60Hz",
+      "power_factor": "≥0.95"
+    },
+    "photometric_data": {
+      "luminous_flux": "4500LM - 18000LM",
+      "colour_rendering_index": "≥80Ra",
+      "colour_temperature": "Full Spectrum 380-780nm"
+    },
+    "standards": {
+      "compliance": ["CE", "RoHS"],
+      "ip_rating": "IP65",
+      "ik_rating": "IK08",
+      "surge_protection": "4KV"
+    },
+    "operating_conditions": {
+      "operating_temperature": "-20°C to 50°C",
+      "humidity": "10% - 90%",
+      "storage_temperature": "-25°C to 55°C",
+      "led_life_span": "50,000 Hours"
+    },
+    "dimensions": []
+  },
+  {
+    "id": "prod62",
+    "name": "UV-A Lighting",
+    "description": "UV-A Lighting is designed for specialized applications such as sterilization, insect attraction, and industrial curing. Emitting wavelengths in the 315-400nm range, these lights are highly effective for disinfection and commercial use.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2872.jpeg/:/cr=t:23.74%25,l:0%25,w:100%25,h:52.51%25/rs=w:776,h:388,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2872.jpeg/:/cr=t:23.74%25,l:0%25,w:100%25,h:52.51%25/rs=w:776,h:388,cg:trueca"
+    ],
+    "certification_images": [],
+    "wattage": "10W - 100W",
+    "ip_rating": "IP54",
+    "warranty": "2 Years",
+    "colour_temp": "UV-A (315-400nm)",
+    "category_id": "cat14",
+    "application_ids": ["app13"],
+    "beam_angle": "120°",
+    "luminous_flux": "",
+    "power_factor": "≥0.90",
+    "surge_protection": "",
+    "housing_material": "Aluminum with glass cover",
+    "dimming": "No",
+    "operating_temperature": "-10°C to 45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "UV-A spectrum for sterilization and industrial applications",
+      "Effective for insect attraction and commercial disinfection",
+      "Long-lasting LED technology with minimal maintenance",
+      "Glass-covered housing for UV protection",
+      "Energy-efficient and mercury-free"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "UVA-10W",
+          "power": "10W",
+          "luminous_flux": "",
+          "beam_angle": "120°"
+        },
+        {
+          "model": "UVA-50W",
+          "power": "50W",
+          "luminous_flux": "",
+          "beam_angle": "120°"
+        },
+        {
+          "model": "UVA-100W",
+          "power": "100W",
+          "luminous_flux": "",
+          "beam_angle": "120°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "100 - 240V AC",
+      "frequency": "50Hz / 60Hz",
+      "power_factor": "≥0.90"
+    },
+    "photometric_data": {
+      "luminous_flux": "",
+      "colour_rendering_index": "",
+      "colour_temperature": "UV-A (315-400nm)"
+    },
+    "standards": {
+      "compliance": ["CE", "RoHS"],
+      "ip_rating": "IP54",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "-10°C to 45°C",
+      "humidity": "",
+      "storage_temperature": "",
+      "led_life_span": "30,000 Hours"
+    },
+    "dimensions": []
+  },
+  {
+    "id": "prod63",
+    "name": "12V DC LED Strip",
+    "description": "The 12V DC LED Strip is a flexible and energy-efficient lighting solution for a variety of applications. Featuring high-lumen output, multiple color temperature options, and a durable silicone coating, this LED strip provides bright, uniform illumination for accent, decorative, and task lighting.",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2919.jpeg/:/cr=t:0%25,l:32.81%25,w:67.19%25,h:100%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2919.jpeg/:/cr=t:0%25,l:32.81%25,w:67.19%25,h:100%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
+    "certification_images": [],
+    "wattage": "4.8W/m - 14.4W/m",
+    "ip_rating": "IP20 / IP65 / IP67",
+    "warranty": "2 Years",
+    "colour_temp": "3000K, 4000K, 5000K, 6000K, RGB",
+    "category_id": "cat15",
+    "application_ids": ["app19"],
+    "beam_angle": "120°",
+    "luminous_flux": "400LM/m - 1200LM/m",
+    "power_factor": "≥0.90",
+    "surge_protection": "",
+    "housing_material": "Flexible PCB with silicone coating (IP-rated versions)",
+    "dimming": "Yes (PWM Compatible)",
+    "operating_temperature": "-10°C to 45°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "",
+    "features": [
+      "12V DC low-voltage operation for safe and efficient use",
+      "Flexible PCB design for easy installation",
+      "Available in single-color and RGB variants",
+      "Waterproof options: IP20 (Indoor), IP65 (Splashproof), IP67 (Fully Waterproof)",
+      "High luminous efficacy with long lifespan",
+      "Compatible with PWM dimmers and smart controllers"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "LEDStrip-4.8W",
+          "power": "4.8W/m",
+          "luminous_flux": "400LM/m",
+          "beam_angle": "120°",
+          "length": "5m (Roll)"
+        },
+        {
+          "model": "LEDStrip-9.6W",
+          "power": "9.6W/m",
+          "luminous_flux": "800LM/m",
+          "beam_angle": "120°",
+          "length": "5m (Roll)"
+        },
+        {
+          "model": "LEDStrip-14.4W",
+          "power": "14.4W/m",
+          "luminous_flux": "1200LM/m",
+          "beam_angle": "120°",
+          "length": "5m (Roll)"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "12V DC",
+      "frequency": "N/A",
+      "power_factor": "≥0.90"
+    },
+    "photometric_data": {
+      "luminous_flux": "400LM/m - 1200LM/m",
+      "colour_rendering_index": "≥80Ra",
+      "colour_temperature": "3000K, 4000K, 5000K, 6000K, RGB"
+    },
+    "standards": {
+      "compliance": ["CE", "RoHS"],
+      "ip_rating": "IP20 / IP65 / IP67",
+      "ik_rating": "",
+      "surge_protection": ""
+    },
+    "operating_conditions": {
+      "operating_temperature": "-10°C to 45°C",
+      "humidity": "10% - 85%",
+      "storage_temperature": "-20°C to 60°C",
+      "led_life_span": "35,000 - 50,000 Hours"
+    },
+    "dimensions": []
+  }
+]
+
