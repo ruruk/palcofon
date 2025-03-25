@@ -39,9 +39,7 @@
         "image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_3220.jpeg/:/cr=t:0%25,l:25.38%25,w:49.24%25,h:100%25/rs=w:365,h:487,cg:true"
       }
     ],
-    "video_link": "https://vimeo.com/938140609/28f520bf96",
-    "video_type": "vimeo",
-    "PDF_link": "/stellar-pendant-spec-sheet.pdf",
+    "PDF_link": "/PDF/UFOHighbay.pdf",
     "features": [
       "Adjustable Beam Angle (60°, 90°, 105°)",
       "Constant Current LED Control Gear",
@@ -125,7 +123,7 @@
     ],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/LHB_SPEC_SHEET.pdf",
+    "PDF_link": "/PDF/LinearLED.pdf",
     "features": [
       "140 - 165LM/W system efficiency",
       "Rugged IP65 durability for industrial and outdoor use",
@@ -242,7 +240,7 @@
     ],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/TitanModular.pdf",
+    "PDF_link": "/PDFs/TitanModular.pdf",
     "features": [
       "140 - 165LM/W system efficiency",
       "Rugged IP65 durability for industrial and outdoor use",
@@ -347,7 +345,7 @@
     "operating_temperature": "-20°C to +50°C",
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/TriproofGen1_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/Triproof.pdf",
     "features": [
       "IP65 Rated for industrial use",
       "IK08 Impact Resistance",
@@ -451,7 +449,7 @@
     "operating_temperature": "-20°C to +55°C",
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/TriproofGen2_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/Triproof.pdf",
     "features": [
       "IP66 Rated for extreme conditions",
       "IK09 Impact Resistance",
@@ -507,14 +505,14 @@
   },
   {
     "id": "prod6",
-    "name": "Titan Flood Light 100W",
-    "description": "The Titan Flood Light 100W is a high-performance, energy-efficient industrial-grade flood light. Engineered for reliability and designed for rugged durability, it is ideal for general area lighting, sports fields, warehouses, and high-mast applications.",
+    "name": "Titan Flood Light 50W",
+    "description": "The Titan Flood Light 50W is a high-performance, energy-efficient industrial-grade flood light. Engineered for reliability and designed for rugged durability, it is ideal for general area lighting, sports fields, warehouses, and high-mast applications.",
     "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/2DC7AF00-BB38-4B26-88D7-DC519739BFC2.jpeg",
     "images": [
       "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/2DC7AF00-BB38-4B26-88D7-DC519739BFC2.jpeg/:/cr=t:18.34%25,l:23.84%25,w:49.73%25,h:56.18%25/rs=w:600,h:451,cg:true,m"
     ],
     "certification_images": [],
-    "wattage": "100W",
+    "wattage": "50W",
     "ip_rating": "IP65",
     "warranty": "5 years",
     "colour_temp": "4000K & 6000K",
@@ -530,7 +528,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/TitanFlood_100W_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/TitanModular.pdf",
     "features": [
       "140 - 165LM/W system efficiency",
       "IP65 / IK09 rated",
@@ -598,7 +596,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/TitanFlood_150W_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/TitanModular.pdf",
     "features": [
       "140 - 165LM/W system efficiency",
       "IP65 / IK09 rated",
@@ -643,7 +641,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/TitanFlood_200W_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/TitanModular.pdf",
     "features": [
       "140 - 165LM/W system efficiency",
       "IP65 / IK09 rated",
@@ -688,7 +686,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/IndustroFlood_50W_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/IndustrialFloodLights.pdf",
     "features": [
       "140 - 165LM/W system efficiency",
       "IP65 / IK08 rated",
@@ -735,7 +733,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/IndustroFlood_100W_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/IndustrialFloodLights.pdf",
     "features": [
       "140 - 165LM/W system efficiency",
       "IP65 / IK08 rated",
@@ -782,7 +780,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/IndustroFlood_150W_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/IndustrialFloodLights.pdf",
     "features": [
       "140 - 165LM/W system efficiency",
       "IP65 / IK08 rated",
@@ -829,7 +827,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/IndustroFlood_200W_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/IndustrialFloodLights.pdf",
     "features": [
       "140 - 165LM/W system efficiency",
       "IP65 / IK08 rated",
@@ -876,7 +874,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/IndustroFlood_400W_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/IndustrialFloodLights.pdf",
     "features": [
       "140 - 165LM/W system efficiency",
       "IP65 / IK08 rated",
@@ -923,7 +921,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "",
     "features": [
       "Adjustable Lighting Angles",
       "IP65 / IK09 Rated",
@@ -968,7 +965,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "",
     "features": [
       "125LM/W system efficiency",
       "IP66 / IK09 Rated",
@@ -1013,7 +1009,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/T8UltraSeries_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/RetrofitLEDTubes.pdf",
     "features": [
       "High-Efficiency 155LM/W",
       "Aircraft-Grade Aluminium for Heat Dissipation",
@@ -1075,7 +1071,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/T8CommercialSeries_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/RetrofitLEDTubes.pdf",
     "features": [
       "100LM/W Efficiency",
       "Flame Retardant, Self-Extinguishing Lenses",
@@ -1137,7 +1133,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/T8GreenSeries_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/RetrofitLEDTubes.pdf",
     "features": [
       "90LM/W Efficiency",
       "Designed for Energy Savings",
@@ -1211,7 +1207,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/T5EXO_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/RetrofitLEDTubes.pdf",
     "features": [
       "Slim profile for easy installation",
       "Energy-efficient LED retrofit",
@@ -1273,7 +1269,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/T5UltraLux_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/RetrofitLEDTubes.pdf",
     "features": [
       "High-lumen output for superior illumination",
       "Advanced energy efficiency technology",
@@ -1335,7 +1331,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/T5Civic_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/RetrofitLEDTubes.pdf",
     "features": [
       "Budget-friendly LED retrofit solution",
       "Designed for commercial and residential applications",
@@ -1397,7 +1393,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/T12_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/RetrofitLEDTubes.pdf",
     "features": [
       "Direct retrofit replacement for traditional T12 fluorescent tubes",
       "Energy-efficient with a high lumen output",
@@ -1473,7 +1469,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/T5Integrated_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/T5IntegratedLEDtube.pdf",
     "features": [
       "Snap-on Easy Installation",
       "Easy-Link System for Extended Connectivity",
@@ -1530,7 +1526,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/APEX_Street_Lighting_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/StreetLighting.pdf",
     "features": [
       "140LM/W Luminous Efficiency",
       "IP66 Protection for Harsh Environments",
@@ -1587,7 +1583,7 @@
     ],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/LinearGyroLED_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/LinearGyroLED.pdf",
     "features": [
       "Designed for Retail Applications - Illuminate Shelves, Aisles, and Walls",
       "Dual Adjustable Sides for Focused Lighting",
@@ -1649,7 +1645,7 @@
     ],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/ClassicLinearLED_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/ClassicLinearLED.pdf",
     "features": [
       "Elegant and efficient linear lighting solution",
       "Designed for modern and traditional environments",
@@ -1703,7 +1699,7 @@
     ],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/TRADEX_GEN2_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/TRADEX GEN 2.pdf",
     "features": [
       "Energy-efficient LED solution",
       "Flicker-free, high-quality light output",
@@ -1785,7 +1781,6 @@
     ],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/LinearEssence_Spec_Sheet.pdf",
     "features": [
       "Energy-saving LED technology",
       "Flicker-free, high-quality light output",
@@ -1864,7 +1859,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/LinearZhaga_Spec_Sheet.pdf",
     "features": [
       "Energy-saving LED technology",
       "Flicker-free, high-quality light output",
@@ -1941,7 +1935,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/CanopyLighting_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/CanopyLighting.pdf",
     "features": [
       "140LM/W efficiency",
       "Corrosion-resistant construction",
@@ -2017,7 +2011,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/CanopyLighting_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/CanopyLighting.pdf",
     "features": [
       "High-lumen output for large-area illumination",
       "Corrosion-resistant, durable construction",
@@ -2093,7 +2087,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/CanopyLighting_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/CanopyLighting.pdf",
     "features": [
       "Powerful 200W LED light source",
       "Corrosion-resistant steel and aluminium housing",
@@ -2169,7 +2163,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/CanopyLighting_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/CanopyLighting.pdf",
     "features": [
       "Sleek recessed design for a modern appearance",
       "140LM/W efficiency for high brightness",
@@ -2244,7 +2238,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/CanopyLighting_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/CanopyLighting.pdf",
     "features": [
       "Energy-efficient LED lighting solution",
       "Sleek recessed design for modern environments",
@@ -2320,7 +2314,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/CanopyLighting_Spec_Sheet.pdf",
+    "PDF_link": "/PDFs/CanopyLighting.pdf",
     "features": [
       "Powerful 200W LED light source",
       "Sleek recessed design for seamless integration",
@@ -2380,7 +2374,7 @@
     ],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/LedPanelLight.pdf",
+    "PDF_link": "/PDFs/LedPanelLight.pdf",
     "features": [
       "Anti-glare UGR19",
       "Flicker-free lighting",
@@ -2461,7 +2455,7 @@
     ],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/LedPanelLight.pdf",
+    "PDF_link": "/PDFs/LedPanelLight.pdf",
     "features": [
       "Anti-glare UGR19",
       "Flicker-free lighting",
@@ -2542,7 +2536,7 @@
     ],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/LedPanelLight.pdf",
+    "PDF_link": "/PDFs/LEDDownLight.pdf",
     "features": [
       "Anti-glare, flicker-free lighting",
       "Die-cast aluminium body for passive cooling",
@@ -2621,7 +2615,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/TitanLEDBulkhead.pdf",
+    "PDF_link": "/PDFs/TitanLEDBulkhead.pdf",
     "features": [
       "High Lumen 3030 LED",
       "Aluminium Heatsink for efficient thermal management",
@@ -2710,7 +2704,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/ExplosionProtectedFloodLights.pdf",
+    "PDF_link": "/PDFs/ExplosionProtectedFloodLights.pdf",
     "features": [
       "Explosion-proof design for hazardous locations",
       "High lumen output for maximum visibility",
@@ -2891,7 +2885,7 @@
     ],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/LEDDownLight.pdf",
+    "PDF_link": "/PDFs/LEDDownLight.pdf",
     "features": [
       "Die-cast aluminium housing for passive cooling",
       "Back-lit LED technology",
@@ -2971,7 +2965,7 @@
     ],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/LEDDownLight.pdf",
+    "PDF_link": "/PDFs/LEDDownLight.pdf",
     "features": [
       "Compact, anti-glare recessed panel",
       "Back-lit LED technology",
@@ -3051,7 +3045,7 @@
     ],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/LEDDownLight.pdf",
+    "PDF_link": "/PDFs/LEDDownLight.pdf",
     "features": [
       "Anti-glare design for comfortable lighting",
       "Back-lit LED for improved light distribution",
@@ -3126,7 +3120,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "",
     "features": [
       "IP68 waterproof rating",
       "Available in 2-pin & 3-pin configurations",
@@ -3177,7 +3170,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "",
     "features": [
       "Clamp close mechanism",
       "Quick connect for easy wiring",
@@ -3223,7 +3215,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "",
     "features": [
       "Clamp close mechanism",
       "Quick connect for easy wiring",
@@ -3269,7 +3260,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "",
     "features": [
       "IP68 waterproof rating",
       "Air-tight design",
@@ -3314,7 +3304,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "",
     "features": [
       "Screw-close terminal block",
       "Nominal current: 15A",
@@ -3359,7 +3348,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "",
     "features": [
       "3x3 way connector for multiple wire connections",
       "Push spring mechanism for quick and secure wiring",
@@ -3405,7 +3393,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "",
     "features": [
       "Clamp-close mechanism for quick installation",
       "Quick connect design for secure wiring",
@@ -3451,7 +3438,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "",
     "features": [
       "Clamp-close mechanism for secure wiring",
       "Quick connect for fast installation",
@@ -3499,7 +3485,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/SolarLEDDolphinLight.pdf",
+    "PDF_link": "/PDFs/SolarLEDDolphinLight.pdf",
     "features": [
       "Curved solar panel reduces dust accumulation and improves charge efficiency",
       "High-lumen SMD2835 LED chips for consistent illumination",
@@ -3579,7 +3565,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/SolarPilar.pdf",
+    "PDF_link": "/PDFs/SolarPilar.pdf",
     "features": [
       "Double-sided or single-sided illumination",
       "Mono-crystalline solar panel with 18.5% conversion efficiency",
@@ -3656,7 +3642,7 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "/SolarStreet20.pdf",
+    "PDF_link": "/PDFs/SolarStreet20.pdf",
     "features": [
       "Smart charge controller with 7 programmable light settings",
       "Lithium-iron battery pack with 3-day autonomy",
@@ -3733,7 +3719,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "",
     "features": [
       "Designed for refrigeration and cold storage applications",
       "High luminous efficacy with various CCT and color options",
@@ -3837,7 +3822,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "",
     "features": [
       "Full-spectrum lighting for plant growth and photosynthesis",
       "Energy-efficient alternative to traditional HPS/MH grow lights",
@@ -3917,7 +3901,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "",
     "features": [
       "UV-A spectrum for sterilization and industrial applications",
       "Effective for insect attraction and commercial disinfection",
@@ -3996,7 +3979,6 @@
     "additional_images": [],
     "video_link": "",
     "video_type": "",
-    "PDF_link": "",
     "features": [
       "12V DC low-voltage operation for safe and efficient use",
       "Flexible PCB design for easy installation",
@@ -4055,4 +4037,3 @@
     "dimensions": []
   }
 ]
-
