@@ -2,162 +2,141 @@
   {
     "id": "app1",
     "name": "High-mast Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "High-mast Lighting",
     "main_image": "/StaticImages/highmast.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Robust and energy-efficient solutions designed for illuminating expansive outdoor areas, offering enhanced visibility and security for industrial and public spaces."
   },
   {
     "id": "app2",
     "name": "Harardous Areas",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Hazardous Areas Lighting",
     "main_image": "/StaticImages/hazardous.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Engineered for extreme conditions, these lighting systems provide safe, compliant illumination in volatile environments, ensuring reliability where safety is paramount."
   },
   {
     "id": "app3",
     "name": "Petrol Station Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Petrol Station Lighting",
     "main_image": "/StaticImages/petrol.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Optimized for fueling stations, these lighting solutions enhance safety and visibility with energy-efficient design and robust performance, ideal for commercial service areas."
   },
   {
     "id": "app4",
     "name": "Sports field lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Sports Field Lighting",
     "main_image": "/StaticImages/sport.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Delivering uniform, high-performance illumination for athletic fields, these systems ensure clear visibility and optimal conditions for sports and recreational activities."
   },
   {
     "id": "app5",
     "name": "Street Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Street Lighting",
     "main_image": "/StaticImages/street.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Designed for urban and suburban environments, these street lighting solutions offer consistent, energy-efficient illumination that enhances road safety and community appeal."
   },
   {
     "id": "app6",
     "name": "Outdoor Perimeter Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Outdoor Perimeter Lighting",
     "main_image": "/StaticImages/outdoor.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Tailored for securing property boundaries, these lighting systems provide robust, low-maintenance illumination that enhances security and accentuates architectural features."
   },
   {
     "id": "app7",
     "name": "Warehouse Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Warehouse Lighting",
     "main_image": "/StaticImages/Warehouse.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Engineered to boost operational efficiency, warehouse lighting delivers bright, uniform illumination in large indoor spaces, reducing energy consumption while enhancing productivity."
   },
   {
     "id": "app8",
     "name": "Mining Lights",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Mining Lights",
     "main_image": "/StaticImages/Mining.webp/",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Built to endure harsh conditions, these mining lighting solutions offer powerful and reliable illumination that enhances safety and performance in demanding underground environments."
   },
   {
     "id": "app9",
     "name": "Retail Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Retail Lighting",
     "main_image": "/StaticImages/Retail.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Enhance commercial spaces with lighting designed to showcase products and create inviting atmospheres, combining aesthetic appeal with energy-efficient performance."
   },
   {
     "id": "app10",
     "name": "Solar Powered Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Solar Powered Lighting",
     "main_image": "/StaticImages/Solar.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Harness renewable energy with solar powered lighting that delivers sustainable, cost-effective illumination ideal for off-grid and outdoor applications."
   },
   {
     "id": "app11",
     "name": "Office Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Office Lighting",
     "main_image": "/StaticImages/office.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Modern office lighting solutions create comfortable, productive work environments by providing balanced, energy-efficient illumination that meets contemporary standards."
   },
   {
     "id": "app12",
     "name": "Fridge Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Fridge Lighting",
     "main_image": "/StaticImages/fridge.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Specialized for refrigerated spaces, these lighting solutions ensure optimal visibility and efficiency while maintaining the strict temperature conditions required in cold environments."
   },
   {
     "id": "app13",
     "name": "UV Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "UV Lighting",
     "main_image": "/StaticImages/uv.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Innovative UV lighting provides targeted ultraviolet illumination for applications such as disinfection, curing, and inspection, ensuring high reliability and performance."
   },
   {
     "id": "app15",
     "name": "Cove Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Cove Lighting",
     "main_image": "/StaticImages/cove.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Offering elegant, subtle illumination, cove lighting is perfect for accentuating architectural features and creating warm, inviting spaces in both commercial and residential settings."
   },
   {
     "id": "app16",
     "name": "Recessed Office Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Recessed Office Lighting",
     "main_image": "/StaticImages/recessed.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Seamlessly integrated into interior designs, recessed office lighting provides unobtrusive, uniform illumination that enhances modern workspaces while promoting efficiency."
   },
   {
     "id": "app17",
     "name": "Cold Room Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Cold Room Lighting",
     "main_image": "/StaticImages/coldroom.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Designed for low-temperature environments, these lighting solutions deliver consistent, energy-efficient illumination that meets the rigorous demands of refrigerated storage facilities."
   },
   {
     "id": "app18",
     "name": "Retrofit LED Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Retrofit LED Lighting",
     "main_image": "/StaticImages/retrofitLED.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Retrofit LED lighting provides a sustainable upgrade to existing fixtures, combining modern technology with ease of installation to boost energy efficiency and overall performance."
   },
   {
     "id": "app19",
     "name": "Custom LED Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Custom LED Lighting",
     "main_image": "/StaticImages/custom.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Tailored to unique project requirements, custom LED lighting solutions offer bespoke designs that maximize both functionality and visual impact across various environments."
   },
   {
     "id": "app20",
     "name": "Showroom LED Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Showroom LED Lighting",
     "main_image": "/StaticImages/showroom.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Optimized for display environments, showroom LED lighting delivers superior color rendering and energy efficiency, creating engaging spaces that highlight products beautifully."
   },
   {
     "id": "app21",
     "name": "Food Processing Lighting",
-    "subname": "INDUSTRIAL FLOOD LIGHT RANGE",
+    "subname": "Food Processing Lighting",
     "main_image": "/StaticImages/food.webp",
-    "description": "Engineered with purpose and built to withstand the most challenging environments. The Industro-Flood delivers class leading capability with effortless efficiency. Progressive in its nature, the Industro-Flood challenges the status quo by delivering the highest quality of light.",
-    "PDF_link": "/healthcare-lighting-guide.pdf"
+    "description": "Engineered to meet stringent hygiene standards, food processing lighting solutions provide robust, energy-efficient illumination that supports safe and effective production environments."
   }
 ]
-
