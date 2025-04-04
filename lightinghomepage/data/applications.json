@@ -58,7 +58,7 @@
   {
     "id": "app9",
     "name": "Retail Lighting",
-    "subname": "Retail Lighting",
+    "subname": "Retail Interior Lighting",
     "main_image": "/StaticImages/Retail.webp",
     "description": "Enhance commercial spaces with lighting designed to showcase products and create inviting atmospheres, combining aesthetic appeal with energy-efficient performance."
   },
@@ -79,7 +79,7 @@
   {
     "id": "app12",
     "name": "Fridge Lighting",
-    "subname": "Fridge Lighting",
+    "subname": "Fridge & Butcher Lighting",
     "main_image": "/StaticImages/fridge.webp",
     "description": "Specialized for refrigerated spaces, these lighting solutions ensure optimal visibility and efficiency while maintaining the strict temperature conditions required in cold environments."
   },
