@@ -14,6 +14,11 @@ import {
   Leaf,
   ArrowRight,
   Calendar,
+  Droplets,
+  SunIcon as SolarIcon,
+  Banknote,
+  Landmark,
+  HardHat,
 } from "lucide-react";
 
 export default function AboutPage() {
@@ -93,7 +98,7 @@ export default function AboutPage() {
             <div className="relative">
               <div className="relative h-[500px] rounded-3xl overflow-hidden shadow-2xl">
                 <Image
-                  src="/HomeImages/palcofon_7.JPG"
+                  src="/placeholder.svg?height=1000&width=800&text=Our+Team"
                   alt="Palcofon team"
                   fill
                   className="object-cover"
@@ -212,8 +217,152 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* Key Features Section */}
+      {/* Services Section */}
       <section className="py-20 bg-white">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-16">
+            <span className="text-primary font-bold uppercase tracking-wider text-sm">
+              What We Offer
+            </span>
+            <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mt-2 mb-4">
+              Our Services
+            </h2>
+            <p className="max-w-3xl mx-auto text-gray-600 text-lg">
+              We provide comprehensive energy solutions designed to reduce costs
+              and environmental impact.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
+            {/* Lights */}
+            <div className="bg-white p-8 rounded-3xl shadow-xl border border-gray-100 hover:border-primary/20 transition-all duration-300 transform hover:scale-[1.02]">
+              <div className="bg-primary/10 p-4 rounded-2xl inline-block mb-6">
+                <Lightbulb className="h-12 w-12 text-primary" />
+              </div>
+              <h3 className="text-2xl font-bold mb-4">Lights</h3>
+              <div className="space-y-3">
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    High-efficiency lighting solutions for residential,
+                    commercial, and industrial use.
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Reduce energy consumption and operational costs.
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Integrated with smart control systems for automation and
+                    maximum energy savings.
+                  </p>
+                </div>
+              </div>
+              <div className="mt-6">
+                <Link
+                  href="/products"
+                  className="inline-flex items-center text-primary font-bold hover:underline"
+                >
+                  Explore Lighting Solutions
+                  <ArrowRight className="ml-2 h-4 w-4" />
+                </Link>
+              </div>
+            </div>
+
+            {/* Solar Geysers */}
+            <div className="bg-white p-8 rounded-3xl shadow-xl border border-gray-100 hover:border-primary/20 transition-all duration-300 transform hover:scale-[1.02]">
+              <div className="bg-primary/10 p-4 rounded-2xl inline-block mb-6">
+                <Droplets className="h-12 w-12 text-primary" />
+              </div>
+              <h3 className="text-2xl font-bold mb-4">Solar Geysers</h3>
+              <div className="space-y-3">
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Solar water heating systems using sunlight to heat water.
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Equipped with electric backup for consistent hot water.
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Saves up to 80% on water heating energy costs depending on
+                    usage.
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Offers long-term ROI and payback periods of less than 2
+                    years.
+                  </p>
+                </div>
+              </div>
+              <div className="mt-6">
+                <Link
+                  href="/contact"
+                  className="inline-flex items-center text-primary font-bold hover:underline"
+                >
+                  Learn More
+                  <ArrowRight className="ml-2 h-4 w-4" />
+                </Link>
+              </div>
+            </div>
+
+            {/* Solar Plants */}
+            <div className="bg-white p-8 rounded-3xl shadow-xl border border-gray-100 hover:border-primary/20 transition-all duration-300 transform hover:scale-[1.02]">
+              <div className="bg-primary/10 p-4 rounded-2xl inline-block mb-6">
+                <SolarIcon className="h-12 w-12 text-primary" />
+              </div>
+              <h3 className="text-2xl font-bold mb-4">Solar Plants</h3>
+              <div className="space-y-3">
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Project finance and acquisition options for large-scale
+                    solar plant development.
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Investor sourcing, site feasibility, licensing, and EPCM
+                    management.
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Ideal for utility-scale or commercial solar farms with
+                    secured offtake agreements.
+                  </p>
+                </div>
+              </div>
+              <div className="mt-6">
+                <Link
+                  href="/contact"
+                  className="inline-flex items-center text-primary font-bold hover:underline"
+                >
+                  Request Consultation
+                  <ArrowRight className="ml-2 h-4 w-4" />
+                </Link>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Key Features Section */}
+      <section className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <span className="text-primary font-bold uppercase tracking-wider text-sm">
@@ -277,6 +426,242 @@ export default function AboutPage() {
         </div>
       </section>
 
+      {/* Project Finance Section */}
+      <section className="py-20 bg-white">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-16">
+            <span className="text-primary font-bold uppercase tracking-wider text-sm">
+              Financing Solutions
+            </span>
+            <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mt-2 mb-4">
+              Project Finance Options
+            </h2>
+            <p className="max-w-3xl mx-auto text-gray-600 text-lg">
+              We offer flexible financing solutions to make energy efficiency
+              accessible for projects of all sizes.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
+            {/* Risk-Free Solar Power */}
+            <div className="bg-white p-8 rounded-3xl shadow-xl border border-gray-100 hover:border-primary/20 transition-all duration-300 transform hover:scale-[1.02]">
+              <div className="bg-primary/10 p-4 rounded-2xl inline-block mb-6">
+                <Banknote className="h-12 w-12 text-primary" />
+              </div>
+              <h3 className="text-2xl font-bold mb-4">Risk-Free Solar Power</h3>
+              <div className="space-y-3">
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Zero upfront cost, no capital outlay
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Substitutes expensive grid with affordable solar power
+                    (provides electricity below utility tariffs)
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    We carry all risks; pay only for what you use
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    No operating and maintenance costs for the duration of the
+                    contract
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Simplified contract terms between 4 and 14 years
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Client owns the solar system after contract ends
+                  </p>
+                </div>
+              </div>
+              <div className="mt-6">
+                <Link
+                  href="/contact"
+                  className="inline-flex items-center text-primary font-bold hover:underline"
+                >
+                  Learn More
+                  <ArrowRight className="ml-2 h-4 w-4" />
+                </Link>
+              </div>
+            </div>
+
+            {/* Project & Acquisition Finance */}
+            <div className="bg-white p-8 rounded-3xl shadow-xl border border-gray-100 hover:border-primary/20 transition-all duration-300 transform hover:scale-[1.02]">
+              <div className="bg-primary/10 p-4 rounded-2xl inline-block mb-6">
+                <Landmark className="h-12 w-12 text-primary" />
+              </div>
+              <h3 className="text-2xl font-bold mb-4">
+                Project & Acquisition Finance
+              </h3>
+              <div className="space-y-3">
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Sourcing of asset finance/investors for large projects in
+                    Africa and abroad
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Identifying areas with development needs and structuring
+                    improvement processes
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Acquisition finance for existing operational businesses
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Start-up financing with secured offtake agreements
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Complete project funding with hybrid finance options
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Equity options available (subject to due diligence)
+                  </p>
+                </div>
+              </div>
+              <div className="mt-6">
+                <Link
+                  href="/contact"
+                  className="inline-flex items-center text-primary font-bold hover:underline"
+                >
+                  Discuss Your Project
+                  <ArrowRight className="ml-2 h-4 w-4" />
+                </Link>
+              </div>
+            </div>
+          </div>
+
+          {/* Technical Expertise */}
+          <div className="mt-12 bg-white p-8 rounded-3xl shadow-xl border border-gray-100">
+            <div className="text-center mb-8">
+              <div className="bg-primary/10 p-4 rounded-2xl inline-block mb-4">
+                <HardHat className="h-12 w-12 text-primary" />
+              </div>
+              <h3 className="text-2xl font-bold">
+                In-Depth Technical Expertise
+              </h3>
+              <p className="text-gray-600 max-w-3xl mx-auto mt-2">
+                Our team provides comprehensive technical support throughout
+                your project lifecycle.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
+              <div className="space-y-3">
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Site selection and feasibility reviews
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Scoping, pre-feasibility, and feasibility studies
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Technology assessment and selection
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Environmental & Social Impact Assessments (ESIA)
+                  </p>
+                </div>
+              </div>
+
+              <div className="space-y-3">
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Regulatory compliance, licensing, and permitting
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Engineering, Procurement, and Construction (EPC)
+                    specification
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Development of Division of Responsibilities (DoR)
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Contract negotiations and management
+                  </p>
+                </div>
+              </div>
+
+              <div className="space-y-3">
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Carbon credits and tax incentive optimization
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Master plan development aligned with national priorities
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Construction oversight, plant testing, and commissioning
+                  </p>
+                </div>
+                <div className="flex items-start">
+                  <CheckCircle className="h-5 w-5 text-primary mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-gray-700">
+                    Staff training and ongoing support
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Asset Finance Section */}
       <section className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
@@ -284,7 +669,7 @@ export default function AboutPage() {
             <div className="order-2 md:order-1">
               <div className="relative h-[500px] rounded-3xl overflow-hidden shadow-2xl">
                 <Image
-                  src="/HomeImages/palcofon_3.JPG"
+                  src="/placeholder.svg?height=1000&width=800&text=Sustainable+Development"
                   alt="Sustainable development"
                   fill
                   className="object-cover"
