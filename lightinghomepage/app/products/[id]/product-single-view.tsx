@@ -622,7 +622,7 @@ export default function ProductSingleView({
                 src={productImages[mainImageIndex] || "/placeholder.svg"}
                 alt={`${product.name} - Image ${mainImageIndex + 1}`}
                 fill
-                className="object-cover transition-transform duration-300 group-hover:scale-105"
+                className="object-contain transition-transform duration-300 group-hover:scale-105"
               />
               <div className="absolute inset-0 bg-black/5 opacity-0 group-hover:opacity-100 flex items-center justify-center transition-opacity rounded-3xl">
                 <div className="bg-primary/90 text-white p-3 rounded-full transform transition-transform group-hover:scale-110">
