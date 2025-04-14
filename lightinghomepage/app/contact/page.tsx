@@ -227,7 +227,7 @@ export default function ContactPage() {
                   <div className="bg-white p-4 rounded-2xl shadow-lg">
                     <MapPin className="h-6 w-6 text-primary mx-auto mb-2" />
                     <p className="font-bold text-center">
-                      Johannesburg, South Africa
+                      Gauteng, South Africa
                     </p>
                   </div>
                 </div>

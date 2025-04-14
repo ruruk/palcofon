@@ -1137,7 +1137,7 @@ export default function Home() {
                   <div className="ml-4">
                     <h4 className="text-lg font-bold">Our Location</h4>
                     <p className="text-gray-600 mt-1">
-                      Palcofon (Pty) Ltd, Johannesburg, South Africa
+                      Palcofon (Pty) Ltd, Gauteng, South Africa
                     </p>
                   </div>
                 </div>
