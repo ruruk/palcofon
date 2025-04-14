@@ -337,7 +337,7 @@
     "application_ids": ["app8"],
     "beam_angle": "",
     "luminous_flux": "1500lm - 2500lm",
-    "power_factor": "0.9",
+    "power_factor": "0.97",
     "surge_protection": "",
     "housing_material": "UV stabilised polycarbonate body and opal diffuser",
     "dimming": "No",
