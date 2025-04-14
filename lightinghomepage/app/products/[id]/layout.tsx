@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // Create absolute URL for the image
   const absoluteImageUrl = new URL(
     imageUrl,
-    process.env.NEXT_PUBLIC_SITE_URL || "https://palcofon.com"
+    process.env.NEXT_PUBLIC_SITE_URL
   ).toString();
 
   return {
