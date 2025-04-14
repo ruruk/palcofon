@@ -3,13 +3,13 @@
     "id": "prod1",
     "name": "SANTERO",
     "description": "The innovative adjustable beam angle LED highbay is a revolutionary new series of LED highbay allowing the user to adjust the beam angle according to the requirements of the application. The light output beam angle can be adjusted to three settings. 145lm/w.",
-    "main_image": "/productGallery/prod1_SANTERO_1.png",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/UFO1.png",
     "images": [
-      "/productGallery/prod1_SANTERO_1.png",
-      "/productGallery/prod1_SANTERO_2.jpeg",
-      "/productGallery/prod1_SANTERO_3.jpg",
-      "/productGallery/prod1_SANTERO_4.png",
-      "/productGallery/prod1_SANTERO_5.JPEG"
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/1F47CAB6-90C7-46D0-8148-C50711E4D401.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/HB.jpg/:/rs=w:1280,h:1345",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/HB12.png/:/",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/LEns.JPEG/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280,h:1707",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/HB.jpg/:/rs=w:1280,h:1345"
     ],
     "certification_images": [
       "/certificationImages/c5YW.jpeg",
@@ -91,12 +91,11 @@
     "id": "prod2",
     "name": "COVEY",
     "description": "The COVEY Linear highbay delivers class-leading versatility with effortless efficiency. Engineered with precision, it operates interchangeably between Highbay and Flood light applications, providing IP65 rugged durability.",
-    "main_image": "/productGallery/prod2_COVEY_1.jpeg",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Linear%20HB.jpeg",
     "images": [
-      "/productGallery/prod2_COVEY_1.jpeg",
-      "/productGallery/prod2_COVEY_2.jpeg",
-      "/productGallery/prod2_COVEY_3.jpeg",
-      "/productGallery/prod2_COVEY_4.jpeg"
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/LHB.jpeg/:/rs=w:1280,h:766",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/AEDB5F66-5C33-421F-AAEF-8B4142A4E36A.jpeg/:/rs=w:1280,h:960",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/E562A0D3-51A7-4451-86BE-B98ADEAD38CD.jpeg/:/rs=w:1280,h:960"
     ],
     "certification_images": [
       "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Made%20SA.jpeg/:/rs=w:100,h:100,cg:true,m/cr=w:100,h:100",
@@ -204,13 +203,12 @@
     "id": "prod3",
     "name": "MERRILL",
     "description": "The MERRILL Titan delivers class-leading versatility with effortless efficiency. Engineered for Highbay, Flood light, and High-mast applications with IP65 rugged durability. Designed for high performance, energy efficiency, and long-term reliability.",
-    "main_image": "/productGallery/prod3_MERRILL_1.jpeg",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/TITAN%20HB.jpeg",
     "images": [
-      "/productGallery/prod3_MERRILL_1.jpeg",
-      "/productGallery/prod3_MERRILL_2.jpeg",
-      "/productGallery/prod3_MERRILL_3.jpeg",
-      "/productGallery/prod3_MERRILL_4.jpeg",
-      "/productGallery/prod3_MERRILL_5.jpeg"
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A298F660-CF4F-4921-B9B0-6C5E6742C41C.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2829.jpeg/:/cr=t:7.46%25,l:0%25,w:100%25,h:85.07%25/rs=w:984,h:740",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2831.jpeg/:/cr=t:0%25,l:2.34%25,w:95.33%25,h:100%25/rs=w:719,h:541",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2830.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1160,h:644"
     ],
     "certification_images": [
       "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Made%20SA.jpeg/:/rs=w:100,h:100,cg:true,m/cr=w:100,h:100",
@@ -324,11 +322,11 @@
     "id": "prod65",
     "name": "Palco Retrofit",
     "description": "The Palco Retrofit Bulkhead is designed for easy replacement of traditional fittings with a modern LED solution. Offering energy efficiency, uniform light output, and durable construction, it's ideal for surface or wall-mounted applications.",
-    "main_image": "/productGallery/palcoRetrofit1.png",
+    "main_image": "/productImages/palcoRetrofit1.png",
     "images": [
-      "/productGallery/palcoRetrofit1.png",
-      "/productGallery/palcoRetrofit2.png",
-      "/productGallery/palcoRetrofit3.png"
+      "/productImages/palcoRetrofit1.png",
+      "/productImages/palcoRetrofit2.png",
+      "/productImages/palcoRetrofit3.png"
     ],
     "certification_images": [],
     "wattage": "36W - 56W",
@@ -415,8 +413,10 @@
     "id": "prod4",
     "name": "Divinity Gen 1",
     "description": "The Gen1 Tri-Proof Linear Luminaire is a highly durable lighting system designed for industrial and commercial environments. With IP65 and IK08 ratings, it provides uniform illumination with energy efficiency.",
-    "main_image": "/productGallery/prod4_DIVINITY_GEN_1_1.jpeg",
-    "images": ["/productGallery/prod4_DIVINITY_GEN_1_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2884.jpeg",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2884.jpeg/:/cr=t:0%25,l:5.69%25,w:88.62%25,h:100%25/rs=w:600,h:451,cg:true"
+    ],
     "wattage": "18W - 60W",
     "ip_rating": "IP65",
     "warranty": "5 years",
@@ -513,8 +513,10 @@
     "id": "prod5",
     "name": "Divinity Gen 2",
     "description": "The Gen2 Tri-Proof Linear Luminaire is built for extreme conditions, offering enhanced durability with IP66 and IK09 ratings. Made in South Africa, it delivers high efficiency with a system efficacy of 130LM/W.",
-    "main_image": "/productGallery/prod5_DIVINITY_GEN_2_1.png",
-    "images": ["/productGallery/prod5_DIVINITY_GEN_2_1.png"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2879.png",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2879.png/:/rs=w:600,h:451.12781954887214,cg:true,m/cr=w:600,h:451.12781954887214"
+    ],
     "wattage": "18W - 60W",
     "ip_rating": "IP66",
     "warranty": "5 years",
@@ -588,8 +590,10 @@
     "id": "prod6",
     "name": "Titan Baro",
     "description": "The Titan Flood Light 50W is a high-performance, energy-efficient industrial-grade flood light. Engineered for reliability and designed for rugged durability, it is ideal for general area lighting, sports fields, warehouses, and high-mast applications.",
-    "main_image": "/productGallery/prod6_TITAN_BARO_1.jpeg",
-    "images": ["/productGallery/prod6_TITAN_BARO_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/2DC7AF00-BB38-4B26-88D7-DC519739BFC2.jpeg",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/2DC7AF00-BB38-4B26-88D7-DC519739BFC2.jpeg/:/cr=t:18.34%25,l:23.84%25,w:49.73%25,h:56.18%25/rs=w:600,h:451,cg:true,m"
+    ],
     "certification_images": [],
     "wattage": "50W",
     "ip_rating": "IP65",
@@ -654,8 +658,10 @@
     "id": "prod7",
     "name": "Titan Baro",
     "description": "The Titan Flood Light 150W is an industrial-grade high-performance lighting solution. Designed for rugged outdoor applications, it ensures uniform illumination with energy efficiency.",
-    "main_image": "/productGallery/prod7_TITAN_BARO_1.webp",
-    "images": ["/productGallery/prod7_TITAN_BARO_1.webp"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_3150.webp",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_3150.webp/:/cr=t:5.37%25,l:5.36%25,w:89.29%25,h:89.26%25/rs=w:600,h:451,cg:true,m"
+    ],
     "certification_images": [],
     "wattage": "150W",
     "ip_rating": "IP65",
@@ -697,8 +703,10 @@
     "id": "prod8",
     "name": "Titan Baro",
     "description": "The Titan Flood Light 200W is a high-performance floodlight ideal for high-mast applications, sports fields, and general outdoor lighting. Designed for durability and efficiency, it provides consistent and powerful illumination.",
-    "main_image": "/productGallery/prod8_TITAN_BARO_1.webp",
-    "images": ["/productGallery/prod8_TITAN_BARO_1.webp"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_3151.webp",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_3151.webp/:/cr=t:7.64%25,l:7.63%25,w:84.75%25,h:84.73%25/rs=w:600,h:451,cg:true,m"
+    ],
     "certification_images": [],
     "wattage": "200W",
     "ip_rating": "IP65",
@@ -740,8 +748,10 @@
     "id": "prod9",
     "name": "Titan Industro",
     "description": "The Industrial Flood Light 50W is engineered for durability and efficiency, offering high-quality illumination in industrial and commercial environments. Designed with corrosion resistance and IP65 protection, it delivers reliable performance in challenging conditions.",
-    "main_image": "/productGallery/prod9_TITAN_INDUSTRO_1.JPEG",
-    "images": ["/productGallery/prod9_TITAN_INDUSTRO_1.JPEG"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/92F3ECF7-2D0D-4DFA-8DFE-140A02933110.JPEG/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:600,h:451,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/92F3ECF7-2D0D-4DFA-8DFE-140A02933110.JPEG/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:600,h:451,cg:true"
+    ],
     "certification_images": [],
     "wattage": "50W",
     "ip_rating": "IP65",
@@ -785,8 +795,10 @@
     "id": "prod10",
     "name": "Titan Industro",
     "description": "The Industrial Flood Light 100W is a high-performance lighting solution built for industrial-grade applications. Designed with IP65 protection and IK08 impact resistance, it ensures reliable operation in demanding environments.",
-    "main_image": "/productGallery/prod10_TITAN_INDUSTRO_1.JPEG",
-    "images": ["/productGallery/prod10_TITAN_INDUSTRO_1.JPEG"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A8873031-1022-4709-A5A2-794D5A4A05F8.JPEG/:/cr=t:20.56%25,l:21.26%25,w:62.34%25,h:62.5%25/rs=w:600,h:451,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A8873031-1022-4709-A5A2-794D5A4A05F8.JPEG/:/cr=t:20.56%25,l:21.26%25,w:62.34%25,h:62.5%25/rs=w:600,h:451,cg:true,m"
+    ],
     "certification_images": [],
     "wattage": "100W",
     "ip_rating": "IP65",
@@ -830,8 +842,10 @@
     "id": "prod11",
     "name": "Titan Industro",
     "description": "The Industrial Flood Light 150W offers industrial-grade illumination for high-mast, sports field, and general area lighting applications. With rugged durability and energy-efficient performance, it ensures long-term reliability.",
-    "main_image": "/productGallery/prod11_TITAN_INDUSTRO_1.jpeg",
-    "images": ["/productGallery/prod11_TITAN_INDUSTRO_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/75A1E253-E18C-4752-8B74-16062E447C1E.jpeg/:/cr=t:5.95%25,l:13.63%25,w:80.44%25,h:80.65%25/rs=w:600,h:451,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/75A1E253-E18C-4752-8B74-16062E447C1E.jpeg/:/cr=t:5.95%25,l:13.63%25,w:80.44%25,h:80.65%25/rs=w:600,h:451,cg:true,m"
+    ],
     "certification_images": [],
     "wattage": "150W",
     "ip_rating": "IP65",
@@ -875,8 +889,10 @@
     "id": "prod12",
     "name": "Titan Industro",
     "description": "The Industrial Flood Light 200W is a powerful floodlight designed for large-scale applications. Engineered with high-efficiency LED technology and built for durability, it provides long-lasting illumination in tough environments.",
-    "main_image": "/productGallery/prod12_TITAN_INDUSTRO_1.jpeg",
-    "images": ["/productGallery/prod12_TITAN_INDUSTRO_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Industroflood.jpeg/:/cr=t:15.88%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451.12781954887214,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Industroflood.jpeg/:/cr=t:15.88%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451.12781954887214,cg:true"
+    ],
     "certification_images": [],
     "wattage": "200W",
     "ip_rating": "IP65",
@@ -920,8 +936,10 @@
     "id": "prod13",
     "name": "Titan Industro",
     "description": "The Industrial Flood Light 400W is a high-powered floodlight designed for large-scale industrial and outdoor applications. With robust IP65 protection and high-lumen output, it ensures exceptional illumination and long-lasting durability.",
-    "main_image": "/productGallery/prod13_TITAN_INDUSTRO_1.jpg",
-    "images": ["/productGallery/prod13_TITAN_INDUSTRO_1.jpg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/PhotoRoom_20240220_144801.jpg/:/cr=t:3.53%25,l:10.97%25,w:76.73%25,h:76.92%25/rs=w:600,h:451,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/PhotoRoom_20240220_144801.jpg/:/cr=t:3.53%25,l:10.97%25,w:76.73%25,h:76.92%25/rs=w:600,h:451,cg:true,m"
+    ],
     "certification_images": [],
     "wattage": "400W",
     "ip_rating": "IP65",
@@ -965,8 +983,10 @@
     "id": "prod14",
     "name": "Titan Gyro",
     "description": "The Gyro Flood Light is designed for industrial and commercial applications requiring versatile illumination. With adjustable lighting angles and rugged IP65 protection, it provides reliable and efficient performance.",
-    "main_image": "/productGallery/prod14_TITAN_GYRO_1.jpeg",
-    "images": ["/productGallery/prod14_TITAN_GYRO_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/gyro.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/gyro.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451,cg:true"
+    ],
     "certification_images": [],
     "wattage": "100W - 200W",
     "ip_rating": "IP65",
@@ -1007,8 +1027,8 @@
     "id": "prod18",
     "name": "SLIMLINE 3",
     "description": "The Flood Light 30W is a commercial-grade lighting solution designed for general outdoor and area lighting applications. Featuring IP66 protection and IK09 impact resistance, it delivers durability and efficiency.",
-    "main_image": "/productGallery/semory30w.png",
-    "images": ["/productGallery/semory30w.png"],
+    "main_image": "/productImages/semory30w.png",
+    "images": ["/productImages/semory30w.png"],
     "certification_images": [],
     "wattage": "30W",
     "ip_rating": "IP66",
@@ -1049,8 +1069,10 @@
     "id": "prod19",
     "name": "SLIMLINE 5",
     "description": "The Flood Light 50W is a commercial-grade lighting solution designed for general outdoor and area lighting applications. Featuring IP66 protection and IK09 impact resistance, it delivers durability and efficiency.",
-    "main_image": "/productGallery/prod19_SLIMLINE_5_1.webp",
-    "images": ["/productGallery/prod19_SLIMLINE_5_1.webp"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_4773.webp/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_4773.webp/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451,cg:true"
+    ],
     "certification_images": [],
     "wattage": "50W",
     "ip_rating": "IP66",
@@ -1091,8 +1113,10 @@
     "id": "prod20",
     "name": "T8 Ultra-LX S",
     "description": "The Ultra-Series T8 LED Tube is a high-efficiency lighting solution designed for commercial and industrial applications. With up to 155 lumens per watt, it delivers outstanding performance and energy savings.",
-    "main_image": "/productGallery/prod20_T8_ULTRA_LX_S_1.jpeg",
-    "images": ["/productGallery/prod20_T8_ULTRA_LX_S_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2951.jpeg/:/cr=t:2.5%25,l:0%25,w:100%25,h:95%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2951.jpeg/:/cr=t:2.5%25,l:0%25,w:100%25,h:95%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
     "certification_images": [],
     "wattage": "6W - 32W",
     "ip_rating": "N/A",
@@ -1151,8 +1175,10 @@
     "id": "prod21",
     "name": "T8 Commercial S",
     "description": "The T8 Commercial Series LED Tube provides a reliable and energy-efficient lighting solution for general-purpose applications. With an efficacy of 100 lumens per watt, it is ideal for commercial lighting environments.",
-    "main_image": "/productGallery/prod21_T8_COMMERCIAL_S_1.jpeg",
-    "images": ["/productGallery/prod21_T8_COMMERCIAL_S_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/COMM%20Series.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:388,h:292,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/COMM%20Series.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:388,h:292,cg:true"
+    ],
     "certification_images": [],
     "wattage": "9W - 23W",
     "ip_rating": "N/A",
@@ -1211,8 +1237,10 @@
     "id": "prod22",
     "name": "T8 Green S",
     "description": "The Green Series T8 LED Tube is a budget-friendly, energy-efficient solution for retrofit applications. Delivering 90 lumens per watt, it is designed for low-energy consumption and environmental sustainability.",
-    "main_image": "/productGallery/prod22_T8_GREEN_S_1.jpeg",
-    "images": ["/productGallery/prod22_T8_GREEN_S_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/869505D9-114D-4B3A-A3B3-F6A2CBC9E324.jpeg/:/cr=t:31.75%25,l:33.85%25,w:32.31%25,h:36.5%25/rs=w:388,h:292,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/869505D9-114D-4B3A-A3B3-F6A2CBC9E324.jpeg/:/cr=t:31.75%25,l:33.85%25,w:32.31%25,h:36.5%25/rs=w:388,h:292,cg:true,m"
+    ],
     "certification_images": [],
     "wattage": "9W - 36W",
     "ip_rating": "N/A",
@@ -1283,8 +1311,10 @@
     "id": "prod23",
     "name": "T5 EXO S",
     "description": "The T5 EXO LED Tube is a high-performance lighting solution designed for energy-efficient retrofit applications. With a slim profile and robust construction, it is ideal for commercial and industrial environments.",
-    "main_image": "/productGallery/prod23_T5_EXO_S_1.jpeg",
-    "images": ["/productGallery/prod23_T5_EXO_S_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2962.jpeg/:/cr=t:6.75%25,l:0%25,w:100%25,h:86.5%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2962.jpeg/:/cr=t:6.75%25,l:0%25,w:100%25,h:86.5%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
     "certification_images": [],
     "wattage": "9W - 36W",
     "ip_rating": "N/A",
@@ -1343,8 +1373,10 @@
     "id": "prod24",
     "name": "T5 Ultra-LX S",
     "description": "The T5 Ultra-Lux LED Tube is a premium lighting solution offering high-lumen output and energy efficiency. Designed for high-performance commercial and industrial applications, it ensures superior illumination and reliability.",
-    "main_image": "/productGallery/prod24_T5_ULTRA_LX_S_1.jpeg",
-    "images": ["/productGallery/prod24_T5_ULTRA_LX_S_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2963.jpeg/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:388,h:292,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2963.jpeg/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:388,h:292,cg:true"
+    ],
     "certification_images": [],
     "wattage": "9W - 36W",
     "ip_rating": "N/A",
@@ -1403,8 +1435,10 @@
     "id": "prod25",
     "name": "T5 Civic S",
     "description": "The T5 Civic LED Tube is a cost-effective, energy-efficient solution for general lighting applications. Designed for commercial and residential use, it offers reliable performance and reduced energy consumption.",
-    "main_image": "/productGallery/prod25_T5_CIVIC_S_1.jpeg",
-    "images": ["/productGallery/prod25_T5_CIVIC_S_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2969.jpeg/:/cr=t:7.5%25,l:0%25,w:100%25,h:85%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2969.jpeg/:/cr=t:7.5%25,l:0%25,w:100%25,h:85%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
     "certification_images": [],
     "wattage": "9W - 36W",
     "ip_rating": "N/A",
@@ -1463,8 +1497,10 @@
     "id": "prod26",
     "name": "T12 EXO S",
     "description": "The T12 LED Tube is a high-efficiency, long-lasting lighting solution designed as a retrofit for traditional T12 fluorescent tubes. It offers superior illumination and energy savings for commercial and industrial applications.",
-    "main_image": "/productGallery/prod26_T12_EXO_S_1.jpeg",
-    "images": ["/productGallery/prod26_T12_EXO_S_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2956.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2956.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,cg:true"
+    ],
     "certification_images": [],
     "wattage": "10W - 40W",
     "ip_rating": "N/A",
@@ -1535,10 +1571,10 @@
     "id": "prod27",
     "name": "T5 PRIME",
     "description": "The T5 Integrated LED Tube is a minimalistic and efficient lighting solution designed to replace outdated fluorescent tubes and batten fixtures. Ideal for commercial and industrial environments including offices, retail stores, car parks, amenities, cold storage, refrigeration, and general lighting.",
-    "main_image": "/productGallery/prod27_T5_PRIME_1.jpeg",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2957.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451,cg:true",
     "images": [
-      "/productGallery/prod27_T5_PRIME_1.jpeg",
-      "/productGallery/prod27_T5_PRIME_2.jpeg"
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2957.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2940.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1160,h:870"
     ],
     "certification_images": [],
     "wattage": "",
@@ -1590,12 +1626,12 @@
     "id": "prod28",
     "name": "CAMELOT",
     "description": "The CAMELOT is a high-efficiency lighting solution designed for urban and industrial street lighting applications. Featuring 140LM/W luminous efficacy, IP66 protection, and surge protection, it offers reliable and durable illumination with a 180-degree flexible rotation feature.",
-    "main_image": "/productGallery/prod28_CAMELOT_1.jpeg",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2906.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984",
     "images": [
-      "/productGallery/prod28_CAMELOT_1.jpeg",
-      "/productGallery/prod28_CAMELOT_2.jpeg",
-      "/productGallery/prod28_CAMELOT_3.jpeg",
-      "/productGallery/prod28_CAMELOT_4.jpeg"
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2906.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/D8F3DE8D-F40F-468C-9103-9632C38805D5.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:1280,h:962",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A0C50074-5AD7-45D4-BAC8-7D3CF616FA12.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280,h:720",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/DD2BF24C-B86F-4606-B079-DE2A1DC9AB77.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280,h:960"
     ],
     "certification_images": [],
     "wattage": "",
@@ -1642,12 +1678,12 @@
     "id": "prod29",
     "name": "NICOLO",
     "description": "The Nicoolo Linear Gyro LED Light is a high-performance lighting solution designed for retail applications. With dual adjustable sides and low-glare, flicker-free illumination, it enhances visibility and focus in product displays and aisles.",
-    "main_image": "/productGallery/prod29_NICOLO_1.jpeg",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2929.jpeg/:/cr=t:24.81%25,l:0%25,w:100%25,h:75.19%25/rs=w:388,h:291.72932330827064,cg:true",
     "images": [
-      "/productGallery/prod29_NICOLO_1.jpeg",
-      "/productGallery/prod29_NICOLO_2.png",
-      "/productGallery/prod29_NICOLO_3.jpeg",
-      "/productGallery/prod29_NICOLO_4.jpeg"
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2929.jpeg/:/cr=t:24.81%25,l:0%25,w:100%25,h:75.19%25/rs=w:388,h:291.72932330827064,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2928.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1160,h:726",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2927.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/02E53489-52F4-4326-8F04-9B73D6252FCA.jpeg/:/cr=t:23.59%25,l:25.67%25,w:48.08%25,h:48.08%25/rs=w:1280,h:852"
     ],
     "certification_images": [],
     "wattage": "100W",
@@ -1706,10 +1742,10 @@
     "id": "prod30",
     "name": "DANTE",
     "description": "The Dante Classic Linear LED Light is a timeless lighting solution that combines elegance with efficiency. Designed to seamlessly integrate into various settings, it offers a perfect balance of form and function, providing uniform and bright illumination while enhancing the aesthetic appeal of any space.",
-    "main_image": "/productGallery/prod30_DANTE_1.jpeg",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2934.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25",
     "images": [
-      "/productGallery/prod30_DANTE_1.jpeg",
-      "/productGallery/prod30_DANTE_2.jpeg"
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2934.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2935.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1160,h:592"
     ],
     "certification_images": [],
     "wattage": "",
@@ -1761,8 +1797,10 @@
     "id": "prod31",
     "name": "TRADEX GEN 2",
     "description": "Perfectly designed for use in offices, showrooms, meeting rooms, restaurants, hotels, shops, classrooms, corridors, communal spaces, and kitchens. The TRADEX GEN 2 LED Batten provides high brightness, energy savings, and flicker-free illumination with a wide beam angle for shadow-free coverage.",
-    "main_image": "/productGallery/prod31_TRADEX_GEN_2_1.jpeg",
-    "images": ["/productGallery/prod31_TRADEX_GEN_2_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-10a.jpeg/:/cr=t:0%25,l:16.17%25,w:67.66%25,h:100%25/rs=w:600,h:600,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-10a.jpeg/:/cr=t:0%25,l:16.17%25,w:67.66%25,h:100%25/rs=w:600,h:600,cg:true"
+    ],
     "certification_images": [],
     "wattage": "",
     "ip_rating": "N/A",
@@ -1841,8 +1879,10 @@
     "id": "prod32",
     "name": "ESSENCE",
     "description": "Perfectly designed for use in offices, showrooms, meeting rooms, restaurants, hotels, shops, classrooms, corridors, communal spaces, kitchens, and more. The Linear Essence LED Light provides high brightness and quality light output with high efficiency, easy on the eye and flicker-free colour rendering. It features even light dispersion, minimal heat output, and a wide beam angle for shadow-free coverage. The LED batten includes an inbuilt driver and switches on instantly without noise or flickering.",
-    "main_image": "/productGallery/prod32_ESSENCE_1.jpeg",
-    "images": ["/productGallery/prod32_ESSENCE_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-9a.jpeg/:/cr=t:16.17%25,l:0%25,w:100%25,h:67.66%25/rs=w:600,h:600,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-9a.jpeg/:/cr=t:16.17%25,l:0%25,w:100%25,h:67.66%25/rs=w:600,h:600,cg:true"
+    ],
     "certification_images": [],
     "wattage": "",
     "ip_rating": "",
@@ -1920,11 +1960,11 @@
     "id": "prod33",
     "name": "ZHAGA",
     "description": "Perfectly designed for use in offices, showrooms, meeting rooms, restaurants, hotels, shops, classrooms, corridors, communal spaces, kitchens, and more. The Linear Zhaga Retail LED Light provides high brightness and quality light output with high efficiency. It is easy on the eye with flicker-free colour rendering, offering even light dispersion with minimal heat output. The LED batten includes an inbuilt driver and switches on instantly without noise or flickering, making it an ideal choice for commercial and retail lighting applications.",
-    "main_image": "/productGallery/prod33_ZHAGA_1.jpeg",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-8a.jpeg/:/cr=t:24.56%25,l:0%25,w:100%25,h:50.87%25/rs=w:1240,h:932,cg:true",
     "images": [
-      "/productGallery/prod33_ZHAGA_1.jpeg",
-      "/productGallery/prod33_ZHAGA_2.jpeg",
-      "/productGallery/prod33_ZHAGA_3.jpeg"
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-8a.jpeg/:/cr=t:24.56%25,l:0%25,w:100%25,h:50.87%25/rs=w:1240,h:932,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-1a.jpeg/:/cr=t:4.89%25,l:0%25,w:100%25,h:90.22%25/rs=w:600,h:800,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/Untitled-5a.jpeg/:/cr=t:4.89%25,l:0%25,w:100%25,h:90.22%25/rs=w:600,h:800,cg:true"
     ],
     "certification_images": [],
     "wattage": "",
@@ -1998,8 +2038,10 @@
     "id": "prod34",
     "name": "VITALI 1",
     "description": "The 100W Surface Mount Canopy Light is a high-performance LED fixture designed for petrol stations, tunnels, garages, and parking areas. Featuring a robust design, it delivers 140LM/W efficiency and long-lasting illumination.",
-    "main_image": "/productGallery/prod34_VITALI_1_1.jpeg",
-    "images": ["/productGallery/prod34_VITALI_1_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/FB590AF9-D1FA-4151-8222-F9C64248B658.jpeg/:/cr=t:24.49%25,l:27.42%25,w:45.17%25,h:51.02%25/rs=w:365,h:274,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/FB590AF9-D1FA-4151-8222-F9C64248B658.jpeg/:/cr=t:24.49%25,l:27.42%25,w:45.17%25,h:51.02%25/rs=w:365,h:274,cg:true,m"
+    ],
     "certification_images": [],
     "wattage": "100W",
     "ip_rating": "IP65",
@@ -2072,8 +2114,10 @@
     "id": "prod35",
     "name": "VITALI 15",
     "description": "The 150W Surface Mount Canopy Light provides high-output illumination for petrol stations, tunnels, garages, and other large area applications. Designed for efficiency and durability with IP65 rating and corrosion resistance.",
-    "main_image": "/productGallery/prod35_VITALI_15_1.jpeg",
-    "images": ["/productGallery/prod35_VITALI_15_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A1836D1E-2D4E-4E3A-A811-426D026DF0DE.jpeg/:/cr=t:7.63%25,l:7.73%25,w:84.53%25,h:84.75%25/rs=w:365,h:274,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A1836D1E-2D4E-4E3A-A811-426D026DF0DE.jpeg/:/cr=t:7.63%25,l:7.73%25,w:84.53%25,h:84.75%25/rs=w:365,h:274,cg:true,m"
+    ],
     "certification_images": [],
     "wattage": "150W",
     "ip_rating": "IP65",
@@ -2146,8 +2190,10 @@
     "id": "prod36",
     "name": "VITALI 2",
     "description": "The 200W Surface Mount Canopy Light delivers industry-leading illumination for fuel stations, industrial areas, and garages. With corrosion resistance and high-efficiency LED technology, it ensures powerful lighting with low maintenance.",
-    "main_image": "/productGallery/prod36_VITALI_2_1.jpeg",
-    "images": ["/productGallery/prod36_VITALI_2_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/7BE8C1B5-37F9-4A90-9999-3ACD77D36B7B.jpeg/:/cr=t:11.54%25,l:11.63%25,w:76.73%25,h:76.92%25/rs=w:365,h:274,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/7BE8C1B5-37F9-4A90-9999-3ACD77D36B7B.jpeg/:/cr=t:11.54%25,l:11.63%25,w:76.73%25,h:76.92%25/rs=w:365,h:274,cg:true,m"
+    ],
     "certification_images": [],
     "wattage": "200W",
     "ip_rating": "IP65",
@@ -2220,8 +2266,10 @@
     "id": "prod37",
     "name": "VITALI RECESSED 1",
     "description": "The 100W Recessed Mount Canopy Light is a high-performance LED fixture designed for petrol stations, tunnels, and industrial applications. Its recessed design ensures a sleek, modern look while providing 140LM/W efficiency and long-lasting illumination.",
-    "main_image": "/productGallery/prod37_VITALI_RECESSED_1_1.jpeg",
-    "images": ["/productGallery/prod37_VITALI_RECESSED_1_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/3AFE0CA1-15C8-4988-94B7-1D793662CBF5.jpeg/:/cr=t:26.64%25,l:29.32%25,w:41.37%25,h:46.73%25/rs=w:365,h:274,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/3AFE0CA1-15C8-4988-94B7-1D793662CBF5.jpeg/:/cr=t:26.64%25,l:29.32%25,w:41.37%25,h:46.73%25/rs=w:365,h:274,cg:true,m"
+    ],
     "certification_images": [],
     "wattage": "100W",
     "ip_rating": "IP65",
@@ -2293,8 +2341,10 @@
     "id": "prod38",
     "name": "VITALI RECESSED 15",
     "description": "The 150W Recessed Mount Canopy Light provides high-lumen output for petrol stations, warehouses, and industrial spaces. With a recessed installation, it offers a modern aesthetic while maintaining high efficiency and durability.",
-    "main_image": "/productGallery/prod38_VITALI_RECESSED_15_1.jpeg",
-    "images": ["/productGallery/prod38_VITALI_RECESSED_15_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/D63B824E-1183-4B12-A9C7-6DCBCAEA35A9.jpeg/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:365,h:274,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/D63B824E-1183-4B12-A9C7-6DCBCAEA35A9.jpeg/:/cr=t:0%25,l:0.12%25,w:99.75%25,h:100%25/rs=w:365,h:274,cg:true"
+    ],
     "certification_images": [],
     "wattage": "150W",
     "ip_rating": "IP65",
@@ -2367,8 +2417,10 @@
     "id": "prod39",
     "name": "VITALI RECESSED 2",
     "description": "The 200W Recessed Mount Canopy Light is built for maximum efficiency in large-scale lighting applications such as fuel stations, warehouses, and tunnels. With its sleek recessed installation, it blends seamlessly into modern spaces while delivering superior illumination.",
-    "main_image": "/productGallery/prod39_VITALI_RECESSED_2_1.jpeg",
-    "images": ["/productGallery/prod39_VITALI_RECESSED_2_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/BEB85A95-D2AF-4FEA-8D57-76B8D6698F30.jpeg/:/cr=t:33.22%25,l:35.15%25,w:29.71%25,h:33.56%25/rs=w:365,h:274,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/BEB85A95-D2AF-4FEA-8D57-76B8D6698F30.jpeg/:/cr=t:33.22%25,l:35.15%25,w:29.71%25,h:33.56%25/rs=w:365,h:274,cg:true,m"
+    ],
     "certification_images": [],
     "wattage": "200W",
     "ip_rating": "IP65",
@@ -2420,8 +2472,10 @@
     "id": "prod40",
     "name": "SEMOURY S",
     "description": "The SEMOURY S LED Panel Light 600x600 is a high-efficiency, back-lit LED panel designed to replace traditional modular panels. Featuring an ultra-slim casing, anti-glare UGR19, and flicker-free technology, it is ideal for office lighting, retail, and conference centers.",
-    "main_image": "/productGallery/prod40_SEMOURY_S_1.jpeg",
-    "images": ["/productGallery/prod40_SEMOURY_S_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2868.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451.12781954887214,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2868.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451.12781954887214,cg:true"
+    ],
     "certification_images": [],
     "wattage": "40W",
     "ip_rating": "IP20",
@@ -2499,8 +2553,10 @@
     "id": "prod41",
     "name": "SEMOURY L",
     "description": "The SEMOURY L LED Panel Light 1200x600 offers high brightness and anti-glare lighting for large office spaces. With a wide beam angle and modular panel replacement, it provides excellent light uniformity and flicker-free performance.",
-    "main_image": "/productGallery/prod41_SEMOURY_L_1.jpeg",
-    "images": ["/productGallery/prod41_SEMOURY_L_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/4FE8C935-D1CD-4744-84C3-24630B2D5D21.jpeg/:/cr=t:30%25,l:32.29%25,w:35.41%25,h:40%25/rs=w:1200,h:902,cg:true,m",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/4FE8C935-D1CD-4744-84C3-24630B2D5D21.jpeg/:/cr=t:30%25,l:32.29%25,w:35.41%25,h:40%25/rs=w:1200,h:902,cg:true,m"
+    ],
     "certification_images": [],
     "wattage": "80W",
     "ip_rating": "IP20",
@@ -2578,8 +2634,10 @@
     "id": "prod42",
     "name": "DOWNLIGHT",
     "description": "The LED Downlight is a high-performance recessed lighting solution. With a die-cast aluminium body for passive cooling, anti-glare design, and a lifespan of up to 36,000 hours, it is ideal for commercial and residential spaces.",
-    "main_image": "/productGallery/prod42_DOWNLIGHT_1.jpeg",
-    "images": ["/productGallery/prod42_DOWNLIGHT_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2914.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:1000,h:752,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2914.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:1000,h:752,cg:true"
+    ],
     "certification_images": [],
     "wattage": "10W - 24W",
     "ip_rating": "",
@@ -2656,12 +2714,13 @@
     "id": "prod43",
     "name": "BLAZE",
     "description": "The BLAZE is a high-performance lighting solution designed for industrial and commercial environments. Featuring a high-impact clear polycarbonate diffuser, durable aluminium casing, and IP66/IK10 ratings, it offers superior durability and performance.",
-    "main_image": "/productGallery/prod43_BLAZE_1.JPEG",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A958F427-6B99-400C-B2B4-164046D7E24C.JPEG/:/rs=w:2560,h:1920",
     "images": [
-      "/productGallery/prod43_BLAZE_1.JPEG",
-      "/productGallery/prod43_BLAZE_2.jpeg",
-      "/productGallery/prod43_BLAZE_3.JPEG",
-      "/productGallery/prod43_BLAZE_4.jpeg"
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A958F427-6B99-400C-B2B4-164046D7E24C.JPEG/:/rs=w:2560,h:1920",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/E788765C-53E5-407E-8A5B-70153794314D.jpeg/:/rs=w:2560,h:1920",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/9B0D497B-FB0F-44C0-974F-D21DD3DE7DAC.JPEG/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2560,h:1920",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/A958F427-6B99-400C-B2B4-164046D7E24C.JPEG/:/rs=w:2560,h:1920",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2312.jpeg/:/rs=w:2560,h:1920"
     ],
     "certification_images": [],
     "wattage": "60W",
@@ -2747,10 +2806,10 @@
     "id": "prod44",
     "name": "Titan Baro EP",
     "description": "The Explosion Protected Flood Light is designed for hazardous environments, providing robust and efficient illumination in areas classified as Zone 2, Zone 21, and Zone 22. Engineered with explosion-proof protection, it ensures maximum safety and reliability.",
-    "main_image": "/productGallery/prod44_TITAN_BARO_EP_1.jpeg",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2878.jpeg/:/cr=t:0%25,l:5.67%25,w:88.67%25,h:100%25/rs=w:1200,h:902,cg:true",
     "images": [
-      "/productGallery/prod44_TITAN_BARO_EP_1.jpeg",
-      "/productGallery/prod44_TITAN_BARO_EP_2.jpeg"
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2878.jpeg/:/cr=t:0%25,l:5.67%25,w:88.67%25,h:100%25/rs=w:1200,h:902,cg:true",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2973.jpeg/:/rs=w:1280,h:603"
     ],
     "certification_images": [],
     "wattage": "75W - 200W",
@@ -2863,8 +2922,10 @@
     "id": "prod45",
     "name": "Divinity EP",
     "description": "The Explosion Protected Linear LED is a highly durable and energy-efficient lighting solution designed for hazardous environments. Engineered with an explosion-proof housing, it ensures reliable performance in areas with flammable gases, vapors, and dust. Ideal for industrial zones, chemical plants, and oil refineries.",
-    "main_image": "/productGallery/prod45_DIVINITY_EP_1.png",
-    "images": ["/productGallery/prod45_DIVINITY_EP_1.png"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2879.png/:/cr=t:0%25,l:16.06%25,w:67.87%25,h:100%25/rs=w:600,h:451.12781954887214,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2879.png/:/cr=t:0%25,l:16.06%25,w:67.87%25,h:100%25/rs=w:600,h:451.12781954887214,cg:true"
+    ],
     "certification_images": [],
     "wattage": "",
     "ip_rating": "IP66",
@@ -2922,8 +2983,10 @@
     "id": "prod46",
     "name": "DOWNLIGHT",
     "description": "The LED Downlight 24W is a high-performance recessed lighting solution designed for modern residential and commercial applications. With back-lit technology, anti-glare optics, and die-cast aluminium housing for passive cooling, it ensures superior light quality and durability.",
-    "main_image": "/productGallery/prod46_DOWNLIGHT_1.png",
-    "images": ["/productGallery/prod46_DOWNLIGHT_1.png"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/blob-0654115.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/blob-0654115.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984"
+    ],
     "certification_images": [],
     "wattage": "24W",
     "ip_rating": "",
@@ -3000,8 +3063,10 @@
     "id": "prod47",
     "name": "DOWNLIGHT",
     "description": "The LED Downlight 15W provides sleek, modern recessed lighting with superior efficiency. Featuring a die-cast aluminium housing, back-lit LED design, and anti-glare optics, it is ideal for various applications including offices, homes, and retail spaces.",
-    "main_image": "/productGallery/prod47_DOWNLIGHT_1.png",
-    "images": ["/productGallery/prod47_DOWNLIGHT_1.png"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/blob-b12f672.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/blob-b12f672.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984"
+    ],
     "certification_images": [],
     "wattage": "15W",
     "ip_rating": "",
@@ -3078,8 +3143,10 @@
     "id": "prod48",
     "name": "DOWNLIGHT",
     "description": "The LED Downlight 10W is a compact recessed lighting fixture that provides efficient and high-quality illumination. With its back-lit technology and anti-glare design, it is ideal for residential and commercial applications.",
-    "main_image": "/productGallery/prod48_DOWNLIGHT_1.png",
-    "images": ["/productGallery/prod48_DOWNLIGHT_1.png"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/blob-4824d47.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/blob-4824d47.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:984"
+    ],
     "certification_images": [],
     "wattage": "10W",
     "ip_rating": "",
@@ -3156,11 +3223,11 @@
     "id": "prod57",
     "name": "DOLPHIN",
     "description": "The Solar LED Dolphin Light is a patent-designed integrated solar lighting solution with a curved solar panel for enhanced charge efficiency. Featuring a PIR motion sensor, intelligent charging management, and rugged IP65 durability, this light is ideal for various outdoor applications.",
-    "main_image": "/productGallery/prod57_DOLPHIN_1.png",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2853.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280,h:853",
     "images": [
-      "/productGallery/prod57_DOLPHIN_1.png",
-      "/productGallery/prod57_DOLPHIN_2.jpeg",
-      "/productGallery/prod57_DOLPHIN_3.jpeg"
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2853.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280,h:853",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2850.jpeg/:/cr=t:0%25,l:12.18%25,w:75.65%25,h:75.65%25/rs=w:1280,h:853",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2852.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1160,h:820"
     ],
     "certification_images": [],
     "wattage": "20W",
@@ -3235,12 +3302,12 @@
     "id": "prod58",
     "name": "PILLAR",
     "description": "The Solar LED Pillar Light is a globally patented solar lighting solution with double-sided or single-sided illumination. Designed for outdoor applications, it features an intelligent motion sensor, replaceable LiFePO4 battery, and durable IP65-rated construction for reliable operation in various environments.",
-    "main_image": "/productGallery/prod58_PILLAR_1.png",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2860.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:719,h:1079",
     "images": [
-      "/productGallery/prod58_PILLAR_1.png",
-      "/productGallery/prod58_PILLAR_2.jpeg",
-      "/productGallery/prod58_PILLAR_3.png",
-      "/productGallery/prod58_PILLAR_4.jpeg"
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2860.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:719,h:1079",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2856.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1160,h:634",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2857.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:475",
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2861.jpeg/:/cr=t:0%25,l:14.62%25,w:70.76%25,h:70.76%25/rs=w:1160,h:585"
     ],
     "certification_images": [],
     "wattage": "20W",
@@ -3315,8 +3382,10 @@
     "id": "prod59",
     "name": "GEMZO",
     "description": "The GEZMO SOLAR is a fully integrated solar street lighting system, designed for long-lasting, energy-efficient performance. Featuring a smart charge controller, lithium-iron battery, and corrosion-resistant housing, this system ensures reliable illumination for outdoor and roadway applications.",
-    "main_image": "/productGallery/prod59_GEMZO_1.png",
-    "images": ["/productGallery/prod59_GEMZO_1.png"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/2C9B5126-CC0B-4CB7-8239-F1DFD084E243.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1200,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/2C9B5126-CC0B-4CB7-8239-F1DFD084E243.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1200,cg:true"
+    ],
     "certification_images": [],
     "wattage": "20W",
     "ip_rating": "IP65",
@@ -3390,8 +3459,10 @@
     "id": "prod60",
     "name": "Fridge S",
     "description": "The Fridge Tubes are energy-efficient LED solutions designed for refrigeration applications. Featuring a full polycarbonate casing, high luminous efficacy, and an ingress protection rating of IP54/IP65, these tubes provide uniform illumination in refrigerated environments.",
-    "main_image": "/productGallery/prod60_FRIDGE_S_1.jpeg",
-    "images": ["/productGallery/prod60_FRIDGE_S_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2874.jpeg/:/cr=t:25%25,l:0%25,w:100%25,h:50%25/rs=w:776,h:388,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2874.jpeg/:/cr=t:25%25,l:0%25,w:100%25,h:50%25/rs=w:776,h:388,cg:true"
+    ],
     "certification_images": [],
     "wattage": "5W - 32W",
     "ip_rating": "IP54 / IP65",
@@ -3491,8 +3562,10 @@
     "id": "prod61",
     "name": "Grow Lights",
     "description": "Grow Lights are designed to provide optimal lighting conditions for plant growth, mimicking natural sunlight with a full spectrum output. These lights enhance photosynthesis, improve plant yield, and support both vegetative and flowering growth stages.",
-    "main_image": "/productGallery/prod61_GROW_LIGHTS_1.png",
-    "images": ["/productGallery/prod61_GROW_LIGHTS_1.png"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2873.png/:/cr=t:7.28%25,l:0%25,w:100%25,h:92.72%25/rs=w:388,h:194,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2873.png/:/cr=t:7.28%25,l:0%25,w:100%25,h:92.72%25/rs=w:388,h:194,cg:true"
+    ],
     "certification_images": [],
     "wattage": "30W - 200W",
     "ip_rating": "IP65",
@@ -3568,8 +3641,10 @@
     "id": "prod62",
     "name": "UV-A Lighting",
     "description": "UV-A Lighting is designed for specialized applications such as sterilization, insect attraction, and industrial curing. Emitting wavelengths in the 315-400nm range, these lights are highly effective for disinfection and commercial use.",
-    "main_image": "/productGallery/prod62_UV_A_LIGHTING_1.jpeg",
-    "images": ["/productGallery/prod62_UV_A_LIGHTING_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2872.jpeg/:/cr=t:23.74%25,l:0%25,w:100%25,h:52.51%25/rs=w:776,h:388,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2872.jpeg/:/cr=t:23.74%25,l:0%25,w:100%25,h:52.51%25/rs=w:776,h:388,cg:trueca"
+    ],
     "certification_images": [],
     "wattage": "10W - 100W",
     "ip_rating": "IP54",
@@ -3644,8 +3719,10 @@
     "id": "prod63",
     "name": "12V DC LED Strip",
     "description": "The 12V DC LED Strip is a flexible and energy-efficient lighting solution for a variety of applications. Featuring high-lumen output, multiple color temperature options, and a durable silicone coating, this LED strip provides bright, uniform illumination for accent, decorative, and task lighting.",
-    "main_image": "/productGallery/prod63_12V_DC_LED_STRIP_1.jpeg",
-    "images": ["/productGallery/prod63_12V_DC_LED_STRIP_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2919.jpeg/:/cr=t:0%25,l:32.81%25,w:67.19%25,h:100%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2919.jpeg/:/cr=t:0%25,l:32.81%25,w:67.19%25,h:100%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
     "certification_images": [],
     "wattage": "4.8W/m - 14.4W/m",
     "ip_rating": "IP20 / IP65 / IP67",
@@ -3724,8 +3801,10 @@
     "id": "prod49",
     "name": "M16 IP68 Waterproof Connector",
     "description": "The M16 IP68 Waterproof Connector provides reliable terminal connections for 2-pin and 3-pin configurations. Designed for industrial and outdoor applications requiring durable, watertight electrical connections.",
-    "main_image": "/productGallery/prod49_M16_IP68_WATERPROOF_CONNECTOR_1.webp",
-    "images": ["/productGallery/prod49_M16_IP68_WATERPROOF_CONNECTOR_1.webp"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2796.webp/:/cr=t:4.15%25,l:0%25,w:100%25,h:75.19%25/rs=w:640,h:481,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2796.webp/:/cr=t:4.15%25,l:0%25,w:100%25,h:75.19%25/rs=w:640,h:481,cg:true"
+    ],
     "certification_images": [],
     "wattage": "",
     "ip_rating": "IP68",
@@ -3772,8 +3851,10 @@
     "id": "prod50",
     "name": "2-Way Splicing Connector",
     "description": "The 2-Way Splicing Connector is a compact and efficient wire connector with quick clamp-close functionality for fast and secure electrical connections.",
-    "main_image": "/productGallery/prod50_2_WAY_SPLICING_CONNECTOR_1.jpeg",
-    "images": ["/productGallery/prod50_2_WAY_SPLICING_CONNECTOR_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2798.jpeg/:/cr=t:10.02%25,l:0%25,w:100%25,h:79.97%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2798.jpeg/:/cr=t:10.02%25,l:0%25,w:100%25,h:79.97%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
     "certification_images": [],
     "wattage": "",
     "ip_rating": "",
@@ -3815,8 +3896,10 @@
     "id": "prod51",
     "name": "3-Way Splicing Connector",
     "description": "The 3-Way Splicing Connector enables efficient and secure three-wire connections, featuring quick-connect and clamp-close technology.",
-    "main_image": "/productGallery/prod51_3_WAY_SPLICING_CONNECTOR_1.jpeg",
-    "images": ["/productGallery/prod51_3_WAY_SPLICING_CONNECTOR_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2799.jpeg/:/cr=t:7.13%25,l:0%25,w:100%25,h:84.77%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2799.jpeg/:/cr=t:7.13%25,l:0%25,w:100%25,h:84.77%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
     "certification_images": [],
     "wattage": "",
     "ip_rating": "",
@@ -3858,8 +3941,10 @@
     "id": "prod52",
     "name": "IP68 Junction Box",
     "description": "The IP68 Junction Box is a robust and airtight connection solution for electrical wiring, available in 3-way, 4-way, and 5-way connector options.",
-    "main_image": "/productGallery/prod52_IP68_JUNCTION_BOX_1.jpeg",
-    "images": ["/productGallery/prod52_IP68_JUNCTION_BOX_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2802.jpeg/:/cr=t:17.05%25,l:0%25,w:100%25,h:77.57%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2802.jpeg/:/cr=t:17.05%25,l:0%25,w:100%25,h:77.57%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
     "certification_images": [],
     "wattage": "",
     "ip_rating": "IP68",
@@ -3900,9 +3985,9 @@
     "id": "prod53",
     "name": "12 Terminal Strip Wire Connector",
     "description": "The 12 Terminal Strip Wire Connector, also known as a chocolate block, provides a screw-close connection for secure wiring applications.",
-    "main_image": "/productGallery/prod53_12_TERMINAL_STRIP_WIRE_CONNECTOR_1.jpeg",
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2803.jpeg/:/cr=t:11.22%25,l:0%25,w:100%25,h:77.57%25/rs=w:388,h:291.72932330827064,cg:true",
     "images": [
-      "/productGallery/prod53_12_TERMINAL_STRIP_WIRE_CONNECTOR_1.jpeg"
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2803.jpeg/:/cr=t:11.22%25,l:0%25,w:100%25,h:77.57%25/rs=w:388,h:291.72932330827064,cg:true"
     ],
     "certification_images": [],
     "wattage": "",
@@ -3944,8 +4029,10 @@
     "id": "prod54",
     "name": "Push Spring Connector Terminal",
     "description": "The Push Spring Connector Terminal is a quick and reliable wiring solution, designed for solid and flexible wire connections. Featuring a 3x3 way configuration, it provides secure and efficient electrical connections in industrial and commercial applications.",
-    "main_image": "/productGallery/prod54_PUSH_SPRING_CONNECTOR_TERMINAL_1.jpeg",
-    "images": ["/productGallery/prod54_PUSH_SPRING_CONNECTOR_TERMINAL_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2804.jpeg/:/cr=t:11.22%25,l:0%25,w:100%25,h:77.57%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2804.jpeg/:/cr=t:11.22%25,l:0%25,w:100%25,h:77.57%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
     "certification_images": [],
     "wattage": "",
     "ip_rating": "",
@@ -3987,8 +4074,10 @@
     "id": "prod55",
     "name": "5-Way Splicing Connector",
     "description": "The 5-Way Splicing Connector is designed for quick and secure electrical connections, supporting up to five wires with a clamp-close mechanism for efficient installation.",
-    "main_image": "/productGallery/prod55_5_WAY_SPLICING_CONNECTOR_1.jpeg",
-    "images": ["/productGallery/prod55_5_WAY_SPLICING_CONNECTOR_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2800.jpeg/:/cr=t:3.29%25,l:0%25,w:100%25,h:93.43%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2800.jpeg/:/cr=t:3.29%25,l:0%25,w:100%25,h:93.43%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
     "certification_images": [],
     "wattage": "",
     "ip_rating": "",
@@ -4030,8 +4119,10 @@
     "id": "prod56",
     "name": "Inline Splicing Wire Connector",
     "description": "The Inline Splicing Wire Connector offers a secure and efficient solution for inline electrical connections, featuring a clamp-close mechanism and quick-connect functionality.",
-    "main_image": "/productGallery/prod56_INLINE_SPLICING_WIRE_CONNECTOR_1.jpeg",
-    "images": ["/productGallery/prod56_INLINE_SPLICING_WIRE_CONNECTOR_1.jpeg"],
+    "main_image": "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2801.jpeg/:/cr=t:11.31%25,l:0%25,w:100%25,h:84.77%25/rs=w:388,h:291.72932330827064,cg:true",
+    "images": [
+      "https://img1.wsimg.com/isteam/ip/298be12f-20a9-4dff-88eb-548503cdfe70/IMG_2801.jpeg/:/cr=t:11.31%25,l:0%25,w:100%25,h:84.77%25/rs=w:388,h:291.72932330827064,cg:true"
+    ],
     "certification_images": [],
     "wattage": "",
     "ip_rating": "",
