@@ -16,6 +16,10 @@
     "name": "Retrofit LED Tubes"
   },
   {
+    "id": "cat16",
+    "name": "Factory Lighting"
+  },
+  {
     "id": "cat5",
     "name": "Street Lighting"
   },
@@ -60,4 +64,3 @@
     "name": "12V DC LED Strip"
   }
 ]
-
