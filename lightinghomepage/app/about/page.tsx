@@ -98,7 +98,7 @@ export default function AboutPage() {
             <div className="relative">
               <div className="relative h-[500px] rounded-3xl overflow-hidden shadow-2xl">
                 <Image
-                  src="/placeholder.svg?height=1000&width=800&text=Our+Team"
+                  src="/HomeImages/palcofon15.jpeg"
                   alt="Palcofon team"
                   fill
                   className="object-cover"
@@ -669,7 +669,7 @@ export default function AboutPage() {
             <div className="order-2 md:order-1">
               <div className="relative h-[500px] rounded-3xl overflow-hidden shadow-2xl">
                 <Image
-                  src="/placeholder.svg?height=1000&width=800&text=Sustainable+Development"
+                  src="/HomeImages/palcofon_5.JPG"
                   alt="Sustainable development"
                   fill
                   className="object-cover"
