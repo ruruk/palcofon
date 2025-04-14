@@ -167,7 +167,7 @@ export default function Navbar() {
             <Link href="/" className="flex items-center space-x-3 z-10">
               <div className="relative">
                 <Image
-                  src="https://palcofon.co.za/wp-content/uploads/2020/08/cropped-Palcofon-Logo_png.png"
+                  src="/palcofonLogo.png"
                   alt="Palcofon Logo"
                   width={isScrolled ? 40 : 48}
                   height={isScrolled ? 40 : 48}

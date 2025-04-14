@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     siteName: "Palcofon Lighting",
     images: [
       {
-        url: "/Palcofon-Logo.png",
+        url: "/palcofonLogo.png",
         width: 1200,
         height: 630,
         alt: "Palcofon Lighting Solutions",
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     title: "Palcofon Lighting Solutions",
     description:
       "Discover premium lighting solutions for your home and business.",
-    images: ["/Palcofon-Logo.png"],
+    images: ["/palcofonLogo.png"],
   },
   robots: {
     index: true,
@@ -72,7 +72,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/Palcofon-Logo.png" />
+        <link rel="icon" href="/palcofonLogo.png" />
       </head>
       <body className={inter.className}>
         <ProductInquiryProvider>
