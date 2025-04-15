@@ -36,11 +36,17 @@ export default function AboutPage() {
               About <span className="text-primary">Palcofon</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 font-medium">
-              Established in 2011, Palcofon is a Black-owned company with B-BBEE
-              Level 1 status, committed to providing energy-efficient lighting
-              solutions across Africa. Our ownership includes both women and
-              youth, reflecting our dedication to inclusive economic growth.
+              Palcofon (Pty) Ltd was established in 2011, and since 2018, we've
+              specialized in energy efficiency. We are a Black-owned company
+              with B-BBEE Level 1 status.
+              <br />
+              Palco is committed to providing energy-efficient lighting
+              solutions across Africa.
+              <br />
+              Our ownership includes both women and youth, reflecting our
+              dedication to inclusive economic growth.
             </p>
+
             <div className="flex flex-wrap gap-4">
               <Link
                 href="/products"
