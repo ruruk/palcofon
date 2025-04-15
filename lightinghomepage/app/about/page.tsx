@@ -40,8 +40,10 @@ export default function AboutPage() {
               specialized in energy efficiency. We are a Black-owned company
               with B-BBEE Level 1 status.
               <br />
-              Palco is committed to providing energy-efficient lighting
+              <br />
+              Palcofon is committed to providing energy-efficient lighting
               solutions across Africa.
+              <br />
               <br />
               Our ownership includes both women and youth, reflecting our
               dedication to inclusive economic growth.
