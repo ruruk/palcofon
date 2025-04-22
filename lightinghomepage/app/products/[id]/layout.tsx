@@ -60,7 +60,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       images: [absoluteImageUrl],
     },
     other: {
-      "og:product:price:amount": product.price || "0.00",
       "og:product:price:currency": "ZAR",
       "og:product:availability": "in stock",
       "og:product:brand": "Palcofon Lighting",

@@ -41,12 +41,12 @@ export default function AboutPage() {
               with B-BBEE Level 1 status.
               <br />
               <br />
-              Palcofon is committed to providing energy-efficient lighting
-              solutions across Africa.
-              <br />
-              <br />
               Our ownership includes both women and youth, reflecting our
               dedication to inclusive economic growth.
+              <br />
+              <br />
+              Palcofon is committed to providing energy-efficient lighting
+              solutions across Africa.
             </p>
 
             <div className="flex flex-wrap gap-4">
