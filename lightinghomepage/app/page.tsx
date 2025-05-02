@@ -62,6 +62,15 @@ export default function Home() {
   const [currentHeroSlide, setCurrentHeroSlide] = useState(0);
   const heroSlides = [
     {
+      title: "Renewable Energy Solutions for a Sustainable Future",
+      description:
+        "Energy-efficient LED lighting and solar solutions designed to reduce costs and environmental impact across Eswatini.",
+      image: "/HomeImages/1.png",
+      alt: "Energy efficient LED lighting installation",
+      primaryButton: { text: "View Solutions", link: "/products" },
+      secondaryButton: { text: "Contact Us", link: "/contact" },
+    },
+    {
       title: "Illuminate Your Space with High-Quality Lighting Solutions",
       description:
         "Energy-efficient, durable lighting designs for every space. Transform your environment with our premium solutions.",

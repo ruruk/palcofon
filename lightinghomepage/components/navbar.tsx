@@ -336,10 +336,10 @@ export default function Navbar() {
             <div className="flex items-center space-x-2">
               {/* Contact Button - Desktop */}
               <Link
-                href="/contact"
-                className="hidden md:inline-flex h-10 items-center justify-center rounded-xl bg-primary px-4 py-2 text-sm font-bold text-white shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
+                href="https://wa.me/27823317877"
+                className="hidden md:inline-flex h-10 items-center justify-center rounded-xl bg-green-500 px-4 py-2 text-md font-bold text-white shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
               >
-                Contact Us
+                WhatsApp
               </Link>
 
               {/* Mobile Menu Button */}
@@ -550,11 +550,11 @@ export default function Navbar() {
 
               {/* Mobile Contact Button */}
               <Link
-                href="/contact"
-                className="block w-full rounded-xl bg-primary px-4 py-3 text-center text-base font-bold text-white hover:bg-primary/90 transition-colors"
+                href="https://wa.me/27823317877"
+                className="block w-full rounded-xl bg-green-500 px-4 py-3 text-center text-base font-bold text-white hover:bg-primary/90 transition-colors"
                 onClick={() => setIsMenuOpen(false)}
               >
-                Contact Us
+                WhatsApp
               </Link>
             </div>
           </div>
