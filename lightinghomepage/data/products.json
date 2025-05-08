@@ -230,16 +230,7 @@
     "housing_material": "Aluminium Heatsink, High Impact Polycarbonate Diffuser",
     "dimming": "No",
     "operating_temperature": "-25°C to +45°C",
-    "additional_images": [
-      {
-        "title": "Light Distribution Options",
-        "image": "https://img1.wsimg.com/isteam/ip/example/Titan_distribution.png"
-      },
-      {
-        "title": "Thermal Efficiency",
-        "image": "https://img1.wsimg.com/isteam/ip/example/Titan_thermal.png"
-      }
-    ],
+    "additional_images": [],
     "video_link": "",
     "video_type": "",
     "PDF_link": "/PDFs/TitanModular.pdf",
