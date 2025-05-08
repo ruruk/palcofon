@@ -18,6 +18,7 @@ import {
   BadgeCheck,
   Search,
   ArrowRight,
+  CheckCircle,
 } from "lucide-react";
 import { useToast } from "@/components/ui/use-toast";
 import productsData from "@/data/products.json";
@@ -41,11 +42,15 @@ export default function ProductsPageContent() {
   const searchInputRef = useRef<HTMLInputElement>(null);
   const searchResultsRef = useRef<HTMLDivElement>(null);
 
+  // Add the showConfirmationPopup state
+  const [showConfirmationPopup, setShowConfirmationPopup] = useState(false);
+  const [currentProduct, setCurrentProduct] = useState<any>(null);
+
   // Get the inquiry context and toast
   const { addToInquiry } = useProductInquiry();
   const { toast } = useToast();
 
-  // In the product catalog page, we're passing only id and name to addToInquiry
+  // Modify the handleAddToInquiry function to show the popup
   const handleAddToInquiry = (product: any) => {
     try {
       console.log("Adding product to inquiry from catalog:", product);
@@ -62,6 +67,13 @@ export default function ProductsPageContent() {
         description: `${product.name} has been added to your inquiry list.`,
         duration: 3000,
       });
+
+      // Set the current product and show the confirmation popup
+      setCurrentProduct(product);
+      setShowConfirmationPopup(true);
+
+      // Force a re-render of components that depend on the inquiry state
+      window.dispatchEvent(new Event("storage"));
     } catch (error) {
       console.error("Error adding product to inquiry:", error);
       toast({
@@ -221,6 +233,35 @@ export default function ProductsPageContent() {
     setSearchQuery("");
     router.push("/products");
   };
+
+  // Add the animation keyframes to the document
+  useEffect(() => {
+    // Create a style element
+    const style = document.createElement("style");
+    // Define the keyframes
+    style.textContent = `
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: scale(0.95);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+  .animate-fadeIn {
+    animation: fadeIn 0.2s ease-out forwards;
+  }
+`;
+    // Append the style element to the head
+    document.head.appendChild(style);
+
+    // Clean up
+    return () => {
+      document.head.removeChild(style);
+    };
+  }, []);
 
   return (
     <>
@@ -932,6 +973,46 @@ export default function ProductsPageContent() {
           )}
         </div>
       </div>
+      {showConfirmationPopup && currentProduct && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50 backdrop-blur-sm transition-all duration-300">
+          <div className="bg-white rounded-2xl max-w-md w-full shadow-2xl border border-gray-100 overflow-hidden transform transition-all animate-fadeIn">
+            <div className="p-6 text-center">
+              <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-6">
+                <CheckCircle className="h-10 w-10 text-primary" />
+              </div>
+              <h3 className="text-2xl font-bold text-gray-800 mb-2">
+                Product Added to Inquiry
+              </h3>
+              <p className="text-gray-600 mb-6">
+                {currentProduct.name} has been added to your inquiry list. What
+                would you like to do next?
+              </p>
+              <div className="flex flex-col sm:flex-row gap-3 justify-center">
+                <button
+                  onClick={() => {
+                    setShowConfirmationPopup(false);
+                    document
+                      .querySelector("[data-inquiry-fab]")
+                      ?.dispatchEvent(
+                        new MouseEvent("click", { bubbles: true })
+                      );
+                  }}
+                  className="px-6 py-3 bg-primary text-white rounded-xl hover:bg-primary/90 transition-all font-semibold flex items-center justify-center"
+                >
+                  <ShoppingCart className="h-5 w-5 mr-2" />
+                  View Inquiry
+                </button>
+                <button
+                  onClick={() => setShowConfirmationPopup(false)}
+                  className="px-6 py-3 bg-white text-primary border-2 border-primary rounded-xl hover:bg-primary/10 transition-all font-semibold"
+                >
+                  Continue Shopping
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
     </>
   );
 }

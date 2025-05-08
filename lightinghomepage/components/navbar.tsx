@@ -102,6 +102,13 @@ export default function Navbar() {
     };
   }, []);
 
+  // Add timeout variables for dropdown menus
+  const [productsTimeout, setProductsTimeout] = useState<NodeJS.Timeout | null>(
+    null
+  );
+  const [applicationsTimeout, setApplicationsTimeout] =
+    useState<NodeJS.Timeout | null>(null);
+
   // Prevent body scrolling when mobile menu is open
   useEffect(() => {
     if (isMenuOpen) {
@@ -151,6 +158,14 @@ export default function Navbar() {
     }
   };
 
+  // Clean up timeouts when component unmounts
+  useEffect(() => {
+    return () => {
+      if (productsTimeout) clearTimeout(productsTimeout);
+      if (applicationsTimeout) clearTimeout(applicationsTimeout);
+    };
+  }, [productsTimeout, applicationsTimeout]);
+
   return (
     <>
       <header
@@ -167,7 +182,7 @@ export default function Navbar() {
             <Link href="/" className="flex items-center space-x-3 z-10">
               <div className="relative">
                 <Image
-                  src="/palcofonLogo.png"
+                  src="https://palcofon.co.za/wp-content/uploads/2020/08/cropped-Palcofon-Logo_png.png"
                   alt="Palcofon Logo"
                   width={isScrolled ? 40 : 48}
                   height={isScrolled ? 40 : 48}
@@ -202,8 +217,19 @@ export default function Navbar() {
               <div
                 className="relative"
                 ref={productsDropdownRef}
-                onMouseEnter={() => setIsProductsDropdownOpen(true)}
-                onMouseLeave={() => setIsProductsDropdownOpen(false)}
+                onMouseEnter={() => {
+                  if (productsTimeout) {
+                    clearTimeout(productsTimeout);
+                    setProductsTimeout(null);
+                  }
+                  setIsProductsDropdownOpen(true);
+                }}
+                onMouseLeave={() => {
+                  const timeout = setTimeout(() => {
+                    setIsProductsDropdownOpen(false);
+                  }, 300);
+                  setProductsTimeout(timeout);
+                }}
               >
                 <Link
                   href="/products"
@@ -226,22 +252,22 @@ export default function Navbar() {
                 </Link>
 
                 {isProductsDropdownOpen && (
-                  <div className="absolute left-0 mt-2 w-72 bg-white rounded-2xl shadow-xl py-4 z-10 border border-gray-100 dark:bg-gray-800 dark:border-gray-700">
-                    <div className="px-4 py-2 font-bold text-gray-900 border-b border-gray-100 mb-2 dark:text-white dark:border-gray-700">
+                  <div className="absolute left-0 mt-2 w-72 bg-white rounded-2xl shadow-xl py-4 z-10 border border-gray-100">
+                    <div className="px-4 py-2 font-bold text-gray-900 border-b border-gray-100 mb-2">
                       Categories
                     </div>
                     <div className="max-h-[60vh] overflow-y-auto custom-scrollbar px-2">
                       {categoriesData.map((category) => (
                         <button
                           key={category.id}
-                          className="block w-full text-left px-4 py-2 text-gray-700 hover:bg-gray-100 rounded-xl my-1 font-medium transition-colors dark:text-gray-200 dark:hover:bg-gray-700"
+                          className="block w-full text-left px-4 py-2 text-gray-700 hover:bg-gray-100 rounded-xl my-1 font-medium transition-colors"
                           onClick={() => handleCategoryClick(category.id)}
                         >
                           {category.name}
                         </button>
                       ))}
                     </div>
-                    <div className="px-4 pt-4 mt-2 border-t border-gray-100 dark:border-gray-700">
+                    <div className="px-4 pt-4 mt-2 border-t border-gray-100">
                       <Link
                         href="/products"
                         className="inline-flex items-center justify-center w-full px-4 py-2 bg-primary text-white rounded-xl font-bold hover:bg-primary/90 transition-colors"
@@ -257,8 +283,19 @@ export default function Navbar() {
               <div
                 className="relative"
                 ref={applicationsDropdownRef}
-                onMouseEnter={() => setIsApplicationsDropdownOpen(true)}
-                onMouseLeave={() => setIsApplicationsDropdownOpen(false)}
+                onMouseEnter={() => {
+                  if (applicationsTimeout) {
+                    clearTimeout(applicationsTimeout);
+                    setApplicationsTimeout(null);
+                  }
+                  setIsApplicationsDropdownOpen(true);
+                }}
+                onMouseLeave={() => {
+                  const timeout = setTimeout(() => {
+                    setIsApplicationsDropdownOpen(false);
+                  }, 300);
+                  setApplicationsTimeout(timeout);
+                }}
               >
                 <Link
                   href="/applications"
@@ -279,22 +316,22 @@ export default function Navbar() {
                 </Link>
 
                 {isApplicationsDropdownOpen && (
-                  <div className="absolute left-0 mt-2 w-72 bg-white rounded-2xl shadow-xl py-4 z-10 border border-gray-100 dark:bg-gray-800 dark:border-gray-700">
-                    <div className="px-4 py-2 font-bold text-gray-900 border-b border-gray-100 mb-2 dark:text-white dark:border-gray-700">
+                  <div className="absolute left-0 mt-2 w-72 bg-white rounded-2xl shadow-xl py-4 z-10 border border-gray-100">
+                    <div className="px-4 py-2 font-bold text-gray-900 border-b border-gray-100 mb-2">
                       Applications
                     </div>
                     <div className="max-h-[60vh] overflow-y-auto custom-scrollbar px-2">
                       {applicationsData.map((application) => (
                         <button
                           key={application.id}
-                          className="block w-full text-left px-4 py-2 text-gray-700 hover:bg-gray-100 rounded-xl my-1 font-medium transition-colors dark:text-gray-200 dark:hover:bg-gray-700"
+                          className="block w-full text-left px-4 py-2 text-gray-700 hover:bg-gray-100 rounded-xl my-1 font-medium transition-colors"
                           onClick={() => handleApplicationClick(application.id)}
                         >
                           {application.name}
                         </button>
                       ))}
                     </div>
-                    <div className="px-4 pt-4 mt-2 border-t border-gray-100 dark:border-gray-700">
+                    <div className="px-4 pt-4 mt-2 border-t border-gray-100">
                       <Link
                         href="/applications"
                         className="inline-flex items-center justify-center w-full px-4 py-2 bg-primary text-white rounded-xl font-bold hover:bg-primary/90 transition-colors"
@@ -336,10 +373,10 @@ export default function Navbar() {
             <div className="flex items-center space-x-2">
               {/* Contact Button - Desktop */}
               <Link
-                href="https://wa.me/27823317877"
-                className="hidden md:inline-flex h-10 items-center justify-center rounded-xl bg-green-500 px-4 py-2 text-md font-bold text-white shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
+                href="/contact"
+                className="hidden md:inline-flex h-10 items-center justify-center rounded-xl bg-primary px-4 py-2 text-sm font-bold text-white shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
               >
-                WhatsApp
+                Contact Us
               </Link>
 
               {/* Mobile Menu Button */}
@@ -392,11 +429,10 @@ export default function Navbar() {
           onClick={() => setIsMenuOpen(false)}
         >
           <div
-            className="fixed top-0 right-0 pt-30 h-screen w-[80%] max-w-sm bg-white shadow-xl z-[100] overflow-y-auto transition-transform duration-300 transform translate-x-0"
+            className="fixed top-0 right-0 h-screen w-[80%] max-w-sm bg-white shadow-xl z-[100] overflow-y-auto transition-transform duration-300 transform translate-x-0"
             onClick={(e) => e.stopPropagation()}
-            style={{ paddingTop: "70px" }}
           >
-            <div className="p-6 space-y-6 pt-30">
+            <div className="p-6 space-y-6 pt-15">
               {/* Mobile Navigation Links */}
               <nav className="space-y-3">
                 <Link
@@ -413,7 +449,7 @@ export default function Navbar() {
                 </Link>
 
                 {/* Products Accordion */}
-                <div className="border-b border-gray-200 pb-3 dark:border-gray-700">
+                <div className="border-b border-gray-200 pb-3 ">
                   <div className="flex w-full items-center justify-between rounded-xl p-3 font-bold">
                     <Link
                       href="/products"
@@ -469,7 +505,7 @@ export default function Navbar() {
                 </div>
 
                 {/* Applications Accordion */}
-                <div className="border-b border-gray-200 pb-3 dark:border-gray-700">
+                <div className="border-b border-gray-200 pb-3 ">
                   <div className="flex w-full items-center justify-between rounded-xl p-3 font-bold">
                     <Link
                       href="/applications"
@@ -550,11 +586,11 @@ export default function Navbar() {
 
               {/* Mobile Contact Button */}
               <Link
-                href="https://wa.me/27823317877"
-                className="block w-full rounded-xl bg-green-500 px-4 py-3 text-center text-base font-bold text-white hover:bg-primary/90 transition-colors"
+                href="/contact"
+                className="block w-full rounded-xl bg-primary px-4 py-3 text-center text-base font-bold text-white hover:bg-primary/90 transition-colors"
                 onClick={() => setIsMenuOpen(false)}
               >
-                WhatsApp
+                Contact Us
               </Link>
             </div>
           </div>
