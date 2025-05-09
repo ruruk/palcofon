@@ -182,7 +182,7 @@ export default function Navbar() {
             <Link href="/" className="flex items-center space-x-3 z-10">
               <div className="relative">
                 <Image
-                  src="/palcofonGlobe.png"
+                  src="https://palcofon.co.za/wp-content/uploads/2020/08/cropped-Palcofon-Logo_png.png"
                   alt="Palcofon Logo"
                   width={isScrolled ? 40 : 48}
                   height={isScrolled ? 40 : 48}
@@ -432,7 +432,7 @@ export default function Navbar() {
             className="fixed top-0 right-0 h-screen w-[80%] max-w-sm bg-white shadow-xl z-[100] overflow-y-auto transition-transform duration-300 transform translate-x-0"
             onClick={(e) => e.stopPropagation()}
           >
-            <div className="p-6 space-y-6 pt-15">
+            <div className="p-6 space-y-6 pt-20">
               {/* Mobile Navigation Links */}
               <nav className="space-y-3">
                 <Link
