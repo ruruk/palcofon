@@ -230,7 +230,16 @@
     "housing_material": "Aluminium Heatsink, High Impact Polycarbonate Diffuser",
     "dimming": "No",
     "operating_temperature": "-25°C to +45°C",
-    "additional_images": [],
+    "additional_images": [
+      {
+        "title": "Light Distribution Options",
+        "image": "https://img1.wsimg.com/isteam/ip/example/Titan_distribution.png"
+      },
+      {
+        "title": "Thermal Efficiency",
+        "image": "https://img1.wsimg.com/isteam/ip/example/Titan_thermal.png"
+      }
+    ],
     "video_link": "",
     "video_type": "",
     "PDF_link": "/PDFs/TitanModular.pdf",
@@ -2647,7 +2656,7 @@
     "id": "prod43",
     "name": "BLAZE",
     "description": "The BLAZE is a high-performance lighting solution designed for industrial and commercial environments. Featuring a high-impact clear polycarbonate diffuser, durable aluminium casing, and IP66/IK10 ratings, it offers superior durability and performance.",
-    "main_image": "/productGallery/prod43_BLAZE_1.JPEG",
+    "main_image": "/productGallery/prod43_BLAZE_2.JPEG",
     "images": [
       "/productGallery/prod43_BLAZE_1.JPEG",
       "/productGallery/prod43_BLAZE_2.jpeg",
@@ -2664,6 +2673,96 @@
     "beam_angle": "140°",
     "luminous_flux": "9600lm",
     "power_factor": "0.92",
+    "surge_protection": "6kV (10kV optional)",
+    "housing_material": "Die-cast Aluminium Casing, High Impact Clear Polycarbonate Diffuser",
+    "dimming": "1-10V",
+    "operating_temperature": "20 ~ +70°C",
+    "additional_images": [],
+    "video_link": "",
+    "video_type": "",
+    "PDF_link": "/PDFs/TitanLEDBulkhead.pdf",
+    "features": [
+      "High Lumen 3030 LED",
+      "Aluminium Heatsink for efficient thermal management",
+      "Durable Aluminium Casing with Silicone Gasket Seal",
+      "High Impact Clear Polycarbonate Diffuser",
+      "Stainless Steel Latch with Allen Key Lock",
+      "IP66 and IK10 rated for industrial-grade durability"
+    ],
+    "technical_specs": {
+      "models": [
+        {
+          "model": "BHT60",
+          "power": "60W",
+          "luminous_flux": "9600lm",
+          "beam_angle": "140°"
+        }
+      ]
+    },
+    "electrical_data": {
+      "operating_voltage": "220-240V (100 - 277V)",
+      "frequency": "50/60Hz",
+      "power_factor": "0.92",
+      "efficiency": "92%",
+      "start_up_time": "0.1S",
+      "thd": "15%"
+    },
+    "photometric_data": {
+      "luminous_flux": "160lm/w",
+      "colour_rendering_index": "<80",
+      "colour_temperature": "3000K, 5000K",
+      "sdcm": "3",
+      "light_distribution_angle": "140°",
+      "unified_glare_rating": "22"
+    },
+    "standards": {
+      "compliance": ["SANS (IEC) 60598", "IEC 60529"],
+      "ip_rating": "IP66",
+      "ik_rating": "IK10",
+      "surge_protection": "6kV (10kV optional)"
+    },
+    "operating_conditions": {
+      "operating_temperature": "20 ~ +70°C",
+      "ambient_temperature": "-40 ~ +65°C",
+      "led_life_span": "70,000 hours (L80 B10) @ 25°C"
+    },
+    "control_gear": {
+      "brand_model": "Inventronics -EUM100S280DG",
+      "lifetime": "114,000 hours @ 70°C",
+      "iout": "2.8A max",
+      "surge_protection": "6kV (10kV/20kV optional)",
+      "selv": "17-54V DC"
+    },
+    "dimensions": [
+      {
+        "model": "BHT60",
+        "length": "410mm",
+        "height": "100mm",
+        "width": "310mm",
+        "weight": "4.2Kg"
+      }
+    ]
+  },
+  {
+    "id": "prod900",
+    "name": "BLAZE EMG",
+    "description": "The BLAZE with 3 hour Emergeny Backup is a high-performance lighting solution designed for industrial and commercial environments. Featuring a high-impact clear polycarbonate diffuser, durable aluminium casing, and IP66/IK10 ratings, it offers superior durability and performance.",
+    "main_image": "/productGallery/prod43_BLAZE_1.JPEG",
+    "images": [
+      "/productGallery/prod43_BLAZE_1.JPEG",
+      "/productGallery/prod43_BLAZE_3.JPEG",
+      "/productGallery/prod43_BLAZE_4.jpeg"
+    ],
+    "certification_images": [],
+    "wattage": "60W",
+    "ip_rating": "IP66",
+    "warranty": "5 years",
+    "colour_temp": "3000K, 5000K",
+    "category_id": "cat9",
+    "application_ids": ["app8"],
+    "beam_angle": "140°",
+    "luminous_flux": "9600lm",
+    "power_factor": "0.95",
     "surge_protection": "6kV (10kV optional)",
     "housing_material": "Die-cast Aluminium Casing, High Impact Clear Polycarbonate Diffuser",
     "dimming": "1-10V",
